@@ -1,0 +1,26 @@
+/* Cindu calendar 
+   1 year comprises 16 months of 29 days
+   All months have the same shape:
+
+    lembrim uwam kayiñ vuruna imbar turat lalap
+       1    2     3      4     5     6     7
+       8    9    10     11    12    13    14
+                       cinjurak
+      15   16    17     18    19    20    21
+      22   23    24     25    26    27    28
+
+   Years whose number mod 19 is 3, 10, or 16 are leap, containing
+   an extra day inserted in one of four places, depending on which
+   of the four cardinal points is furthest from astronomical reality:
+   lecele, before the first day of the new year (to which it is considered
+   to belong); or "lekandram", following cinjurak in month 5, 9, or 13.
+
+   We don't have enough data about Cindu's orbit to do 
+   accurate astronomical calculations about its equinoxes and solstices,
+   so when placing leap days, this code cycles through the four possibilties,
+   with the 
+*/
+
+
+
+

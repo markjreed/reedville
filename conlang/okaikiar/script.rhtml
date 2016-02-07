@@ -1,0 +1,128 @@
+<html>
+
+ <head>
+  <link rel="stylesheet" type="text/css" href="index.css"/>
+  <title>Orendiar: Rendiar Okaikior</title>
+ </head>
+
+ <body>
+  <h1>Orendiar: The Okaikiar Writing System</h1>
+
+  <p align="left">
+  Okaikiar has a phonemic writing system.  Like Hangul, each syllable forms
+  a visible block, but the shape of each syllable block is constructed out
+  of symbols for the constituent segments.  So there's no
+  need to memorize 1,152 independent symbols.</p>
+
+  <p align="left"> The script is called called <a href="orenderer.rhtml"><em>Orendiar</em></a>,
+and is visible in the background image on these pages spelling out the
+word <em>Okaikiar</em>.
+  </p>
+
+  <p>
+  Each consonant is a shape formed by putting one, two, or three
+  vertical strokes on a horizontal bar, as follows:
+ </p>
+
+  <table cellspacing="2" cellpadding="2" class="overlay">
+   <tr><th>Orendiar</th><th>Roman</th></tr>
+<%
+    consonants = %w(d k l m n r z);
+    consonants.each do
+  	|c|
+	%><tr><td><img height="33" src="<%=c%>.jpg" /></td>
+	<td><%=c%></td>
+	</tr><%
+    end
+%>
+  </table>
+
+  <p>
+  The shapes above are used when discussing the segments in isolation, but
+  the actual shape used in a glyph depends upon the position of the
+  consonant within the syllable.  Initial consonants appear at the top of
+  the glyph and only have descenders on the vertical strokes.  A lone final
+  consonant appears at the bottom of the glyph and only has ascenders.  If the
+  coda is a cluster, the first segment has ascenders and the second descenders
+  from the same horizontal line.
+ </p>
+
+  <p>
+  The eight vowels are associated with portions of a diamond bisected with a
+  horizontal line:
+ </p>
+  
+  <table cellspacing="2" cellpadding="2" class="overlay">
+   <tr align="left">
+    <th>Orendiar</th>
+    <th>Roman</th>
+   </tr>
+<%
+    vowels = %w(a e i o &oslash; u y ')
+    glyphs = %w(a e i o oslash u y schwa)
+    (0...vowels.length).each do
+  	|i|
+	%><tr><td><img height="32" src="<%=glyphs[i]%>.jpg" /></td>
+	<td><%=vowels[i]%></td>
+	</tr><%
+    end
+%>
+  </table>
+
+ <p>
+  I'll demonstrate the creation of a syllable using my name, <em>Mark</em>,
+  which just happens to be a legal Okaikiar syllable.  Start with a grid of
+  twelve dots, arranged in four rows of three columns each:
+ </p>
+
+ <img src="mark0.png"/>
+
+ <p>
+  Now add <b>M</b> in the initial consonant position, along the top with
+  the strokes coming down:
+ </p>
+
+ <img src="mark1.png"/>
+
+ <p>
+  Then the <b>A</b> in the vowel position, which is a diamond centered on
+  the second row:
+ </p>
+
+ <img src="mark2.png"/>
+
+ <p>
+  Then the <b>R</b> in the <em>final</em> consonant position, with
+  the horizontal bar along the third row and the strokes pointing up:
+ </p>
+
+ <img src="mark3.png"/>
+
+ <p>
+  And finally the <b>K</b>, sharing the horizontal bar with the <b>R</b>,
+  but with the strokes pointing down instead of up:
+ </p>
+
+ <img src="mark4.png"/>
+
+ <p>
+  Yielding the finished product, the Orendiar glyph for the syllable
+  <em>mark</em>:
+ </p>
+
+ <img src="mark5.png"/>
+
+ <p>
+  Adjacent syllables can be written in the same order as English: left to right,
+  top-down, and that is the order used on these pages.  It is more common,
+  however, to see them written top-down, right-to-left.
+ </p>
+
+ <p>
+  You can render arbitrary text into Orendiar on the 
+  <a href="orenderer.rhtml">Orenderer</a> page.
+ </p>
+
+
+ </body>
+</html>

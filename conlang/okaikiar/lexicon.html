@@ -1,0 +1,117 @@
+<% require 'cgi';
+   q = CGI.new
+   puts q.header('text/html; charset=utf-8');
+%>
+<html>
+
+ <head>
+  <script>
+   var glyphwin = null
+   function openwin(url)
+   {
+	if (glyphwin == null || glyphwin.closed)
+	{
+	    glyphwin = window.open(url, "orendiar", "width=500,height=300")
+	}
+	else
+	{
+	    glyphwin.location = url
+	}
+   }
+  </script>
+  <link rel="stylesheet" type="text/css" href="/index.css"/>
+  <link rel="stylesheet" type="text/css" href="index.css"/>
+  <title>Kakden Okaikior</title>
+ </head>
+
+ <body>
+  <h1>Okaikiar Words</h1>
+
+<% WebSite.sendLinks %>
+
+<%
+    pos = [ nil, 'n', 'v', 'v', 'adv', 'pron' ]
+    labels = { 'EO' => "English-Okaikiar", 'OE' => "Okaikiar-English" }
+    dir = q['dir']
+    if dir && labels.include?(dir[0])
+	dir = dir[0]
+    else
+  	dir = 'EO'
+    end
+
+    labels.sort.each do
+	|k, v|
+	if k != dir
+	    puts %|<h3><a href="#{q.script_name}?dir=#{k}">#{v}</a></h3>|
+	else
+	    puts "<h2>#{v}</h2>"
+	end
+    end
+
+    list = { 'EO' => {},  'OE' => {} }
+
+    File.foreach("/home/mreed/etc/okaikiar/roots") do
+	|l|
+ 	e, o, p = l.split(' ')
+  	e.downcase!
+	e.gsub!('_', ' ')
+	list['EO'][e] = [o, pos[p.to_i]]
+	list['OE'][o] = [e, pos[p.to_i]]
+    end
+
+    last = nil
+%>
+
+<p>
+Click on an Okaikiar word to see it written in Orendiar.
+</p>
+
+<div style="float: left; width: 40%; margin-left: 10%; margin-right: 5%;">
+<dl>
+<%
+
+    n = 0
+    list[dir].sort.each do
+	|k, v|
+	t, p = v
+	index = k[0,1].upcase
+	if index != last then
+	if n >= list[dir].length/2  then
+%>
+</div>
+<div style="float: right; width: 45%;">
+<%
+	end
+	    puts "<h3>#{index}</h3>"
+	    last = index
+	end
+	n += 1
+	s = nil
+	if dir == 'OE' then
+	    s = k
+	else
+	    s = t
+	end
+	u = s.gsub("'", '%2527')
+	s = %|<a href="javascript:openwin('orenderer.cgi?string=#{u}')">#{s}</a>|
+	if dir == 'OE' then
+	    k = s
+	else
+	    t = s
+	end
+%>
+	<dt><%=k%></dt>
+	<dd><em><%=p%></em>. <%=t%></dd>
+<%
+    end
+%>
+    </dl>
+
+</div>
+
+<br clear="both" />
+
+<% WebSite.sendLinks %>
+ </body>
+</html>
+

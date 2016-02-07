@@ -1,0 +1,5 @@
+#   This method no longer available Please use the 
+#   'PHP Config' link in your control panel if you
+#   would like to try PHP5 FastCGI
+# AddHandler php-fastcgi .php
+AddHandler cgi-script .rhtml

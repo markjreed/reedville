@@ -1,0 +1,26 @@
+<html>
+ <head>
+  <link rel="stylesheet" type="text/css" href="index.css" />
+  <title>LatinStudy Collation Syntax Check</title>
+ </head>
+ <body>
+  <h1>LatinStudy Collation Syntax Check</h1>
+  <p>
+   Avoid giving headaches to Meredith (or Kirk or Lori or Gary or whoever
+   is collating your work)!  Copy and paste your entire assignment below
+   and click either <span class="button">Check</span> button to make sure
+   the format's acceptable to the collation script.
+  </p>
+
+  <form id="latinstudy" method="post" action="<?php 
+        echo $_SERVER['PHP_SELF'] ?>?>">
+   <table>
+    <tr><td><input type="submit" name="check" value="Check" /></td></tr>
+    <tr valign="top"><td><textarea name="assignment" cols="80" 
+	rows="50"><?php echo $_REQUEST['assignment'] ?></textarea></td></tr>
+    <tr><td><input type="submit" name="check" value="Check" /></td></tr>
+   </table>
+  </form>
+ </body>
+</html>
+

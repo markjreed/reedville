@@ -1,0 +1,6 @@
+@font-face {
+    font-family: "tengwar";
+    src: local("tengwar"), url("fonts/tnganb.ttf") format("TrueType");
+}
+
+.tengwar { font-family: "tengwar"; }

@@ -1,0 +1,753 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN">
+<HTML>
+<HEAD>
+   <META HTTP-EQUIV="Content-Type" CONTENT="text/html; charset=iso-8859-1">
+   <META NAME="GENERATOR" CONTENT="Mozilla/4.06 [en]C-gatewaynet  (Win98; I) [Netscape]">
+   <TITLE>various_notes</TITLE>
+</HEAD>
+<body BGCOLOR="#C0C0C0"><!--'"</title></head>-->
+<script type="text/javascript">
+//Compete
+__compete_code = '667f89f26d96c30e99728fe6a608804d';
+(function () { var s=document.createElement('script'),d=document.getElementsByTagName('head')[0]||document.getElementsByTagName('body')[0],t='https:'==document.location.protocol?'https://c.compete.com/bootstrap/':'http://c.compete.com/bootstrap/';s.src=t+__compete_code+'/bootstrap.js';s.type='text/javascript';s.async='async';if(d){d.appendChild(s);}})();
+//Quantcast
+function channValidator(chann){ return (typeof(chann) == 'string' && chann != '');}
+function lycosQuantcast(){ var lb = ""; if(typeof(cm_host) !== 'undefined' && channValidator(cm_host)){ lb += cm_host.split('.')[0] + '.'; }
+if(typeof(cm_taxid) !== 'undefined' && channValidator(cm_taxid)){ lb += cm_taxid; lb = lb.replace('/',''); } else { lb = lb.replace('.',''); } return lb; }
+var _qevents = _qevents || [];
+(function() {
+var elem = document.createElement('script');
+elem.src = (document.location.protocol == "https:" ? "https://secure" :"http://edge") + ".quantserve.com/quant.js";
+elem.async = true;
+elem.type = "text/javascript";
+var scpt = document.getElementsByTagName('script')[0];
+scpt.parentNode.insertBefore(elem, scpt);
+})();
+_qevents.push({ qacct:"p-6eQegedn62bSo", labels:lycosQuantcast() });
+//OwnerIQ
+var __oiq_pct = 50;
+if( __oiq_pct>=100 || Math.floor(Math.random()*100/(100-__oiq_pct)) > 0 ) {
+var _oiqq = _oiqq || [];
+_oiqq.push(['oiq_addPageBrand','Lycos']);
+_oiqq.push(['oiq_addPageCat','Internet > Websites']);
+_oiqq.push(['oiq_addPageLifecycle','Intend']);
+_oiqq.push(['oiq_doTag']);
+(function() {
+var oiq = document.createElement('script'); oiq.type = 'text/javascript'; oiq.async = true;
+oiq.src = document.location.protocol + '//px.owneriq.net/stas/s/lycosn.js';
+var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(oiq, s);
+})();
+}
+//Google Analytics
+var _gaq = _gaq || [];
+_gaq.push(['_setAccount','UA-21402695-19']);
+_gaq.push(['_setDomainName','tripod.com']);
+_gaq.push(['_setCustomVar',1,'member_name','cinduworld',3]);
+_gaq.push(['_trackPageview']);
+(function() {
+var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+})();
+//Lycos Init
+function getReferrer() {
+var all= this.document.cookie;
+if (all== '') return false;
+var cookie_name = 'REFERRER=';
+var start = all.lastIndexOf(cookie_name);
+if (start == -1) return false;
+start += cookie_name.length;
+var end = all.indexOf(';', start);
+if (end == -1) end = all.length;
+return all.substring(start, end);
+}
+function getQuery() {
+var rfr = getReferrer();
+if (rfr == '') return false;
+var q = extractQuery(rfr, 'yahoo.com', 'p=');
+if (q) return q;
+q = extractQuery(rfr, '', 'q=');
+return q ? q : "";
+}
+function extractQuery(full, site, q_param) {
+var start = full.lastIndexOf(site);
+if (start == -1) return false;
+start = full.lastIndexOf(q_param);
+if (start == -1) return false;
+start += q_param.length;
+var end = full.indexOf('&', start);
+if (end == -1) end = full.length;
+return unescape(full.substring(start, end)).split(" ").join("+");
+}
+function generateHref(atag, template){
+atag.href=template.replace('_MYURL_', window.location.href.replace('http://', '')).replace('_MYTITLE_','Check%20out%20this%20Tripod%20Member%20site!'); 
+}
+var lycos_ad = Array();
+var lycos_onload_timer;
+var cm_role = "live";
+var cm_host = "tripod.lycos.com";
+var cm_taxid = "/memberembedded";
+var tripod_member_name = "cinduworld";
+var tripod_member_page = "cinduworld/kashmisc.htm";
+var tripod_ratings_hash = "1441244037:cea24b703d8e2a57c7b09920d349e536";
+
+var lycos_ad_category = {"dmoz":"science\/chats_and_forums","ontarget":"&CAT=news&L2CAT=science%20and%20technology","find_what":"build my website"};
+
+var lycos_ad_remote_addr = "107.206.30.60";
+var lycos_ad_www_server = "www.tripod.lycos.com";
+var lycos_ad_track_small = "http://members.tripod.com/adm/img/common/ot_smallframe.gif?rand=579022";
+var lycos_ad_track_served = "http://members.tripod.com/adm/img/common/ot_adserved.gif?rand=579022";
+var lycos_search_query = getQuery();
+//Criteo
+var cto_conf = { a:true, i: "294", c:"img", kw: "" } ;
+(function (){
+var c = document.createElement("script"); c.type = "text/javascript"; c.async = true;
+c.src = "http://members.tripod.com/adm/partner/criteo_ld_kw.js";
+var s = document.getElementsByTagName("body")[0]; s.appendChild(c);
+})(); 
+</script>
+<script type="text/javascript" src="http://scripts.lycos.com/catman/init.js"></script>
+
+<script type="text/javascript"> 
+(function(isV)
+{
+    if( !isV )
+    {
+        return;
+    }
+    var adMgr = new AdManager();
+    var lycos_prod_set = adMgr.chooseProductSet();
+    var slots = ["leaderboard", "leaderboard2", "toolbar_image", "toolbar_text", "smallbox", "top_promo", "footer2", "slider"];
+    var adCat = this.lycos_ad_category;
+    adMgr.setForcedParam('page', (adCat && adCat.dmoz) ? adCat.dmoz : 'member');
+    if (this.lycos_search_query)
+    {
+        adMgr.setForcedParam("keyword", this.lycos_search_query);
+    } 
+    else if(adCat && adCat.find_what)
+    {
+        adMgr.setForcedParam('keyword', adCat.find_what);
+    }
+    
+    for (var s in slots)
+    {
+        var slot = slots[s];
+        if (adMgr.isSlotAvailable(slot))
+        {
+            this.lycos_ad[slot] = adMgr.getSlot(slot);
+        }
+    }
+
+    adMgr.renderHeader();
+    adMgr.renderFooter();
+}((function() {
+
+var w = 0, h = 0, minimumThreshold = 300;
+
+if (top == self)
+{
+    return true;
+}
+if (typeof(window.innerWidth) == 'number' )
+{
+    w = window.innerWidth;
+    h = window.innerHeight;
+}
+else if (document.documentElement && (document.documentElement.clientWidth || document.documentElement.clientHeight))
+{
+    w = document.documentElement.clientWidth;
+    h = document.documentElement.clientHeight;
+}
+else if (document.body && (document.body.clientWidth || document.body.clientHeight))
+{
+    w = document.body.clientWidth;
+    h = document.body.clientHeight;
+}
+return ((w > minimumThreshold) && (h > minimumThreshold));
+}())));
+
+
+
+
+window.onload = function()
+{
+    var f = document.getElementById("FooterAd");
+    var b = document.getElementsByTagName("body")[0];
+    b.appendChild(f);
+    f.style.display = "block";
+    document.getElementById('lycosFooterAdiFrame').src = '/adm/ad/footerAd.iframe.html';
+    
+
+
+    
+    // DOM Inj Ad
+    (function(isTrellix)
+    {
+        var e = document.createElement('iframe');
+        e.style.border = '0';
+        e.style.margin = 0;
+        e.style.display = 'block';
+        e.style.cssFloat = 'right';
+        e.style.height = '254px';
+        e.style.overflow = 'hidden';
+        e.style.padding = 0;
+        e.style.width = '300px';
+
+
+        var isBlokedByDomain = function( href )
+        {
+            var blockedDomains = [
+                "ananyaporn13000.tripod.com",
+                "xxxpornxxx.tripod.com"
+            ];
+            var flag = false;
+            
+            for( var i=0; i<blockedDomains.length; i++ )
+            {
+                if( href.search( blockedDomains[ i ] ) >= 0 )
+                {
+                    flag = true;
+                }
+            }
+            return flag;
+        }
+
+        var getMetaContent = function( metaName )
+        {
+            var metas = document.getElementsByTagName('meta');
+            for (i=0; i<metas.length; i++)
+            { 
+                if( metas[i].getAttribute("name") == metaName )
+                { 
+                    return metas[i].getAttribute("content"); 
+                } 
+            }
+            return false;
+        }
+        
+        var getCommentNodes = function(regexPattern)
+        {
+            var nodes = {};
+            var nodesA = [];
+            var preferredNodesList = ['a', 'c', 'b'];
+        
+            (function getNodesThatHaveComments(n, pattern)
+            {
+                if (n.hasChildNodes())
+                {
+                    if (n.tagName === 'IFRAME')
+                    {
+                        return false;
+                    }
+                    for (var i = 0; i < n.childNodes.length; i++)
+                    {
+                        if ((n.childNodes[i].nodeType === 8) && (pattern.test(n.childNodes[i].nodeValue)))
+                        {
+                            var areaName = pattern.exec(n.childNodes[i].nodeValue)[1];
+                            nodes[areaName] = n;
+                        }
+                        else if (n.childNodes[i].nodeType === 1)
+                        {
+                            getNodesThatHaveComments(n.childNodes[i], pattern);
+                        }
+                    }
+                }
+            }(document.body, regexPattern));
+
+            for (var i in preferredNodesList)
+            {
+                if (nodes[preferredNodesList[i]])
+                {
+                    if( isTrellix && nodes[preferredNodesList[i]].parentNode.parentNode.parentNode.parentNode )
+                    {
+                        nodesA.push(nodes[preferredNodesList[i]].parentNode.parentNode.parentNode.parentNode);
+                    }
+                    else
+                    {
+                        nodesA.push( nodes[preferredNodesList[i]] );
+                    }
+                }
+            }
+            return nodesA;
+        }
+        
+        
+        var properNode = null;
+        var areaNodes = getCommentNodes( new RegExp( '^area Type="area_(\\w+)"' ) );
+
+        for (var i = 0; i < areaNodes.length; i++)
+        {
+            var a = parseInt(getComputedStyle(areaNodes[i]).width);
+            if ((a >= 300) && (a <= 400))
+            {
+                properNode = areaNodes[i];
+                break;
+            }
+        }
+
+
+        var propertyName = getMetaContent("property") || false;
+        if( isTrellix && (properNode) )
+        {
+            e.src = '/adm/ad/injectAd.iframe.html';
+            properNode.insertBefore(e, properNode.firstChild);
+        }
+        else if( isTrellix && !( properNode ) ) // Slap the ad eventhought there is no alocated slot
+        {
+            e.src = '/adm/ad/injectAd.iframe.html';
+            e.style.cssFloat = 'none';
+            var cdiv = document.createElement('div');
+            cdiv.style = "width:300px;margin:10px auto;";
+            cdiv.appendChild( e );
+            b.insertBefore(cdiv, b.lastChild);
+        }
+        else if( !isBlokedByDomain( location.href ) )
+        {
+            var injF = document.createElement('iframe');
+            injF.style.border = '0';
+            injF.style.margin = 0;
+            injF.style.display = 'block';
+            injF.style.cssFloat = 'none';
+            injF.style.height = '254px';
+            injF.style.overflow = 'hidden';
+            injF.style.padding = 0;
+            injF.style.width = '300px';
+            injF.src = '/adm/ad/injectAd.iframe.html';
+
+            if( b && ( !isTrellix || ( typeof isTrellix == "undefined" ) ) ) // All other tripod props
+            {
+                var cdiv = document.createElement('div');
+                cdiv.style = "width:300px;margin:10px auto;";
+                cdiv.appendChild( injF );
+                b.insertBefore(cdiv, b.lastChild);
+            } 
+        }
+  }( document.isTrellix ));
+}
+
+</script>
+
+
+<div id="tb_container" style="background:#DFDCCF; border-bottom:1px solid #393939; position:relative; z-index:999999999!important">
+<!--form name="search" onSubmit="return searchit()" id='header_search' >
+<input type="text" placeholder="Search" size=30 name="search2" value="">
+<input type="button" value="Go!" onClick="searchit()">
+</form>
+<style>
+form#header_search {
+    width: 916px;
+    margin: 0 auto 8px;
+    position: relative;
+}
+
+
+form#header_search input {
+    height: 40px;
+    font-size: 14px;
+    line-height: 40px;
+    padding: 0 8px;
+    box-sizing: border-box;
+    background: #F4F2E9;
+    border: 1px solid #BBB8B8;
+    transition: background-color 300ms ease-out,
+                color 300ms ease;
+}
+
+form#header_search input[type="text"] {
+    width: 100%;
+}
+form#header_search input[type="text"]:focus {
+    border-color: #A2D054;
+    background-color: #fff;
+    box-shadow: 0 0px 12px -4px #A2D054;
+}
+
+
+
+form#header_search input[type="button"] {
+    position: absolute;
+    top: 1px;
+    right: 1px;
+    opacity: 1;
+    background: #DFDCCF;
+    color: #463734;
+    width: 125px;
+    cursor: pointer;
+    height: 38px;
+    border: none;
+}
+form#header_search input[type="text"]:focus ~ input[type='button']:hover,
+form#header_search input[type='button']:hover {
+    background-color: #A5CE56;
+    color: #fff;
+}
+form#header_search input[type="text"]:focus ~ input[type='button'] {
+    background-color: #52AEDF;
+    color: #fff;
+}
+
+</style>
+
+<script>
+function searchit(){
+    
+    // determine environment 
+    var search_env 
+    if (lycos_ad_www_server.indexOf(".pd.") > -1) {
+       search_env = 'http://search51.pd.lycos.com/a/';
+    } else if (lycos_ad_www_server.indexOf(".qa.") > -1) {
+       search_env = 'http://search51.qa.lycos.com/a/';
+    } else {
+       search_env = 'http://search51.lycos.com/a/';
+    }
+
+var search_term = encodeURIComponent(document.search.search2.value)
+var search_url = search_env+search_term;
+window.open(search_url);
+
+return false
+}
+</script-->
+<style>
+    .adCenterClass{margin:0 auto}
+</style>
+<div id="tb_ad" class="adCenterClass" style="display:block!important; overflow:hidden; width:916px;">
+<a href="http://adtrack.ministerial5.com/clicknew/?a=637394" title="build your own website at Tripod.com" style="float:left; width:186px; border:0">
+<img src="http://ly.lygo.com/ly/tpSite/images/freeAd2.jpg" alt="Make your own free website on Tripod.com" style="border:0; display:block" />
+</a> 
+
+<div id="ad_container" style="display:block!important; float:left; width:728px ">
+<script type="text/javascript">document.write(lycos_ad['leaderboard']);</script>
+</div>
+</div>
+</div>
+<script type="text/javascript">document.write(lycos_ad['slider']);</script> <!-- added 7/22 -->
+<div id="FooterAd" style="background:#DFDCCF; border-top:1px solid #393939; clear:both; display:none; width:100%!important; position:relative; z-index:999999!important; height:90px!important"> 
+<div class="adCenterClass" style="display:block!important; overflow:hidden; width:916px;">
+<a href="http://adtrack.ministerial5.com/clicknew/?a=637394" title="build your own website at Tripod.com" style="float:left; display:block; width:186px; border:0">
+<img src="http://ly.lygo.com/ly/tpSite/images/freeAd2.jpg" alt="Make your own free website on Tripod.com" style="border:0; display:block; " />
+</a> 
+<div id="footerAd_container" style="display:block!important; float:left; width:728px">
+<iframe id="lycosFooterAdiFrame" style="border:0; display:block; float:left; height:96px; overflow:hidden; padding:0; width:750px"></iframe>
+</div>
+</div>
+</div>
+<noscript>
+<img src="http://members.tripod.com/adm/img/common/ot_noscript.gif?rand=579022" alt="" width="1" height="1" />
+<!-- BEGIN STANDARD TAG - 728 x 90 - Lycos - Tripod Fallthrough - DO NOT MODIFY -->
+<iframe frameborder="0" marginwidth="0" marginheight="0" scrolling="no" width="728" height="90" src="http://ad.yieldmanager.com/st?ad_type=iframe&amp;ad_size=728x90&amp;section=209094"></iframe>
+<!-- END TAG -->
+</noscript>
+<!--Ybrant-->
+<img src="http://ad.yieldmanager.com/pixel?id=1901600&t=2" width="1" height="1" />
+<!--Datonics-->
+<script type="text/javascript" src="http://ads.pro-market.net/ads/scripts/site-132783.js"></script>
+<!--Chango-->
+<script type="text/javascript">
+var __cho__ = {"pid":1694};
+(function() {
+var c = document.createElement('script');
+c.type = 'text/javascript';
+c.async = true;
+c.src = document.location.protocol + '//cc.chango.com/static/o.js';
+var s = document.getElementsByTagName('script')[0];
+s.parentNode.insertBefore(c, s);
+})();
+</script>
+<!-- // -->
+
+
+
+<p><b>1. TELEPATHY</b>
+
+<p>Almost all Kash have some telepathic ability, and evidently always have had, ever since sentience/higher intelligence evolved in them. It is, perhaps, the main reason for their strong species-wide social cohesion, sense of community, and (because of their connection to their wild Cousins) their belief in the inter-relatedness of all life on the planet
+
+<p>Likewise, all the present-day Cousins (the related animal species from whom the Kash evolved) possess the ability, which they use primarily for their group hunting, secondarily in socializing. In general, strength of the ability in Cousins appears to correlate with size (brain size?).  Thus the big haprali (a bit larger than a lion or tiger) have great ability, with considerable memory and, apparently, some capacity for abstract thinking.  They can communicate fairly easily with humans, and vice-versa; whereas the little kusimi (cat-size) have rather limited ability, sufficient for hunting and socializing their family groups, but insufficient for easy communication with adult humans (they are, however, quite comfortable with small children, in whom telepathy is usually not fully developed).  (Some species are extinct, but it is believed that they too probably were telepathic.)
+
+<p>Throughout most of their history, the Kash were unaware that the ability could be trained, developed or strengthened, and did not use it as fully as they might have.  Whatever ability one had by the teen-years was, they thought, pretty much the extent of it. Thus, some few went through life feeling they had little or no ability; most had enough for special communication with family members and friends, and the occasional stranger; while a minority had stronger ability, and acquired great status.  Such men and women usually became shamans or priests-- in religious life some had the function of being in contact with the Cousins and Spirits, and conducting rituals; in secular life others served as advisers, sometimes bodyguards, to rulers, as lawyers and judges, and early on, as doctors*-- positions where it was important to be able to probe others' minds, to question and discern hidden motives.   There were occasional abuses, but the culprits were almost always found out and punished, either by some slightly more powerful colleague, or simply by societal pressure. Some few, on their own, almost by accident, discovered how to train and increase their telepathic power, but they never learned how to pass on that knowledge.  The elusive goal was always to learn how to actually <i>control</i> another's mind and actions-- perhaps just one or two people per generation had that ability, but it was very rarely used, mysterious, and rather frightening even to one who possessed it.<br>
+--------------------<br>
+*With the development of scientific medicine, these early priest-doctors have evolved into modern psychotherapists; it is still helpful, of course, for a medical doctor to have good telepathy.<br>
+--------------------
+
+<p>Matters changed with the arrival of the Aliens in 548 p.v., and Cindu's acceptance into the Galactic Unity some 50 years later. Some of the Aliens were skilled and extremely powerful telepaths; they were delighted to encounter another species with the ability, and they set about helping the Kash to develop it-- first by assessing the priests and training the more capable, who then went about assessing the young people in their various communities in order to start training as early as possible. (Like foreign-language-learning, the ability to develop one's telepathy becomes difficult after the teen-years.)  The result is now, some 200 years later, that almost all Kash are able to use and control their telepathy far better than used to be the case; only a very small percentage are unable to develop, or, for one reason or another, find the training difficult or simply not worth the effort-- they remain at a fairly low level, and may be considered anti-social or handicapped in some way.  The very best young men and women are often given special training by the Aliens, and, provided they qualify in other ways, are encouraged to join the Service. The downside of that is that they will go off-planet and most likely never return, at least not in the lifetime of parents and friends. 
+
+<p>How does telepathy work?  Perhaps some of the Aliens know, perhaps Kash scientists have learned. I have no idea, except that it must be inborn and genetically transferable. Over the centuries a fairly rigid code of usage has developed-- for example, one does not &quot;speak&quot; to a person of known superior status unless invited to do so verbally; total strangers, too, and nowadays aliens whose abilities are unknown, are accorded the same courtesy. One reason for this courtesy may be reflected in Ursula Le Guin's <i>Left Hand of Darkness</i>-- recall that when the Terran, Genly Ai, tries to &quot;speak&quot; to his Gethenian friend Estreven, Estreven hears in his mind the voice of his beloved dead brother, and is highly upset by the experience, leading Genly to abandon the attempt.  To avoid untoward suprises of this sort, the Kash always converse in spoken language with a stranger or new acquaintance; the Aliens do the same when first encountering a new <i>knau</i> or higher life form, when communication by telepathy is necessary before spoken language is acquired.
+
+<p>We should mention that the Gwr, alas, are not telepathic; the Kash have never been able to communicate with them, nor even probe their minds just a little bit....  Some Aliens are able to do so, but find it not worth the effort, and far easier simply to learn the spoken language. They have found only a handful of Gwr capable of &quot;speaking&quot;, but even those have difficult training their ability. And although the Aliens make every effort to deal even-handedly with both peoples, the Gwr have come to feel, with some justification, that the Kash receive more attention and more favorable treatment.
+
+<p><b>TERMS RELATING TO TELEPATHY</b>
+
+<p>--Telepathy, the art/ability itself: &ccedil;aka&ntilde;u (earlier &ccedil;akaha&ntilde;u, still used formally; lit. power (of) mind); also, amakeka&ntilde;u, lit., joining (&lt; vakep) (of) mind(s).  Note that all terms contain <i>(hk)a&ntilde;u</i>, combining form of  <i>haniyu</i> 'mind, soul, consciousness'.<br>
+--To &quot;speak&quot;/transmit telepathically: ha&ntilde;u&ccedil;it (&ccedil;it &lt; &ccedil;indi 'speak')<br>
+--To &quot;hear&quot;/receive telepathically: ha&ntilde;u&ccedil;os (&ccedil;os by analogy &lt; sosir 'hear')<br>
+--To yell/scream telepathically: ha&ntilde;uyap (yap &lt; yambren 'yell', yayap 'scream; to give an alarm, or perhaps in reply to <i>trika&ntilde;u</i>, below; otherwise rude-- as if one assumes the recipient cannot &quot;hear&quot; a normal tone of &quot;voice&quot;) This and the preceding terms are sometimes stressed on the final syllable<br>
+--A telepath: keka&ntilde;u ~older/formal kanga&ntilde;u (<i>ke-, kaN-</i> agentive prefixes)
+<p>Terms related to probing someone's mind: 
+<blockquote>
+<p>--fonjika&ntilde;u (touch...)<br>
+--nuwaka&ntilde;u (question...)<br>
+--minjaka&ntilde;u (seek...) These are considered benign practices, permissible in most circumstances
+<p>--tingaka&ntilde;u (look at, inspect...)<br>
+--ileka&ntilde;u (dig...) These two are serious techniques, reserved to lawyers, judges, psychologists, etc. and only with permission, except in criminal proceedings; an applicant to a sensitive position might be so probed
+<p>--trika&ntilde;u (poke...) emphatic, rather aggressive, and rude<br>
+--hondekra&ntilde;u (attack...) very aggressive, very rude; it may be a prelude to <i>troka&ntilde;u, lipaka&ntilde;u, &ccedil;u&ntilde;aka&ntilde;u</i> below<br>
+--troka&ntilde;u ~coka&ntilde;u, icika&ntilde;u (trok ~cok, ici-- vulgarisms for &quot;f*ck&quot;) to &quot;speak&quot;, or to invade someone's mind, with the purpose of confusing, insulting or otherwise upsetting them
+</blockquote>
+<p>Terms relating to mind-control:
+<blockquote>
+<p>--vakeka&ntilde;u (join...; amakeka&ntilde;u, above, is the noun form) Lovers or close friends might do this from time to time; it is voluntary, benign, pleasurable, and does not imply control-- it is simply &quot;two minds thinking as one&quot;<br>
+--lipaka&ntilde;u (capture...); andipaka&ntilde;u (noun) mind-control; kandika&ntilde;u (agent noun) one who exercises....; candika&ntilde;u (vb) to be under the control of..., e.g. <i>ne candika&ntilde;u keyopori</i> 'he is/was under the control of an Alien'<br> This is the most general term; it is usually done with permission, for some specific purpose (e.g. to relay an Alien's message in spoken form, or perhaps to perform some [legitimate] act that the controller is unable to do). It must be carefully done, with no more force than necessary, since mental damage can result. Very few Kash are able to do it; some of the Aliens, however, are quite skilled, and have been known to misuse the power.<br>
+--&ccedil;u&ntilde;aka&ntilde;u ~&ccedil;unga&ntilde;u (grab...) very aggressive, potentially harmful to the subject; for this reason it is reserved for emergency situations, such as averting a physical attack, e.g. an assassination attempt. Again, a Kash may at best be able to control one or two attackers; some Aliens can control quite large groups, though the force weakens with distance.
+</blockquote>
+<p>Resistance to telepathy:  vingaka&ntilde;u (obstruct...), rindika&ntilde;u (stop...), mundruka&ntilde;u (oppose...). One may also say simply that someone <i>kotayi ha&ntilde;u&ccedil;it/ha&ntilde;u&ccedil;os</i> 'denies ~refuses to &quot;speak/hear&quot;', or <i>tarupat ha&ntilde;u&ccedil;it/ha&ntilde;u&ccedil;os</i> 'is unwilling to....'
+<hr color=&quot;black&quot;>
+<p>&nbsp;
+<p><b>2. KASH SOCIETY</b>
+
+<p>Most of the comments here apply to the three &quot;royal states&quot; of the Yanatros Island federation that still retain elements of the old aristocrat/commoner structure; they also speak, essentially, the same language, <i>(Holunda) Kash</i>, as described on other pages here. The other two states have not yet been seriously studied:  <i><u>Oroson</u></i>, the larger one, speaks a rather divergent dialect of Kash due to its political isolation, which is both self-imposed, and the result of long-standing personal/diplomatic tensions with the other three. At the time (about 2 centuries before The Destruction) when the states were rebelling against Gwr colonial rule, Oroson's corrupt ruling family was deposed in a military coup, and even though national armies no longer exist, it still has a tightly controlled and highly regimented society-- perhaps vaguely fascistic, to the Terran view.  The other state, <i><u>Andoli</u></i>, is rather small, agricultural, and was settled mainly by dissidents from a different part of Hanjomim (its language, though related, is not mutually intelligible with Kash). After its very earliest years, it became a fairly &quot;democratic&quot; state-- the original nobility, mainly cadet branches of the Kavatu family, proved inept and was deposed early on; after that, governments were elected-- but, again, in the turmoil after The Destruction, its government was taken over by &quot;communistic&quot; elements. The reasoning at the time was that this would enable the land to be mobilized more efficiently for emergency food production-- and Andoli's contribution was considerable-- but over the centuries the system has fossilized, development has lagged, and it is the poorest region of Yanatros. 
+
+<p>The three &quot;royal states&quot; are <i>kavatu</i> in the northwest, <i>&ccedil;ombala</i> in the northeast, and <i>holunda</i> (properly <i>holunda velu</i> 'New Holunda'-- the original <i>holunda</i> is on Hanjomim) which with the large <i>kanak</i> peninsula occupies the eastern portion of the island. All are what we would call constitutional monarchies, but of the various rulers, the <i>karungavatu</i> still retains the most power, and Kavatu society is the most rigidly stratified-- the analogue might be Georgian England; the <i>karucombala</i> has somewhat less personal power (Victorian England?) but is nominally superior to the other two karuns as &quot;primus inter pares&quot;; while the <i>karukolunda</i> has <i>some</i> power-- for he is Head of Government as well as Head of State, but his actions depend on the approval of his council and the legislature (a bit stronger, then, than Queen Elizabeth II).
+
+<p><b>Holundan society</b>, which which we'll deal here, is moderately stratified, but not rigid, and the distinctions are breaking down. Most people still know Who is Who, but in daily life it's of little importance. One might say, only the aristocracy cares about such things, and then only in their private social functions. Otherwise, their children go to school with everyone else; the adults usually have jobs like everyone else, and in general don't flaunt their status.  
+
+<p><b>THE ARISTOCRACY</b> includes, at the very top,  &quot;royalty&quot; TUNGA LUHU-- <b>karuns</b> and their (his/her) immediate family.  A karun is head of state; the position is hereditary and usually passes to the oldest child.  
+ 
+<p>-- Next is TUNGAKRAMON, a small number of noble/titled families of ancient lineage, usually with large land-holdings and long-established wealth. (Formerly, a title and an estate could be granted by the karun, but this has not been practiced for several centuries now.) The title and, usually, most of the estate pass to the first-born; but most estates are held in perpetual trust, and since younger children do not always benefit from the trust, it happens that many of them have to work for a living, and after a generation or two may find themselves quite reduced in status. These younger children may go into the professions (if bright), religious (if good telepaths), the arts (if talented), business, the IDF (International Defense Force); or help out (salaried) with managing/farming the ancestral lands; but some have been known, out of necessity, to become common laborers...... Even if financially able, few choose a life of idleness; this is considered a Bad Thing and violates the unspoken code of Noblesse Oblige...
+
+<p>Aside from the output of their farms, the aristocratic families nowadays are not considered terribly productive members of society, and their influence has waned  Traditionally, they avoided business activities (except shipping), resulting in the rise of the monied class. Nowadays, Baron This-or-That might be asked to join a corporate board, but he will probably not be expected to take a very active part in management. Younger sons and daughters, however, quite often take &quot;regular&quot; jobs, and do not receive-- or expect-- special treatment.
+
+<p><b>COMMONERS or &quot;ORDINARY PEOPLE&quot; (TUNGA SAMAR, KESAMAR)</b>—these distinctions are informal, not codified:<BR>  
+&quot;Upper class ~the wealthy&quot; <i>tungatroye, kependoye</i>-- a number of families of long-standing wealth (at least  4, usually more, generations), who tend to have made their money in businesses of one sort or another, which they often continue to control from generation to generation. Honorary <i>akoros</i> and <i>kandenar</i> are often though not exclusively drawn from this class. Those who have been wealthy for only a generation or two, if they continue to prosper, will eventually join this class (often through marriage), <i>provided</i> their money comes from &quot;respectable&quot; pursuits.  If not, they may never be considered quite acceptable. The nouveaux riches-- those who've become wealthy suddenly, perhaps by lucky (or illegal) trading in the stock-market, or by not-quite-respectable, shady or illegal means-- and who flaunt their wealth-- are called, pejoratively, <i>tungatruwi, tungatroci, trukitruwi</i>. 
+
+<p>Perpetual trusts are no longer permitted, but it is possible to establish trusts benefitting all generations living at the time of the grantor's death.  These trusts generally do provide some income to younger children, some of whom do become “idle rich”, “trust fund babies”, “jet-setters”-- not an admired status. 
+
+<p>&quot;Middle class&quot;-- a mixed bag of families– ranging from mid- or sometimes upper-level managers in the business world (if up through the ranks by merit), small businessmen, shop-owners, engineers, doctors, teachers, career politicians/bureaucrats– generally the white-collar professions, but including some skilled tradesmen, in particular architect/builders; independent farmers if successful....
+
+<p>&quot;Lower middle&quot; or &quot;upper working&quot;-- most skilled tradesmen, small shopkeepers, factory foremen; officers of the police/fire brigades (if up through the ranks); some highly successful street vendors (esp. of food); office clerks/minor bureaucrats; upper-level servants/staff of the nobles/aristocracy; upper-level railroad workers (engineers, conductors) and seamen; less successful independent farmers; tenant farmers of the nobles/aristos who are treated fairly...
+
+<p>&quot;Working&quot;-- factory employees/skilled workmen, mechanics, shop clerks, lower-level servants of the nobles/aristocracy, lower-level railroad workers and seamen; tenant famers poorly treated.....
+
+<p>&quot;Lower working&quot;-- common laborers/farmhands etc. more or less steadily employed, ordinary seamen, minor street vendors; servants of the wealthy (often poor relations); farmers who own their land but barely scrape by...
+
+<p>&quot;The poor&quot;-- the sporadically/transiently employed, petty criminals, some vagabonds-- other vagabonds might well be the sons of Somebody doing a Wanderjahr
+<HR color=&quot;black&quot;>
+<p>&nbsp;
+
+<P><B>3. TITLES OF NOBILITY</b>	
+<p>3.1. ROYAL-- TUNGA(R) LUHU, PRALUHU (the ranks are only roughly equivalent to the English terms)
+<blockquote>
+<p>--KING/QUEEN– kakarun is the title used in Yanatros for the <i>karucombala</i> in his/her official capacity as primus inter pares; locally she is simply <i>karucombala</i>.  On Hanjomim (the &quot;Old World&quot;), kings of independent states are called <i>nisa</i> in the languages most closely related to Kash.
+<p>--CROWN PRINCE/PRINCESS-- in countries where nisa is used, the eldest child is called <i>anandisa</i>; on Yanatros, the kakarun's first child is <i>mesa</i>, which is the common term everywhere for the first child of any titled person; rona 2nd child; sina 3rd child; prana the 4th and later children; if a child dies, the others move up a rank.
+<p>--DUKE– karun (a female karun is sometimes called <i>karu&ntilde;e</i>, but in fact <i>karun</i>, like all these titles, is neutral as to male/female)– their political power varies on Yanatros, but essentially they rule a &quot;nation&quot; either in fact or as mere figureheads.  In systems where there is a nisa, they head up provinces or subsidiary regions, and may or may not have any real power. (Hereafter, we will be concerned only with the situation on Yanatros.)</blockquote>
+
+<p>3.2. ARISTOCRATIC (HEREDITARY)– TUNGAKRAMON, PRAKAMON-- these titles and associated lands were originally taken by, or awarded to, close relatives-- e.g. sons, brothers, uncles/nephews-- of the first &quot;conquistadors&quot; mainly in exchange for their financial help in equipping the fleets. Although they came well-armed, the occupation of the uninhabited coastal areas was entirely peaceful and without incident. They soon encountered the indigenous La&ntilde;-la&ntilde;, who were friendly and helpful until they were forced to be laborers and ultimately slaves. When slavery was finally abolished, they retreated en masse into the mountainous interior of the island. Formerly these nobles had almost total control of their lands and the inhabitants; in the Post-Destruction era, when food production had to be dramatically increased, some recalcitrant nobles had their lands expropriated. Nowadays their holdings are integrated into the &quot;nation&quot; and are subject to the rule of the karun and central government.
+<blockquote>
+<p>--MARQUESS/MARQUIS-- anoras
+<p>--EARL/COUNT-- pakrakutu&ntilde; ~pakrutu&ntilde; (&lt; *kaN+hutu&ntilde; '(archaic) tribal/clan chieftain'-- <i>hutu&ntilde;</i> is an unexpl. variant of <i>hutun</i> 'area, region') 
+<p>--VISCOUNT-- patrekana (now only hereditary in Yanatros usage; may also be honorary in those areas ruled by a nisa/king; apparently &lt; *te+kana, another archaic term, 'stand by, stand ready; ally'). Nowadays, pakrutu&ntilde; and patrekana often serve (by appointment) as governors of the provinces in which their land is located
+<p>--BARON– akro (heredity or honorary, like patrekana). In the early days of settlement on Yanatros, this title was granted to the leaders' distant relatives or commoner-friends who had managed to claim large tracts of land. The term is of uncertain origin, and may even derive from an Old Gwr title.
+</blockquote>
+<p>3.3. ARISTOCRATIC--HONORARY TITLES
+<blockquote>
+<p>--BARONET– akoros; a title now awarded by king/karun (originally, an akoros was the eldest son of an akro, but came to be applied to all his children <I>except</I> the first-born, who alone was entitled to <I>mesa</I>). The term apparently derives from <I>akro</I>, but like it is of undertain origin.
+<p>--KNIGHT– kandenar, honorary, by king/karun/marquis/count-- anciently, of course, it connoted military achievement; nowadays it is handed out quite liberally to honor any notable achievement or service to the nation. (There must be a Kash equivalent of our old saying, &quot;That [title] and a dime will get you a cup of coffee.&quot;)
+<P>No land grants or financial awards go with these honors-- the grantees are already, probably, quite successful.
+</blockquote>
+<p>Honorary titles are lifetime only (anciently, they could be granted hereditary but small land-holdings, so there are a few such families left). Their children do not use &quot;mesa, rona&quot; etc. but are called &quot;(Name) anakoros/angandenar&quot;-- children of akoros outrank those of kandenar, but both title's children are outranked by children of hereditary titles.  When the titled parent dies, they must drop the honorific, and for the most part resume their family name. (Example: Mr. Erek Paliyano is elevated to (Erek) akoros Totoli (perhaps his place of origin, or his country home).  His children are X,Y,Z anakoros Totoli during his lifetime, though if they wish they may continue as X,Y,Z Paliyano with optional anakoros Totoli; after his death they should revert to X,Y,Z Paliyano; some might choose to remain X,Y (ana) Totoli but that is considered pretentious. Furthermore, it could well happen that someone else might be honored with &quot;akoros totoli&quot;.)
+<p>Hereditary titles, of course, outrank honorary.
+
+<p>3.4. Kash officers in the Intl. Defense Force are accorded official status just below kandenar, regardless of their class of origin. And militarily (and at military/governmental functions) of course, Lt. X rona/sina/prana Y is outranked by Capt. W Z (a commoner). (When joining the IDF, Lt. Y may choose to drop his honorific.)  Socially, however, while Lt. rona/sina Y (son of a karun) outranks Capt. Commoner or Capt. sina/prana X (son of an akro), he would do well to tread lightly! (The IDF of course has its own hierarchy, complicated by the inclusion of Gwr personnel....)
+
+<p>Artists/writers/entertainers etc., come from all classes and tend to have status more according to their abilities (or sometimes, their patrons) rather than their origins.  Likewise the religious (TUNGORIYOS), which has its own hierarchy.
+
+<p><b>3.5. CHILDREN OF THE NOBILITY</b> (somewhat tentative-- keep in mind too, that the question of Who outranks Whom is important mainly at official functions-- order of introduction, who speaks first, seating at formal dinners, etc.) The usage is:  given name + &quot;numerical&quot; + family/region name.
+<p><blockquote>
+<p>mesa (king/kakarun) outranks his/her jr. siblings and all other mesa/rona/sina/prana<br>
+mesa (karun) outranks own jr. siblings, the king’s rona/sina/prana if they are junior, all lower mesa/rona/sina/prana<br> 
+other mesala outrank their jr.siblings, rona/sina/prana directly above if junior ?? and all lower mesa/rona/sina/prana)<br>
+Note that a mesa of any rank is never outranked by a rona/sina/prana...
+
+<p>rona (king/kakarun) outranks his/her jr.siblings and all lower rona/sina/prana<br>
+rona (karun) outranks his/her jr. siblings, king’s sina/prana (if younger?), and all lower rona/sina/prana<br>
+other ronala outranks jr.siblings, sina/prana directly above (if younger?), rona/sina/prana below<br>
+
+<p>sina (king/kakarun) outranks his/her prana and all lower rona/sina/prana (except karun’s rona)
+sina (karun) outranks his/her prana, king’s prana, and all lower rona/sina/prana (except rona directly below)<br>
+other sinala outrank their jr.pranala, prana directly above, sina/prana below<br>
+
+<p>prana (king/kakarun) outranks his jr. pranala and all lower pranala<br>
+prana (karun) outranks only his jr. pranala and all lower pranala<br>
+other pranala outrank only their jr.pranala and all lower pranala<br>
+</blockquote>
+<p>What is the status of the children of a mesa? what are they called (ana mesa, anaro[andro?] mesa...) What happens if the mesa dies (childless) before his father– everyone moves up a notch, but what are they called??? (But an ana mesa has right of succession)<br>
+What about unacknowledged illegitimate (noble) children?? 
+
+<p>The wealthy (wealthy for several generations) families sometimes use mesa/rona/sina/prana in their names, but it is somewhat frowned upon.  Their children have no status vis-a-vis the nobility or each other, except insofar as children of the very wealthy may implicitly outrank those of the merely wealthy, and both, in their own view, may feel they outrank the children of the less well-off. But none of this has any relevance officially-- all are commoners and will be treated accordingly.
+<hr color="black">
+
+ <P><B>4. KASH NAMES</b><br> (Note: footnotes are inserted at the point in the text where they occur, set off by lines and in a smaller type face.)
+<P>1. General. In most Kash nations, everyone has both a given same (sometimes more than one) and a surname (family name), in that order. There are still a few relatively isolated tribal societies where a person may have only a given name (or two, or perhaps a descriptive phrase)*.
+<HR align="center" width="50%">
+
+<P><blockquote><font size="2">* But since these groups now reside within modern nations, for administrative purposes they are usually required to use a surname—these will often be of the sort "son of…(father's name)", perhaps with an additional tribal, clan or regional name, or one of the &quot;normal&quot; surnames discussed below. Customs vary—a few tribes include the mother's name—but in practice these surnames are irrelevant to members of the society itself.</blockquote><HR align="center" width="50%"></P>
+
+<P><font size="3">For instance, a figure famous in early Kash history was a tribal leader in the northern mountains of Hanjomim called <I>mbelan ipaholid</I> 'carries the torch', who organized the local tribes to resist the Gwr who were trying to move south. Before the formation of modern nations, this type of naming was probably the custom throughout Kash society. As groups cohered into early state-like entities and populations grew, administrators found it necessary to have ways of distinguishing individuals, and the custom of  taking or assigning family names arose, apparently around 3000 years ago.
+
+<P>4.1. Given names. There is a wide variety of possible given names. Many are derived from adjectives/verbs, no doubt with the hope that the child will grow up to exhibit that quality. Others are derived from nouns, often indicative of the father's, or some ancestor's, profession. A child may be named for the time of its birth, or the day*. 
+<HR align="center" width="50%">
+<P><blockquote><font size="2">* But not Vuruna or Lalap—the two moon-days—for these are named after mythological figures who violated taboos. Similarly, no child is named Tamar (M) or Nipa (F), two other figures who violated taboos. All day-names, like most other derived names, are changed in some way; thus a child born on lembrim might be named <I>lendo, derok</I> or <I>dendo</I>, while one born on a moon-day could be called <I>(ana-)tarik</I> or <I>-tandis</I> (cf. <I>tandi</I> 'moon').</blockquote><HR align="center" width="50%"></P>
+
+<P><font size="3">Some female names are distinguished from the male version by the addition of <I>–e</I>, often a marker of feminine gender. There are of course names that are etymologically obscure; while others may be purely fanciful—simply euphonious combinations of consonants and vowels that happened to appeal to the parents at the time of birth (rare nowadays). Some typical examples of derivations:
+
+<blockquote>
+<table border="1">
+<tr> <td>Male</td> <td>Female</td> <td>Source</td></tr>
+<tr> <td>&ccedil;enji</td><td>ceci, &ccedil;e&ccedil;i</td><td>&ccedil;enjik 'stoic, dignified'</td></tr>
+<tr><td>mita</td><td>mina</td><td>minda 'happy, to smile'</td></tr>
+<tr><td>ka&ntilde;a</td><td>kaya</td><td>haya 'light'</td></tr>
+<tr><td>sato</td><td>sano, sana</td><td>prob.< sando 'shaman</td></tr>
+<tr><td>camik</td><td>cambri, came</td><td>cami 'sweet'</td></tr>
+<tr><td>yaros</td><td>yarose, rose</td><td>hayaros 'dawn'</td></td>
+<tr><td>erek</td><td>....</td><td>ereken 'sea captain'</td></tr>
+<tr><td>kocuk, konju</td><td>....</td><td>? < rungombra cacuk 'killed (big) saurian'</td></tr>
+<tr><td>niro, yaniro</td><td>kunit, kuni</td><td>&lt; kuniro, a rare striped pattern in Kash fur</td></tr>
+<tr><td>....</td><td>halam</td><td>halap 'pure'</td></tr>
+<tr><td>....</td><td>vesi</td><td>aves 'flower'</td></tr>
+<tr><td>royo</td><td>litali</td><td>nonce forms</td><tr>
+</table></blockquote>
+
+<P>4.2. Surnames (family names).
+<P>4.2.1. General observations. They have been required, as mentioned above, for some 3000 years, and have many sources: principally localities (often prefixed with lo- 'from', which over time was dropped) or trades, secondly "child of…[name or trade]" (whence the many surnames beginning with <I>an(a)-</I>); and since there were no rules regarding choice of surname (except that actual words should be modified in some way), some were quite fanciful. Apparently some people decided that they closely resembled their wild <I>haprali</I> cousins, and took <I>kapral, hapal, prali</I>  (also with <I>an-</I>) etc. as surnames. Others chose to coin euphonious names with no intrinsic meaning. A sampling of typical commoners' surnames: 
+
+<blockquote>
+<P>(lo)surandula '(from) Gold Mountain'<br>
+lo&ntilde;ange, lo&ntilde;ake 'from the forest' (<I>alo a&ntilde;ange</I>)<br>
+kecun 'miller' and angecun 'son of…'<br>
+kero&ccedil;, kro&ccedil;e and angero&ccedil;, anakro&ccedil;(e) (&lt; <I>keroçe</I> 'sailor')<br>
+ereken, ekren 'sea captain' and anerek(en), anekren 'son of…'<br>
+&ccedil;undrak(a) &lt; <I>i&ccedil;un raka</I> 'big eye(s)'<br>
+andasut 'son of lutenist' &lt; <I>tasutan</I> 'a lute-like instrument'<br>
+anga&ntilde;u(r,t,n) 'son of scribe' &lt; <I>kañuri</I> 'writer, scribe'<br>
+anatando, anatat 'son of shaman' &lt; <I>sando</I> 'shaman'<br>
+mondropat 'near the bridge' &lt; <I>(ri) morani nopat</I><br>
+uliyan, kisana—apparent coinages</P></blockquote>
+
+<P>4.2.2. Nobility. The nobility of the Old World tended to adopt the names of their estates, the region they controlled, its principal town or some prominent geographical feature, but they could also have ordinary surnames, like those above.  
+	
+But there is usually a distinction between the formal name (used in one's title), as set forth in &0167;3 above, and the actual personal family name. In at least one case, a place-name has become the surname of a royal family—the first explorer-adventurer* 
+<HR align="center" width="50%">
+<blockquote><font size="2">* *Many of these men (and they were all men; women did not arrive as settlers for some years) were military or naval people, sometimes disgruntled second or third sons of nobility, but just as often men of humble origins; the crews of their ships were a motley bunch—peasants hoping for some land of their own, the urban poor, and not a few who were fleeing criminal prosecution, These voyages of exploration were, of course, financed by royalty or the wealthy, but after reaching Yanatros the participants seem in many cases to have forgotten about their backers. The states of Yanatros have always considered themselves independent of the Old World, even though Old World Councils of Nobles do retain some say with respect to some developments on Yanatros (this will not concern us here.)</blockquote><HR align="center" width="50%"></P>
+
+<font size="3">to reach Yanatros Island in 2000 p.m. was <I>kelo</I> ['joker'] [unknown original surname] <I>lo kavatu</I> ['from kavatu', a small town in the Old World isthmian kingdom of Ramping] . He claimed a large area on the northwest coast, and established himself as its karun ['duke']; he named his land kavatu, and also took that name for his family-to-be. His descendants rule there to this day.
+
+<P>The founders--some of noble birth--of other states on Yanatros, settled a bit later, did not indulge is this custom; they retained, like the rulers in the Old World, their own surnames. Thus <I>holunda velu</I> [New Holunda] carries on not only the name of its Old World counterpart <I>holunda</I> (and continued as a sort of colony of it for a couple centuries after settlement) but also the name of its old ruling family, <I>naraman</I>, because its founder was the <I>rona</I> ['second son'] of that family—even though, due to marriage customs, the family in Holunda Velu is by now, to all intents, related only by name to the one in "old" Holunda.</P>
+<hr color="black">
+
+<p><b>5. THE SCHOOL YEAR</b><br>
+(Note: to convert Kash ages to Terran, multiply by 1.34.)
+
+<p>At approx. age 4, most children begin their schooling at <i>lakon inji ~lakon ana</i> ('young school ~child school'), corresponding to kindergarten: the main purpose is to begin the socializaiton process.  There is a lot of &quot;creative play&quot; and elementary sports/games, and the alphabet and numbers are introduced.  The school year begins in mid-9th month (shortly after the Autumn Equinox), and consists of four 3-month terms, with a free month between each term (thus 3-1-3-1-3-1-3-1). Children must attend the first two terms, plus one of the last two.  (or perhaps? 4-3-3 with 2 mos. between, must attend all)
+
+<p>(Grades 1-2-3) The next three years (ages 5 through 7) are spent in <i>lakongasi</i> ('beginning school'); here, there are three 4-months terms, with two 1-month leaves, one of 2-months, i.e. 4 (1) 4 (1) 4 (2)-- this same schedule is followed in all succeeding years.
+
+<p>(Grades 4-5-6) After lakongasi, the child enters <i>lakongure</i> ('low school'), at about age 8; this too lasts for three years.
+
+<p>These three schools are found in every town; in larger towns and cities there are, of course, several.  They are free (supported by local taxes and the national government, which also pays the teachers). There is a standardized nation-wide curriculum.
+
+<p>(Grades 7-8-9) Next come three years of <i>lakonandru</i> ('high school'), at the end of which (age 13, roughly = Terran 17) one may quit to enter apprenticeship programs for various trades, or even go directly to work.  But although sexually mature, youths are discouraged from entering into civil unions (legal marriage) until they reach age 15; nothing prevents them, however, from forming "steady" relationships.<br>
+Academically, a 9th-grade graduate has probably been exposed to more material than the average American 18-year-old high-school graduate, not only because of the longer academic years, but also because (I propose) Kash children experience major periods of growth in both intellectual and social sophistication beginning in the last year of lakongure through the first year of lakonandru, enabling them to attack "high-school" work with greater seriousness, depth and intensity. (There are, of course, laggards....)
+
+<p>These too are free, though smaller towns and rural areas may lack a lakonandru; if there is one nearby, transportation is provided.  Otherwise children may have to go to a rather distant town, where they may live with relatives, family friends, or in a dormitory (for which their parents must pay a nominal fee). There are private lakonandru (both day or boarding, grades 6/7-8-9) favored by the wealthy and some aristocrats; they have great social cachet but are only slightly more rigorous academically than the public system.  There are also state-subsidized schools for the very gifted (grades 7-8-9) whose graduates are usually able to proceed directly to hendekan-11, and are usually destined to pursue higher degrees.
+
+<p>(Grades 10-11-12) The majority of young people, however, are encouraged to pursue at least two more years of education at <i>hendekan</i>; during these two years they specialize either in the humanities, the sciences, or various arts and most finish the program after grade 11 (age 15 , Terran &#177;20) where they receive the equivalent, roughly, of a Bachelor's degree.  The 3rd year of hendekan is for those who intend to continue on for advanced degrees, as well as being a requirement for appointments in some government departments, such as the foreign service. It would also mark the first year of medical and legal education (some areas of those professions are handled by the religious orders).  In general fields, hendekan-12 can have the usual 4-4-4 schedule, or else entail independent study on a flexible schedule.
+
+<p>Hendekan is also free, but since there are few of them-- perhaps one per province-- most provide dormitories, for a fee.
+
+<p>(Grades 13 and up, age 17 and up) <i>Hendekan landru ~hendekanandru</i> (short colloq. form <i>tekandru</i>)-- corresponds to the American graduate school.  Industrious, or very bright, students may qualify for the <i>akangaya inji</i> ('young scholar') degree, in their first year, often finishing projects begun in the 3rd year of hendekan (hendekan-12). It is the equivalent, or slightly better, of the Master's degree. A student who, for one reason or another, did not do hendekan-12 but then decides to go on, will usually receive the akangaya inji after two years of hendekanandru. The schedule is: two 6-month terms (with occasional 1-week breaks), with two 2-month vacation periods, often spent doing independent research.
+
+<p>On Yanatros, there are only three hendekan landru available to students-- in Holunda, Çombala, and Kavatu; there is one in Oroson, but it is restricted to citizens. There is nominal tuition, and room and board must be paid for, either in dormitories or private accomodations. The occasional student may go abroad, usually to Hanjomim; some very few, who've studied the languages, go to university in the Gwr lands, whose programs in the hard sciences are considered superior. Conversely, some Gwr students may attend Kash universities, usually if they plan a career in their Foreign Service, international trade or academia.
+ <p>Further study, usually on a flexible schedule for several years, will lead eventually to the <i>akangaya</i> ('scholar') degree, the equivalent of our Ph. D. By this stage in their life, most students will also be employed in some job or other to make ends meet.
+
+<p><b>6. KASH RELIGION</b>
+<blockquote>
+<p>1. Supreme Creator<br>
+2. Spirit world<br>
+2a. mythical beasts/monsters<br>
+3. Ceremonies--<br>
+3a. Life transitions (i.a) birth/naming (ii) coming of age? (iii) marriage (iv) death<br>
+3b. Public ...?blessing of projects; New Years Day; solstices/equinoxes<br>
+3c. Royal (i) installation of a king/karun (ii) death of a king/karun<br>
+3d. Private<br>
+4. Religious orders ...monastic/cousins/teaching, law, therapists...</p></blockquote>
+<hr size="5">
+<p>6.1. The Kash acknowledge a Supreme Creator, called <i>e parahambesa</i>, (lit., approximately 'honorable first creation') a Great Mind, a sort of Primum Mobile, who created the universe and all things in it. It is an abstraction and impersonal (although by default, masculine forms are used when necessary in discussing it); it is held to take no interest in its creations, and definitely does not guide or interfere in human affairs. It is held in awe, of course, and honored, but prayers are not ordinarily addressed to it.  The Kash do not use the word &quot;parahambesa&quot; to refer to the gods worshipped by others, e.g. the Gwr or us Terrans; they would adapt some native term (for instance for Terran religions perhaps Teyus, Yehova or Yave, Ala; andeva for Hindu gods).
+
+<p>All things in the natural world, animate and inanimate, are believed to contain some part, some essence, of the Creator; this is termed <i>prahaniyu</i> 'honorable mind/soul/consciousness' and might be paraphrased as &quot;divinity&quot;. It is this which pervades and animates the Spirit World.
+
+<p>6.2. The Spirit World. The spirits of the natural world are divided into two classes: the Greater Spirits, <i>&ccedil;ehamala praha&ntilde;urak</i>, and the Lesser Spirits, <i>&ccedil;ehamala praha&ntilde;umik</i>.
+
+<p>Among the Greater Spirits are:<blockquote>
+--The Sun, amalero ('father sun')- benign<br>
+--The Earth, kinda (older ikinda &lt; inde hinda 'mother earth')-- benign<br>
+--The Sky, enende but more commonly parenende (ult. &lt; nele 'sky')-- generally benign but capricious<br>
+--The Sea, tendru&ccedil;ek (&lt; te inde ro&ccedil;e 'respected mother sea')-- capricious<br>
+--Fire, teyomarak (te o marak 'respected PERS. angry)-- capricious<br>
+--The Wind/Storms-- malevolent<br>
+--Forests/Jungles (ama) krahake (often followed by the name of the specific forest)-- malevolent<br>
+--The moon Vuruna, supruna (&lt; susa vuruna 'sister V.')-- benign<br>
+--The Cousins, usu. the species name with ha&ntilde;- 'soul' prefix, e.g. <i>hakaprali, hangusimi</i>-- benign<br>
+--Snow/Ice-- &ccedil;emanifa, &ccedil;e&ntilde;amir, important only in areas where these occur.--capricious<br>
+--Lightning/Electricity-- dangerous<p></blockquote>
+
+<p>Some of these Spirits are considered benign and helpful-- Sun, Earth, Sky, Vuruna, Cousins; some are capricious-- Sea, Fire, Ice; a few are felt to be malign and dangerous-- Wind, Forest, Lightning
+
+<p>And the Lesser Spirits include just about everything else:<blockquote>
+--the lesser moon Lalap, matralap (< mar-+... '[dear] brother...')-- capricious<br>
+--individual trees, and workable wood derived from them; sawmills and their tools--helpful<br>
+--water: streams, rivers, waterfalls, lakes, natural springs, çamasu-- capricious<br>
+--large boulders, any imposing rocky formation; certain mountains; usable/workable rock materials, quarries<br>
+--precious and semi-precious stones-- benign<br>
+--royal ornaments (usually antiques): swords, maces, staffs, ritual garments-- benign<br>
+--knives, swords, blades in genl., çendiyas.-- benign when properly used, otherwise capricious or malign<br>
+--plants, especially the food plants; grains, millstones-- benign<br>
+--non-cousin animals-- variously benign, capricious, dangerous according to behavior<br>
+--metals; metalworking, materials/tools of the forge and foundry-- helpful<br>
+--tools of all sorts-- helpful<br>
+--buildings, especially old ones; building materials (brick, concrete, in addition to wood-- some builders 				ascribe a spirit to everything they use, even the nails)-- helpful, but some are capricious<br>
+--artistic creations, and associated materials; even some writers acknowledge a &quot;spirit of writing&quot;-- helpful<br>
+	etc....<br>
+Most of these have names derived from &ccedil;em(a)- ~&ccedil;eham- (< &ccedil;ehama) + the appropriate word-- &ccedil;ehandula (gold), &ccedil;ematrang (hammer), &ccedil;emambom (gongs), &ccedil;ehamuku (uku grain) and so forth.</p></blockquote>
+
+<p>The Spirits given above are considered to be immobile, merely residing in the objects/materials they govern.  There is a third group, <i>anamingi ~namik</i>, which we will call 'sprites' (demons?), conceived of as the manifestations (children) of the capricious/harmful Spirits-- these are mobile, mostly invisible, mischievous or malicious, rarely helpful; they wander about causing trouble. They should be appeased before one enters their realm; their actions can sometimes be countered with telepathy. Some have no clear connection with a parent Spirit. Among the namik are:<blockquote>
+--naniyaki-- malicious sprites (children of Forest) that lead one astray in the forest; if they succeed in leading one all the way to Father Forest, one will likely die; the remedy is to call out to the Cousins-- if they are nearby, they will lead one to safety<br>
+--çenge are also "forest sprites" but more benign, or at worst capricious; usually associated with individual trees or species, or the wood thereof; if not properly appeased they may cause tools to go amiss or break, saws to bind, trees to fall the wrong way, boards to warp or twist, etc.<br>
+--tirivaçu-- malicious water sprites who cause drowning (in rivers and lakes/pools-- at sea is another matter)<br>
+--anacangat-- inhabit rocky places-- caves, mines, quarries, canyons and ravines-- they may impede ones path or cause a bad fall, lead one astray, cause rock-falls and landslides, etc. In caves they inhabit stalactites/stalagmites, on the outside unusually shaped rocks or small formations, or any rocky rubble that is difficult of passage; in art they are often depicted as short, chunky dwarf-like humanoids (made of rock)<br>
+--kriyoka-- mischievous household sprite who causes things to be mislaid, go missing<br>
+--anisu-- mischievous sprite who causes people to bump into each other, or into objects; and to slip and fall, --or vehicles to skid-- in wet or icy places<br>
+--anambruna-- (child of Vuruna; may also contain nam- < namik) a capricious feminine manifestation of Vuruna, who may help or hinder a love affair. If properly appeased, she will bring happiness; if not, misery, bickering, jealousy and ultimate break-up. The person (m. or f.) who interferes in an affair-- tries to steal one's lover-- is believed to be possessed by anambruna<br>
+--anandalap-- (child of Lalap), capricious male manifestation of Lalap (who in legend was a drunken reprobate) who possesses people and is responsible for drunkenness and drunken behavior. He protects drunkards from major mishaps (he wants to continue inhabiting them, after all), but can cause falls, unconsciousness, and stupid or inappropriate behavior. A hangover is a sign that anandalap has tired of his game<br>
+	--etc. etc</p></blockquote> 
+
+<p>Some spirits are taken more seriously than others; sailors, farmers, builders, craftsmen of all sorts are quite devoted to theirs. At one time, sicknesses were believed to be caused by spirits, but few people accept this nowadays. Most items of relatively recent human invention or manufacture are not considered to have tutelary spirits, though if one's car stops working one might in jest blame an Electricity-sprite or coin a nonce-form like &ccedil;embanan 'spirit of brakes'; or blame an Ice-sprite for a faulty refrigerator. 
+
+<p>6.3. Mythical beasts/monsters. At the moment we know of the following:<blockquote>
+--kundapor, a mythical dragon-like beast (originally Gwr, <i>kung da pr</i>)-- similar to a griffin or basilisk, a composite of a large lizard-like body (the rear, with a long tail and  typical hind legs, scaly) with the front quarters and head of a Cousin-like animal (powerful paws with claws, mouth with vicious fangs, furry). It dwells in the forests, and may derive from racial memory of prehistoric times, when both animals preyed on the relatively small Gwr and related species; of course, it is a much-feared and despised beast in Gwr mythology. As adapted by the Kash, however, it is relatively good-natured, often a defender against forest sprites, though it must be dealt with carefully, as its reptilian aspect makes it somewhat untrustworthy. Modern Gwr still have great fear of forests, and seldom enter one without a firearm. But as a result, the great lizards and large cousins have learned to avoid contact, and rarely attack unless provoked<br>
+--ticandi (< ti&ccedil;a tandi 'moon cousin') a myth.monster: a large, vicious Cousin-like animal in Kash mythology-- some humans are believed to turn into this when both moons are full and near each other in the sky; analogous to our werewolf<br>
+--a&ccedil;akon a k.o. dragon, in both Kash and Gwr mythology, quite comparable in form to the dragons we Terrans imagine-- a large scaly lizard, sometimes with wings, able to exhale noxious fumes, fire or lightning. The generic term for the saurians of Cindu-- <I>&ccedil;akonji</I> is derived from this word.<br>
+--s&aacute;saka&ccedil;, a semi-mythical, mysterious creature of humanoid form, larger than a Kash, believed to live in the far reaches of the forests/jungles, and people claim to have seen them. (Bigfoot and/or Yeti are analogous.) They also figure in Gwr mythology, where they are considered dangerous (modern BDG <i>sah ka shi-- sah</i> of uncertain mng.). It is clearly a loanword, but whether from Gwr to Kash or vice versa is uncertain; note the anomalous stress. Although the Kash word appears to be a neuter plural, it is in fact animate and singular; it may derive from (obs.) sasar+kaç: <i>sasar</i> refers to the ancient practice of abandoning unwanted children in the forest.
+
+<!--NO. Ceremonies.-->
+
+==========================================================================
+
+ 
+
+
+<!--<p><b>THE LAÑ-LAÑ</b> -->
+<p>&nbsp;
+</body>
+</html>
+
+
+ 

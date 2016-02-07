@@ -1,0 +1,80 @@
+<html>
+<head>
+<title>MarkClock</title>
+<style> #canvas { background-color: black; background-image: url(mark.gif); background-position: 50% 50% } </style>
+<script src="excanvas-compressed.js"></script>
+<script language="javascript">
+(function(){
+var WIDTH, HEIGHT, OX, OY, hands, c, timer
+var hands = [ [ 'getSeconds', 6, function() { return OX },        4, '#a0a0a0' ],
+              [ 'getMinutes', 6, function() { return OX * 3/4 }, 12, '#d0d0d0' ],
+              [ 'getHours',  30, function() { return OX / 2   }, 16, 'white' ]  ]
+
+function load()
+{
+    var canvas = document.getElementById('canvas')
+    c = canvas.getContext('2d');
+    var query = location.search.substring(1);
+    var pairs = query.split('&');
+    var GET = {};
+    for (var i=0; i<pairs.length; ++i)
+    {
+        var pos = pairs[i].indexOf('=');
+	if (pos == -1) continue;
+	var name = pairs[i].substring(0,pos);
+	var value = pairs[i].substring(pos+1);
+	GET[name] = value;
+    }
+    if (GET.width) 
+    	canvas.width = GET.width;
+    if (GET.height) 
+    	canvas.height = GET.height;
+    WIDTH = 0 + canvas.width
+    HEIGHT = 0 + canvas.height
+    OX = Math.floor(WIDTH / 2)
+    OY = Math.floor(HEIGHT / 2)
+    timer = setInterval( updateClock, 200 );
+}
+
+function updateClock()
+{
+    var now = new Date()
+    c.clearRect(0,0,WIDTH,HEIGHT);
+    for (var i=0; i<hands.length; ++i)
+    {
+        var parms = hands[i];
+        var theta = Math.PI/2 - now[parms[0]]() * parms[1] / 180.0 * Math.PI;
+        var x = Math.floor(OX + parms[2]() * Math.cos(theta));
+        var y = Math.floor(OY - parms[2]() * Math.sin(theta));
+        c.lineWidth = parms[3];
+        c.strokeStyle = parms[4]
+        c.beginPath();
+        c.moveTo(OX, OY);
+        c.lineTo(x, y);
+        c.stroke();
+    }
+}
+
+window.onload = load
+})();
+</script>
+<script type="text/javascript">
+
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-18440424-2']);
+  _gaq.push(['_trackPageview']);
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+
+</script>
+</head>
+<body>
+<canvas id="canvas" width="720" height="720"></canvas>
+<br/>
+<sub>inspiration: jbrand | image and code: mjreed</sub>
+</body>
+</html>

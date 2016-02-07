@@ -1,0 +1,81 @@
+<html>
+ <head>
+  <meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
+  <title>Date and Time on Cindu</title>
+  <script type="text/javascript" src="cindu.js"></script>
+  <script type="text/javascript" src="julian.js"></script>
+  <script type="text/javascript" src="cindu_driver.js"></script>
+  <style type="text/css">
+   div#nojs {display: block}
+   form { width: 75% }
+  </style>
+ </head>
+ <body>
+  <h1>Date and Time on Cindu</h1>
+  <form method="post" action="">
+  <fieldset>
+   <legend>Earth</legend>
+  <input type="button" id="earth_back" value="<-">
+   <select id="earth_era">
+    <option value="ad">AD</option>
+    <option value="bc">BC</option>
+   </select>
+   <input id="earth_year" type="text" name="earth_year" size="4">
+   <select id="earth_month">
+   </select>
+   <select id="earth_mday"></select>
+  <input type="button" id="earth_forward" value="->">
+   (<span id="earth_wday"></span>)
+   <br/>
+  <select id="earth_hour"></select>:
+  <select id="earth_minute"></select>:
+  <select id="earth_second"></select>
+  <select id="earth_ampm">
+   <option value="am">AM</option>
+   <option value="pm">PM</option>
+  </select>
+  <select id="earth_zone">
+   <option value="local">Local Time</option>
+   <option value="utc">UTC</option>
+  </select>
+  <input type="button" id="earth_noon" value="Noon">
+  (<span id="earth_utc"></span>)
+  <br/>
+   Calendar:<select id="earth_cal">
+    <option value="gregorian">Gregorian</option>
+    <option value="julian">Julian</option>
+   </select>
+   <input type="checkbox" id="auto_cal" checked="checked" /> 
+    Switch automatically according to 
+    <select id="rules">
+    <option value="639797">English</option>
+    <option value="577736">Catholic</option>
+    <option value="700214">Russian</option>
+    </select> conversion date
+
+ </fieldset>
+  <input type="button" id="now" value="Now">
+  <fieldset>
+   <legend>Cindu</legend>
+  <input type="button" id="cindu_back" value="<-">
+   <select id="cindu_era">
+    <option value="pv">p.v.</option>
+    <option value="pm">p.m.</option>
+   </select>
+   <input id="cindu_year" type="text" name="cindu_year" size="4">
+   <select id="cindu_month">
+   </select>
+   <select id="cindu_mday"></select>
+  <input type="button" id="cindu_forward" value="->">
+   (<span id="cindu_wday"></span>)
+   <br/>
+  <select id="cindu_hour"></select>:
+  <select id="cindu_minute"></select>:
+  <select id="cindu_second"></select>
+  <input type="button" id="cindu_noon" value="Noon">
+  <br/>
+ </fieldset>
+</form>
+  <div id="nojs">You need to enable Javascript for this feature to work.</div>
+ </body>
+</html>

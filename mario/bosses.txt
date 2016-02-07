@@ -1,0 +1,304 @@
+                                o--------o
+                                | Bosses |
+                                o--------o
+
+Just a quick note for all bosses (except 8-Castle Two), these are the following
+damage scales, assuming each Boss has a total of 9 Hit Points when the battle 
+begins:
+
+Jump----------> 3 Hit Points
+Fireball------> 1 Hit Point
+Ground Pound--> 6 Hit Points
+Mega Mushroom-> one hit kill
+
+                                  =======
+                                  1-Tower
+                                  =======
+
+Baby Bowser will attack Mario simply by running back and forth, attempting 
+to ram him at full speed.  The way to defeat the monster is to hit him with
+three leaps to the head, though he will retreats to his shell after every
+bonk from Mario, so step away until he comes back from his hiding game.  The
+other method for defeating Baby Bowser is to hit him with 9 Fireballs, 
+though the Fireballs can be combined with the jump attacks to beat Baby 
+Bowser as well.  Consider the Jump attacks remove 3 Hit Point Points and the 
+Fireballs remove 1 Hit Point, meaning that to beat Baby Bowser, 9 Hit Points
+must be removed.
+
+
+                                 ========
+                                 1-Castle
+                                 ========
+
+Baby Bowser will send in Bowser to fight against Mario... on a breakaway
+bridge.  Yes, Baby Bowser has never read a history book apparently on the
+entire game of Super Mario Brothers.  Anyway, Boswer can be taken down 
+through three particular strategies:
+
+  i) The easiest way to beat him is to get onto the elevator floating on the 
+     bridge, waiting for Bowser to draw near so Mario can take a running
+     leap past the beast to hit the switch and drop Bowser into the lava.
+
+ ii) Fireballs can roast the beast, taking him out in a few short bursts.
+     Although this manner will drop Bowser into the lava below, only hitting
+     the switch will end the battle.
+
+iii) This is an unorthodox option, but as Shell Mario you can bash Bowser 
+     until he falls into the lava defeated.  The same rules apply for 
+     hitting the switch to end the level.
+
+
+                                  =======
+                                  2-Tower
+                                  =======
+
+Baby Bowser will attack Mario simply by running back and forth, attempting 
+to ram him at full speed on a platform that is not complete, as Mario can 
+fall into the quicksand below, making it tough for him to escape and battle
+Baby Bowser without taking a hit on the exit.  The way to defeat the monster
+is to hit him with three leaps to the head, though he will retreat to his 
+shell after every bonk from Mario, so step away until he comes back from his
+hiding game.  The other method for defeating Baby Bowser is to hit him with 
+9 Fireballs, though the Fireballs can be combined with the jump attacks to 
+beat Baby Bowser as well.
+
+
+                                 ========
+                                 2-Castle
+                                 ========
+
+Head right and Mario will come face to face with the Mummy Pokey!  To win 
+this battle Mario will need to put 9 Fireballs into the creature, hit it 
+with three Shell Dashes, or jump on the head of the monster three times 
+(you can also go Mega Mushroom on it as well if you are lazy).  The monster 
+will attack by surfacing from the sand, spitting a projectile at Mario, and 
+then disappearing below once more.  if you are going to use jumps to defeat 
+it, only nail it when it is low enough to safely jump onto it.  Once 
+Mario has won the battle, off to World Three he shall go!
+
+
+                             OR AS MINI Mario!
+
+
+Head right and Mario will come face to face with the Mummy Pokey!  To win 
+this battle while Mini Mario, watch for the Mummy Pokey to poke out of the 
+ground, noting the height it stops rising out at.  If it is too high for 
+Mario to leap over the top of, avoid the incoming projectile and wait for 
+the next reappearance, but when it does pop out at a low enough height to 
+attack it, jump directly above it and perform a Ground Pound attack to 
+damage the Mummy Pokey.  Repeat this pattern successfully twice more and 
+Mario will be on his way to World Four!
+
+
+                                  =======
+                                  3-Tower
+                                  =======
+
+Bowser Jr. attacks here as usual, charging back and forth in an attempt to
+run into Mario, but this time his platform has water all underneath it, so
+falling in will make it tough to get back onto the ledge without taking a
+hit in the process.  The usual 3 stomps or 9 Fireballs or a combination of
+the two will end the battle, chasing Bowser Jr. from another Tower!
+
+
+                                 ========
+                                 3-Castle
+                                 ========
+
+Go to the right to find a bridge set up with fish below it, including the 
+boss, Cheepskipper!  To defeat this foe, leap onto his head as he jumps up
+above the bridge, getting him three times to beat him.  Just note that Mario
+also has to contend with the leaping Cheep-Cheeps while doing this, and that
+Fireballs can defeat the foe in 9 hits.  Not a tough boss, just leap 
+carefully to defeat it, ending the tour of World Three!
+
+
+                                  =======
+                                  4-Tower
+                                  =======
+
+Bowser Jr. will once again take on Mario, but this time he will try some
+different tactics.  If Mario attempts to clock him with a leap, he will
+retreat into his shell.  Instead, leap over his charges, drawing him into 
+throwing a green shell at Mario, which he should hop on to stop it, followed
+by kicking it back into Baby Bowser to knock him onto his back, at which
+point Mario should perform a Ground Pound to hurt the little beast.  Repeat
+this pattern two more times, and he will go down in defeat.  Also note that
+9 Fireballs will do him in, and they can hurt him at anytime during the 
+bout.
+
+
+                                 ========
+                                 4-Castle
+                                 ========
+
+After the Goomba gets enlarged, stomp on the ?-Switch in the pit to make some
+platforms appear to allow Mario to jump high enough to get above the Giant
+Goomba, delivering a Ground Pound attack to hurt the monster.  Keep at the
+attacks from above, landing three total hits to take it down.
+
+
+                                  =======
+                                  5-Tower
+                                  =======
+
+Bowser Jr. will return to his old tricks, simply trying to charge into 
+Mario, though he can also leap into the air if given enough time.  Deliver
+three stomps or nine fireballs or a combination of the two, beating the foe
+quickly, but be wary of the icy platform, as it can make controlling Mario
+precisely a difficult job.
+
+
+                                 ========
+                                 5-Castle
+                                 ========
+
+Petey Piranha will make his appearance here... yes, the Super Mario Sunshine
+stand out will attack Mario, looking for some revenge!  Petey will start off
+by flying into the air, trying to divebomb Mario (move out of the way as he
+attacks), which will dizzy him, allowing Mario to hit him with a jumping
+attack.  After this Petey will bounce up and down through out the room, so
+dodge these attacks so he will take off into the sky once more, allowing 
+Mario to repeat the dance two more times to finish off the beast and the 
+World, gaining access to World Six!
+
+                             OR AS MINI Mario!
+
+Petey Piranha will make his appearance here... yes, the Super Mario Sunshine
+stand out will attack Mario, looking for some revenge!  Petey will start off
+by flying into the air, trying to divebomb Mario (move out of the way as he
+attacks), which will dizzy him, allowing Mini Mario to use a Ground Pound on
+his head.  After this Petey will bounce up and down through out the room, so
+dodge these attacks so he will take off into the sky once more, allowing 
+Mario to repeat the dance two more times to finish off the beast and the 
+World, gaining access to World Seven!
+
+
+                               ===========
+                               6-Tower One
+                               ===========
+
+Bowser Jr. is again trying to charge and leap into Mario, so use the usual
+attacks of three stomps or nine fireballs or a combination of the two will
+take out the enemy.  However, this time Bowser Jr. has an extra trick up his
+sleeve, which is the platform that will tilt as Mario and Bowser Jr. move 
+around, so be careful to not fall into the spikes below.
+
+
+                               ===========
+                               6-Tower Two
+                               ===========
+
+Bowser Jr. will have reverted to his entering of his shell when Mario draws 
+near, so leap over his charge, forcing Baby Bowser to huck a shell at you.
+Stomp the shell and pick it up to hurl back, allowing Mario to land a leap
+to the underside of the small Koopa.  Complicating this is the tilting
+platform and the lava below, so be careful to keep stable footing through 
+out the battle.  Note that Bowser Jr. can also be smoked by 9 Fireballs if 
+you have the Firepower at any time, so feel free to roast him quickly!
+
+
+                                 ========
+                                 6-Castle
+                                 ========
+
+The Monty Mole Tank will fire off Bullet Bills, swinging the turret around
+to try and hit Mario.  To further complicate this, Monty Mole will pop out
+of the tank periodically to throw a Bob-Omb into the mix, but this is also
+happens to be the time to go after the malicious Mole, leaping onto him 
+before he can chuck the Bob-Omb.  This will cause Monty Mole to lose control
+of the tank temporarily, which will fire off Bullet Bills in various 
+directions until he regains control, at which point the cycle begins over.
+However, each new round of attacks will have an additional cannon added to 
+the tank, meaning Mario will have to scale the barrels of the weapons to
+stomp Monty Mole.  Three hits will scrap the tank and Monty Mole, moving
+Mario onwards in the game!
+
+
+                                  =======
+                                  7-Tower
+                                  =======
+
+Bowser Jr. will be using the hide technique if you try to leap on him, so 
+jump over his advances and wait for a Green Koopa shell to be thrown, which 
+Mario can stomp on to stop, followed by flinging it back to turn Baby Bowser
+onto his back, allowing mario to leap onto the exposed stomach.  Land the 
+typical three hits to end the bout, but Bowser Jr. has some mroe of those
+moving granite blocks here, so be ready to fight their momentum when leaping
+and running around on this small ledge.
+
+
+                                 ========
+                                 7-Castle
+                                 ========
+
+Jump up the platforms and head to the right, running into a Lakitu who 
+controls the power of lightning... his name is Lakithunder!  Lakithunder 
+will attack from his remote position above, throwing Spinies down for Mario
+to dodge, which he augments with vicious thunderclaps from above.  Keep 
+avoiding the attacks to outwait Lakithunder, who will make a divebomb at 
+Mario, at which point Mario should leap onto his head to damage him.  Repeat
+the pattern two more times, knocking him out and heading out for the last
+World in the game!
+
+
+                               ===========
+                               8-Tower One
+                               ===========
+
+Bowser Jr. will be doing his usual throw the shell and get nailed, allowing
+Mario to jump onto his stomach to damage him.  However, this battlezone will
+have a couple extras trick to deal with, mainly the moving granite blocks on
+the sides of the area, and two Flamethrowers will attack from below, so be
+careful to not take a hit while chasing down Bowser Jr.  Three hits will end
+the bout, sending Bowser Jr. scurrying off once more!
+
+
+                               ============
+                               8-Castle One
+                               ============
+
+Bowser Jr. will sic Skeletal Bowser on Mario, who is far less vulnerable 
+than Bowser was in the first Castle of the game.  However, he still suffers
+from the same beatable weakness in that once that switch behind him is 
+touched, he drops form sight!  To perform this feat, simply dodge the 
+incoming bone throws (mush like the SMB hammers Bowser could throw) and 
+fiery breath attacks, waiting for Bowser to leap high into the air, at which
+point Mario can go underneath and hit the switch.  Another tried and true 
+way of getting to the switch is to just run right into Bowser, using the 
+temporary invincibility to go hit the switch!
+
+
+                               ===========
+                               8-Tower Two
+                               ===========
+
+Baby Bowser will be doing his now familiar hide in his shell before tossing
+a Green Koopa shell, so stomp the shell and throw it back to stun him, 
+followed by planting a plumber boot in his exposed mid section.  Repeat the 
+pattern two mroe times while watching out for the Podoboo attacks on the 
+sides, and baby Bowser will make one last run for it!
+
+
+                               ============
+                               8-Castle Two
+                               ============
+
+Bowser Jr. will revive his destroyed father before the battle even begins, 
+turning the bout into an unfair 2 vs. 1... if you were not the great Mario
+anyway!  Start out by concentrating on Baby Bowser, jump his charges,
+forcing him to throw a Koopa shell for Mario to stomp and throw back, 
+followed by jumping onto his exposed stomach (though Fireballs really work 
+well here), getting three hits to finish him off.  However, while taking 
+down this wily foe, remember that Bowser will be attacking with his blue
+flames that will track Mario down, but luckily their range is very limited.
+
+Once Bowser Jr. has been dispatched, it is time to take care of Bowser.  
+However, upon the defeat of scales and blood, Bowser will up the attacks, 
+sending out multiple flames at a time, including three blue homing flames at
+once!  Try to get in close to the monster, avoiding the flames (if the blue
+flames come out, back and off let them dissipate), waiting for Bowser to 
+leap into the air to allow Mario to go underneath him and to hit the switch
+that rests on the right side of the room.  Note it is far easier to go under
+him on the high leap, but it is possible to get under him on the small leap.
+

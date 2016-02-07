@@ -1,0 +1,316 @@
+----------------------------------------------------------------------------
+---------------------------------Minigames----------------------------------
+----------------------------------------------------------------------------
+
+8) This section will look at the Mario vs. Luigi multiplayer and at the 
+   various single player distractions found within the game.
+
+
+                            o-----------------o
+                            | Mario vs. Luigi |
+                            o-----------------o
+
+After connecting to your opponent (in this game, you only need the one game
+cart to play this mode), the game will set out options for the rules of the
+game:
+
+  i) Set the number of wins.
+ ii) Set the number of Big Stars to collect for a victory.
+iii) Set the number of lives for the match for Mario and Luigi (includes
+     endless setting).
+ iv) Set the time for each course, though it also has a random feature.
+
+
+Once the game starts, the goal is to collect enough Big Stars to defeat your
+opponent, though they can also be stolen from your rival if they have any
+by attacking them with leaps, hitting from underneath, or with Power-Ups.
+
+Coins can be collected in this mode, with every 8 snagged causing an Item to
+appear for collection.
+
+Although the point is to go right after those Big Stars, sometimes it is 
+best to let your opponent do the dirty work of collecting, ambushing them
+as soon as they get it to relieve them of what is rightfully yours.
+
+
+                                o--------o
+                                | Action |
+                                o--------o
+
+                              ===============
+                              Snowball Slalom
+                              ===============
+
+Objective: Get the Snowball across the finish line before time runs out.
+Strategy.: Simply put, you will have to repeatedly move the stylus from 
+           bottom to top on the Touch Screen, building up speed.  Also, you
+           will need to do miniscule left and right corrections on the Touch
+           Screen, avoiding the rocks and penguins that litter the path.
+           Work on getting a very smooth stroke with the stylus, having 
+           little time wasted with the stylus off the Touch Screen.
+
+
+                               =============
+                               Lakitu Launch
+                               =============
+
+Objective: Get as many Spinies into the Lakitu held shells as possible.
+Strategy.: Pull down on the Touch Screen to pull the slingshot taut, 
+           followed by releasing to launch.  You will need to aim the 
+           trajectory of the shot by moving left and right on the Touch 
+           Screen while pilling back for power.  After firing a shot, glance
+           at the top screen to see where the Lakitus are moving to, at
+           which point you should start the aim and pull back on the Touch
+           Screen.  It takes about a second to reload the slingshot, so 
+           practice on getting a smooth rhythm down for a constant rate of
+           fire.
+
+
+                         =========================
+                         Danger, Bob-Omb!  Danger!
+                         =========================
+
+Objective: Help the Bob-Omb avoid having his fuse lit by Bowser and the
+           fireballs.
+Strategy.: For this game, the stylus should ALWAYS stay in contact with the
+           Touch Screen.  Move the Bob-Omb around the screen, avoiding the
+           incoming fireballs, but do keep an eye out for Bowser's flame, as
+           he may try to cut your area off with a long blast of flame.
+
+
+                               =============
+                               Whack-A-Monty
+                               =============
+
+Objective: Hit as many Monty Moles as possible, but do not hit Luigi.
+Strategy.: Simply put, always have your stylus moving, touching the Monty
+           Moles while avoiding the Luigis.  Perhaps the easiest way to do
+           this is to simply train your brain to look for brown as targets 
+           and to avoid green, as that is faster than making a full identity
+           check on your targets.
+
+
+                              ==============
+                              Balloon Racing
+                              ==============
+
+Objective: using your breath, lift Yoshi past the Shy Guys to reach the goal
+           before time runs out.
+Strategy.: This game will be a very frustrating one, as it is extremely
+           tough to use your breath to give Yoshi the proper momentum to get
+           past charging Shy Guys and to hold up and wait for the Shy Guys 
+           to clear a path above.  Carefully move Yoshi upwards, reaching 
+           the goal, but sometimes taking a hit may work in your favour, as
+           he can get by the Shy Guy quicker than waiting for the foe to
+           move.
+
+
+                                o--------o
+                                | Puzzle |
+                                o--------o
+
+                                  =======
+                                  Wanted!
+                                  =======
+
+Objective: Pick out the character from the Wanted poster on the top screen 
+           and touch him.
+Strategy.: Although the game starts out with very little challenge, the 
+           screen will quickly become filled up with other Mario characters.
+           To further complicate matters, as you progress in level the 
+           character faces will begin to move, making it possible to miss 
+           them.  For every correct character you get, 5 is added to your 
+           time, BUT for every incorrect character you get, a whopping 10
+           is removed from your time.
+
+
+                              ==============
+                              Which Wiggler?
+                              ==============
+
+Objective: Pick out the Wiggler that matches the one on the top screen.
+Strategy.: The best method for identifying the Wiggler early on is to
+           pick out two body segments you feel comfortable identifying (I 
+           choose the last two on the Wiggler), followed by finding that 
+           Wiggler below.  However, as the levels progress, the Wigglers 
+           move and the body markings begin to become really hard to 
+           identify, so you will need to expand your area of identification 
+           to extra segments.  For every correct Wiggler you get, 5 is added
+           to your time, BUT for every incorrect Wiggler you get, a 
+           whopping 10 is removed from your time.
+
+
+                             =================
+                             Hide And Boo Seek
+                             =================
+
+Objective: Locate and touch the Boos in their hiding places to reveal them.
+           Find them all before time runs out.
+Strategy.: Watch where the Boos are moving on screen before the lights go
+           out, and begin to run the screen where they are.  When the lights
+           do go out, this will reveal the hiding Boos.  However, as their 
+           numbers increase, begin like this, but quickly switch over to a
+           quick search stroke, finding specific Boos in the process to stop
+           on momentarily to reveal completely.
+
+
+                               ============
+                               Puzzle Panel
+                               ============
+
+Objective: Match the bottom screen to the top screen by touching the panels
+           to flip them over, performing the deed in the turns allotted.
+Strategy.: Remember that for whatever panel you touch, it and each panel 
+           that touches it will flip over, which includes the four diagonal
+           panels.  Look carefully before touching the screen, remembering
+           that panels that are on the border of the design will not have as
+           many panel flips occur, making them strategically valuable in
+           most puzzles.
+
+
+                              ==============
+                              Coincentration
+                              ==============
+
+Objective: Watch the falling Coins and choose the block that holds them, but
+           choose wrong and the game will end.
+Strategy.: Although it is tough to, try to choose two rows to watch, getting
+           a fairly good idea of where the Coins are.  Although it leaves 
+           one row fairly unscouted, it will make for a fairly high score.
+
+
+                                o-------o
+                                | Table |
+                                o-------o
+
+                               ============
+                               Memory Match
+                               ============
+
+Objective: Match up all the cards before making three mistakes.
+Strategy.: This is a game of chance, but by using a system it will lessen
+           your chances of failure.  Start out by choosing two cards beside 
+           one another (just as likely to match as any two other choices),
+           remembering what each card is (I like to use a single letter for
+           easy identification instead of a full name), followed by checking
+           a different card on the next turn.  If it matches one of the
+           cards flipped previously, then match it up, but if it is 
+           different than the previous two, pick the card beside it (again
+           memorize where they are if they are not a match).  By using this
+           fairly simple system, you will be able to advance through 
+           multiple rounds with ease.
+
+
+                               =============
+                               Picture Poker
+                               =============
+
+Objective: Beat Luigi's hand to win some Coins.
+Strategy.: Card values are as follows...
+           Cloud -> Mushroom -> Fire Flower -> Luigi -> Mario -> Starman
+
+           Hand Hierarchy is as follows, with the multiplier for winning in
+           brackets...
+
+           Junk -> One Pair (2) -> Two Pair (3) -> Three of a Kind (4) -> 
+           Full House (6) -> Four of a Kind (8) -> Five of a Kind (16)
+
+           Whenever it appears that you will have a high Two Pair or better,
+           increase the bet to the maximum amount of five Coins, as you are
+           fairly likely to win.  When picking which cards to throw away,
+           it is rare you want to hold a card that has no match, with the 
+           sole exception being when you have Junk (ie five different 
+           cards).
+
+
+                                ===========
+                                Pair-A-Gone
+                                ===========
+
+Objective: Match up all the cards in a line (vertical/horizontal/diagonal)
+           to clear them away.
+Strategy.: Match up two of the same card to begin clearing the table, trying
+           to avoid getting some cards split up near the end.  As the number
+           of cards on the table lessens, you will really need to consider 
+           what each pair cleared will do to the card position.
+
+
+                                o---------o
+                                | Variety |
+                                o---------o
+
+                               ==============
+                               Mario's Slides
+                               ==============
+
+Objective: Guide Mario to the star five times by drawing new slides for him
+           to ride, but lead him to a Piranha Plant and the game ends.
+Strategy.: Always draw your lines high up on the bottom screen, as that will
+           leave more recovery room for later on in the level when you have
+           to account for the extra lines that you have created earlier.  
+           This also applies for when Mario speeds up, as it will leave a 
+           bit of a safety net for you as well.
+
+
+                              ===============
+                              Sort Or 'Splode
+                              ===============
+
+Objective: Sort the red and black Bob-Ombs into their respective areas, as
+           putting one into the wrong pen will end the game.
+Strategy.: To start it is very easy to sort them, so get them into their 
+           pens quickly, as the numbers and speed at which they appear begin
+           to increase.  if you take too long to get Bob-Ombs into their pen
+           the colour of the one that exploded will cause their respective
+           coloured Bob-Ombs to be counted up, allowing the game to continue.
+           Note that once a pen reaches it maximum capacity (ie 40 Bob-Ombs)
+           that the game will add them up before allowing you to try for more
+           of that type.
+
+
+                            ==================
+                            Bounce And Trounce
+                            ==================
+
+Objective: Three Marios will need to be kept aloft by touching them to send
+           them leaping into the air, trying to stomp the Shy Guys.  Miss 
+           three times and the game ends.
+Strategy.: Simply put, keep the three Marios in the air.  At first it is
+           easy enough to try and aim the three Marios at the Shy Guys, but 
+           as the sky becomes thick with the red coated fellows, it becomes
+           a game of survival, making sure that Mario can get past the swarm
+           above.
+
+
+                               =============
+                               Bob-Omb Squad
+                               =============
+
+Objective: Shoot the Bob-Ombs out of the sky so they can not hit your 
+           flowers in the garden, as losing all four flowers will lose the
+           game.
+Strategy.: Launch shots constantly, trying to line up each new shot mentally
+           while tracking the previous shot to see if it hit the intended
+           target.  As the sky thickens with attackers, try to hit multiple 
+           Bob-Ombs with one shot, and take careful aim to hit Lakitu as he
+           moves back and forth across the screen (if he is one corner, get
+           aimed for the other corner and nail him when he moves there).  
+           When the Bob-Ombs get onto the bottom screen, still aim upwards,
+           but pull the shot down lower than the incoming Bob-Omb, 
+           destroying it as soon as it is launched.
+
+
+                              ===============
+                              Trampoline Time
+                              ===============
+
+Objective: Get the three Marios into the open door by drawing in trampolines
+           to bounce them in there, but three misses will end the game.
+Strategy.: Much like the Bounce and Trounce, the primary goal is not to aim
+           Mario to the doors, but rather to keep all three in the air.  If
+           they are kept moving, then eventually they will make it to the 
+           door.  Just be careful to not seal a Mario below other 
+           Trampolines, as you will have to keep him afloat with more and
+           more drawings, likely ignoring the other Marios, which ends up
+           badly (usually anyway).
+

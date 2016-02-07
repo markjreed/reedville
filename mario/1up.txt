@@ -1,0 +1,168 @@
+----------------------------------------------------------------------------
+------------------------------1-Up Techniques-------------------------------
+----------------------------------------------------------------------------
+
+7) This section will look at a few ways to gather up many lives in one fell
+   swoop, earning Mario a lot more chances to take down Baby Bowser and get
+   the Princess back.
+
+
+                             o---------------o
+                             | 1-Up Mushroom |
+                             o---------------o
+
+Whenever one of these Green Mushrooms are collected, an extra life is 
+awarded to Mario.
+
+
+                           o-------------------o
+                           | Collect 100 Coins |
+                           o-------------------o
+
+Simply put, get 100 Coins to gain an extra life.
+
+
+                         o-----------------------o
+                         | Mega Mushroom Rampage |
+                         o-----------------------o
+
+When Mario is in his massive form, he will fill a damage meter up, and after
+the smushing and kicking ends, the meter will award up to five lives.  Every
+chunk of the meter that is filled will result in a 1-Up Mushroom dropping 
+into play.
+
+
+                             o----------------o
+                             | Starman Sprint |
+                             o----------------o
+
+When Mario finds an Invincible Starman, he will be able to blast through any
+foe and defeat them.  However, with each kill he makes, he will receive an
+increasing amount of points, which goes as follows: 200, 400, 800, 1000, 
+2000, 5000, 8000, and then 1-Ups for each enemy killed there after.  Though it
+is tough to do this due to the lack of length for an Invincible Starman's 
+duration, it is possible in some enemy packed areas.
+
+
+                            o----------------o
+                            | Slope Slamming |
+                            o----------------o
+
+When sliding down a slope, Mario will be able to take out most foes.  As he 
+slides, he will also gain increasing point totals, which works as follows:
+200, 400, 800, 1000, 2000, 5000, 8000, and then 1-Ups for each Enemy killed 
+there after.
+
+
+                         o-----------------------o
+                         | Touchless Stomp Chain |
+                         o-----------------------o
+
+If Mario is able to keep stomping on enemies without touching down to the 
+ground, he will gain increasing points amounts, followed by 1-Ups.  The chain 
+is as follows: 200, 400, 800, 1000, 2000, 5000, 8000, and then 1-Ups for each 
+Enemy killed there after.
+
+
+                           o-------------------o
+                           | Flagpole Fragging |
+                           o-------------------o
+
+When Mario touches a Flagpole with an enemy and/or object on screen, he will
+gain 1000 points.  However, if multiple objects/enemies are on screen, Mario 
+will gain points in the following increments: 1000, 2000, 4000, 8000, and 
+then 1-Ups for each additional object/enemy on screen.  Although rare in
+occurrence, you can sometimes force this to occur in stages where Spinies or
+Bullet Bills can be lured into the area of the flagpole.
+
+
+                           o--------------------o
+                           | Turtle Shell Combo |
+                           o--------------------o
+
+Kicking a Koopa Troopa shell through a line of enemies can gain extra lives.
+The order of points go: 200, 400, 800, 1000, 2000, 5000, 8000, and then a 1-Up
+for every enemy after that.  This is useful in only a few levels, but it is a 
+technique that should be utilized by Mario as often as possible.
+
+
+                          o-----------------------o
+                          | Turtle Shell Ricochet |
+                          o-----------------------o
+
+This is a version of the above trick, but it uses just one shelled enemy.
+If Mario could jump on a shell, and as it rebounded, Mario could land on it,
+which could continue for a bit through the same point values as listed above 
+in Turtle Shell Combo, and then 1-Ups would occur.  Keep in mind that most of 
+these have Green Paratroopa Koopas that need to be de-winged, retreated into 
+their  shells, and they have to come to a rest on a block with space below to 
+stand on.  The following diagram will show how to go about getting the 
+multiple 1-Ups (using World 2-4):
+
+__________________________________
+Key                               |
+                                  |
+GK - Green Koopa Troopa           |
+MP - Mario's Position             |
+RK - Retreated Green Koopa Troopa |
+                                  |
+__________________________________|
+
+
+          ==========
+          FIGURE ONE
+          ========== 
+
+                 _
+               _|_|
+           GK_|_|_|
+           _|_|_|_|
+         _|_|_|_|_|
+       _|_|_|_|_|_|
+     _|_|_|_|_|_|_|
+  MP|_|_|_|_|_|_|_|
+__|_|_|_|_|_|_|_|_|__
+
+Mario arrives at the staircase, and he will get onto the stairwell (bottom 
+step is easiest to get to).  Now Mario can get ready for FIGURE TWO.
+
+          ==========
+          FIGURE TWO
+          ==========
+
+                 _
+               _|_|
+             _|_|_|
+           _|_|_|_|
+         _|_|_|_|_|
+       _|_|_|_|_|_|
+    RK|_|_|_|_|_|_|
+  MP|_|_|_|_|_|_|_|
+__|_|_|_|_|_|_|_|_|__
+
+Mario will now wait for the Green Koopa Troopa to start it's step down to the 
+step above Mario's position.  Mario will jump at that exact point, and the 
+Green Koopa Troopa will be retreated into it's shell, and the shell will be 
+kicked.  The shell should stop on the same step however, and this sets up 
+FIGURE THREE.
+
+          ============
+          FIGURE THREE
+          ============
+
+                 _
+               _|_|
+             _|_|_|
+           _|_|_|_|
+  MP     _|_|_|_|_|
+   ^   _|_|_|_|_|_|
+   |RK|_|_|_|_|_|_|
+   v|_|_|_|_|_|_|_|
+__|_|_|_|_|_|_|_|_|__
+
+Mario should now jump up straight with a tap jump, and he will start to 
+bounce off of the shell repeatedly, which will increase in point increments 
+(as listed in Turtle Shell Combo), and then 1-Ups will start to ring in.  At
+some point, Mario will stop doing this, so he should jump back on for more
+chances.
+

@@ -1,0 +1,97 @@
+======================================================================
+Structure
+----------------------------------------------------------------------
+Cindu year consists of 16 months of 29 days each, except for 3 out of every 19
+years, when one of those months has 30 days.  More specifically, time is
+divided up into seasons of 116 days each, except for 3 out of every 76 seasons,
+which has 117 days.   Each year is four seasons.
+
+The structure of the month is where things get tricky.  A common month consists
+of 29 days, in four 7-day weeks with one blank day called "cinjurak" in the
+middle.   If, however, a month is a leap month (the first month of a leap
+season), then there is an additional blank day whose position varies with the
+season.  If the season is spring, then the leap day precedes the first day of
+the month.  Otherwise, it follows Cinjurak.
+
+If the date is Cinjurak, it is given simply as "cinjurak of <month>, <year>".
+Leap days are referred to as either "waiting day" (for Spring) or "dancing day"
+(otherwise) "of <month>, <year>".  All other dates are numbered, 1 through
+29, skipping the blank days.
+
+For the calculations, we represent the date as a list: <year, month, week,
+day>.  Cinjurak is represented as day 8 of week 2.  A spring leap is
+represented as day 0 of week 1.  A midmonth leap is day 0 of week 3.  Thus
+for any non-blank day the actual date is given by (week - 1) * 7 + day.
+
+----------------------------------------------------------------------
+
+A) A year is leap if its ordinal number mod 19 is 3, 10, or 16.  This is
+formula 1.57 with l=3, c=19, and delta=16.  Thus year y is leap if and only if
+        
+        ((y+16)*3) mod 19) < 3
+
+A) A season is leap if its ordinal number (starting with season 1 = spring of
+year 1 of the New Count) modulo 76 is 11, 37, or 62.  This is formula 1.57 with
+l=3, c=76, and delta=65.  Thus, season number s is leap if and only if
+
+        ((s + 65)*3) mod 76 < 3                 (1)
+
+
+B) Using (1.60), that means that there are 
+
+        floor( (3*s - 3 + ((65 * 3) mod 76)) / 76 ) + 116(s-1) 
+
+days before season number s; that simplifies to this:
+
+        floor( (3*s + 40) / 76 ) + 116(s-1)     (2)
+
+If we have a year number y instead of a season number, we can compute s as
+4(y-1) + 1 = 4y-4+1 = 4y-3:
+
+        floor( (3*(4y-3) + 40) / 76 ) + 116(4(y-1))
+
+which simplifies to this:
+
+        floor( (12y + 31) / 76 ) + 464(y-1)     (3)
+
+C) Finally, we can invert this function via (1.64), then, to find out the
+season which contains Cindu ordinal day n:
+
+        ceiling( (76*n + 76 - ((3 * 65) mod 76) )/ (76*116 + 3) )
+
+   simplifies to this
+
+        s = ceiling( ( 76*n + 33 ) / 8819 )     (4)
+
+  and of course to get a year
+
+        y = floor((s-1)/4) + 1
+
+======================================================================
+Subdividing the day
+----------------------------------------------------------------------
+The day is divided into 20 hours (aroç), each of which is divided into
+50 minutes.
+
+======================================================================
+Correspondence
+----------------------------------------------------------------------
+May 23, 1934 CE at 0600 GMT corresponds to midnight (0100 hours) 
+on lembrim, açumbres 1, 702 p.v.
+
+======================================================================
+Glossary
+----------------------------------------------------------------------
+day = lero, days = leroç
+hour = aro, hours = aroç
+week = (so)trelo, weeks = (so)treloç
+month = açurak, months = açurakaç
+year = pehan, years = pehanaç
+
+Epoch's: Old Count = pinal marok (pm); New Count = pinal velu (pv).
+
+Days of the week: lembrim, uwam, kayiñ, vuruna, imbar, turat, lalap
+
+Months: 
+açumbrés, açuró, açusit, açukrá, açundrím, açukrét, açusót, açuprán,
+açusán, açuprót, çupromés, çuporó, çurosit, çuprohá, çuproním, açulús

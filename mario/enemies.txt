@@ -1,0 +1,417 @@
+----------------------------------------------------------------------------
+----------------------------------Enemies-----------------------------------
+----------------------------------------------------------------------------
+
+6) This section will examine both the regular enemies and the bosses of the
+   game.
+
+
+                             o--------------o
+                             | Regular Foes |
+                             o--------------o
+
+Name......: Amp.
+Appearance: Electrified black orb.
+Attacks...: They will not move, but are positioned in area where Mario has
+            to navigate through, making them great at being in the way.
+
+
+Name......: Ball & Chain.
+Appearance: A chain with a large spiked ball attached to it.
+Attacks...: These traps will just swing around and around in an attempt to 
+            hit Mario, but they are usually positioned so Mario has to go
+            past them with bottomless pits positioned below.
+
+
+Name......: Balloon Boo.
+Appearance: A ghost that will harass Mario.
+Attacks...: When he is not looked at, he will grow in size, but when he is
+            being eyeballed, he will shrink back to his regular size.
+
+
+Name......: Banzai Bill.
+Appearance: A massive Bullet Bill.
+Attacks...: Flies across the screen in an attempt to hit Mario directly.
+
+
+Name......: Blockhopper.
+Appearance: A fake ? Block with bricks on top.
+Attacks...: This faker will try to leap onto or walk into Mario, but they
+            are fairly easy to avoid.
+
+
+Name......: Blooper.
+Appearance: A jellyfish creature that inhabits watery areas.
+Attacks...: Swims around the water in odd sideway movements, though they
+            are sometimes accompanied by Mini-Bloopers, which are shot out
+            in multiple directions to hit Mario.
+
+
+Name......: Bob-Omb.
+Appearance: A small walking, black bomb.
+Attacks...: Once they are stomped on, their fuse is lit, causing them to
+            explode a few second later, clearing out anything within range.
+
+
+Name......: Boo.
+Appearance: A white ghost.
+Attacks...: When faced, these ghosts will hide their faces and not move, but
+            as soon as Mario turns away, these ghosts will beeline towards
+            Mario.
+
+
+Name......: Boomerang Brother.
+Appearance: A helmeted turtle with two large boomerangs.
+Attacks...: The Boomerang Bro will attack with his trusty Boomerangs, 
+            throwing them out in a circular pattern.
+
+
+Name......: Broozer.
+Appearance: A brawny ghost that breaks bricks.
+Attacks...: These guys will bust down walls, which is beneficial for Mario
+            when he needs the pathway opened.
+
+
+Name......: Bullet Bill.
+Appearance: A black bullet.
+Attacks...: These projectiles will fly straight across the screen in an
+            attempt to hit Mario directly.  Their cannons will often be
+            lined up into gauntlets for Mario to traverse through.
+
+
+Name......: Buzzy Beetle.
+Appearance: a black shelled beetle.
+Attacks...: These guys will crawl across the ceiling of underground areas,
+            dropping down to spin at Mario.
+
+
+Name......: Chain Chomp.
+Appearance: A black head chained to a single block.
+Attacks...: When Mario draws near, these beasts will attempt to lunge and
+            bite the hero.
+
+
+Name......: Cheep-Cheep.
+Appearance: An orange fish.
+Attacks...: Swims lazily in a single direction, not really making any effort
+            to hit Mario as he passes on by.  They can also be aggressive in
+            their attacks, but surprisingly it is when Mario is on dry land,
+            as they will attempt to leap into Mario.
+
+
+Name......: Cheep-Chomp.
+Appearance: A larger blue fish.
+Attacks...: These annoyances will try to swallow Mario whole, regardless of
+            his Power-Up situation.  They will often hound Mario for large
+            portions of the level, so be wary of their attacks from behind,
+            as they may not be gone yet.
+
+
+Name......: Crowber.
+Appearance: A black bird.
+Attacks...: These members of the Corvid family will look to swarm Mario,
+            often attacking in large groups.
+
+
+Name......: Deep-Cheep.
+Appearance: A green fish.
+Attacks...: Very similar to Cheep-Cheeps, these baddies will actually try to
+            hit Mario instead of just swimming along, so avoid them if you
+            can.
+
+
+Name......: Fire Bro.
+Appearance: Red turtles that spit fire.
+Attacks...: Another member of the infamous Hammer Brothers clan, these guys
+            come in pairs, spitting out Firepower shots like it is going
+            out of style.
+
+
+Name......: Firebar.
+Appearance: A chain of fireballs.
+Attacks...: Locked onto a brick, these fireballs in a group will swing 
+            around in a circle, attempting to touch Mario.  They are often
+            positioned so Mario will have to pass right through their area.
+
+
+Name......: Flame Chomp.
+Appearance: A floating black head with trailing fireballs.
+Attacks...: While floating through the air, it will pause momentarily to
+            spit a fireball at Mario.  if it runs out of fireballs to use,
+            it will attempt to explode in a kamikaze run at Mario.
+
+
+Name......: Flamethrower.
+Appearance: A small barrel that spews flames periodically.
+Attacks...: In a tribute to the Exhaust Ports from the Airships in the Super
+            Mario Brothers 3, these traps will shoot out flame in an attempt
+            to scorch Mario when he passes by.
+
+
+Name......: Giant Spiked Ball.
+Appearance: A massive metal ball with spikes all over it.
+Attacks...: Like the smaller version it will try to roll into Mario, but due 
+            the girth it possesses, it is also able to smash through bricks 
+            with ease, so watch out for it to appear suddenly from the side 
+            or above.
+
+
+Name......: Goomba.
+Appearance: A walking brown mushroom.
+Attacks...: These classic Super Mario Brothers enemies do nothing more than
+            try to bump into Mario, usually attacking in groups.
+
+
+Name......: Green Koopa Troopa.
+Appearance: A green-shelled turtle.
+Attacks...: This simple minded enemy has no self preservation skills, as it
+            will just walk blindly forward to try and hurt Mario, but he 
+            will not stop himself from walking into a pit, so ignoring them
+            will typically work.  Also, though it is not quite the same, 
+            their shell can be kicked, and if it hits Mario it will hurt 
+            him.
+
+
+Name......: Green Paratroop Koopa.
+Appearance: A green-shelled, winged turtle.
+Attacks...: Unlike the wingless cousin, these guys will usually fly in a set
+            vertical pattern, not offing themselves.  However, they revert 
+            to Green Koopa Troopas when they are stomped, as they lose their
+            wings.
+
+
+Name......: Hammer Bro.
+Appearance: A hammer tossing turtle.
+Attacks...: These guys (typically in groups of two) will attack by throwing
+            hammers and jumping between the platforms they typically
+            inhabit.
+
+
+Name......: Kab-Omb.
+Appearance: A walking bomb.
+Attacks...: Much like a Bob-Omb, but their explosion does not hurt Mario.
+
+
+Name......: Lakitu.
+Appearance: A turtle riding in a cloud.
+Attacks...: Lakitu is about as oldschool as they come, flying through the
+            air, tormenting Mario by throwing his pet Spinies out to try and
+            hurt Mario.
+
+
+Name......: Mega Cheep-Cheep.
+Appearance: A massive orange fish.
+Attacks...: Muchy like the regular Cheep-Cheep it swims in a single 
+            direction, ignoring Mario.
+
+
+Name......: Mega Deep-Cheep.
+Appearance: A massive green fish.
+Attacks...: Muchy like the regular Deep-Cheep it swims directly at Mario, 
+            actively seeking to hurt him.
+
+
+Name......: Mega Unagi.
+Appearance: A massive eel.
+Attacks...: This sleek swimmer also boasts rows upon rows of dagger sharp
+            teeth, so avoid the charges it makes as well as the biting
+            attacks it utilizes.
+
+
+Name......: Micro Goomba.
+Appearance: Tiny brown walking mushrooms.
+Attacks...: Much like their larger brethren, they will try to bump into 
+            Mario to hurt him.
+
+
+Name......: Paragoomba.
+Appearance: A winged brown mushroom.
+Attacks...: A flying Goomba that will make dive bomb attacks at Mario to try
+            and hit him.
+
+
+Name......: Piledriver.
+Appearance: A spiky piston driven implement.
+Attacks...: These positioned traps will just slam back and forth (either up 
+            and down or side to side) in attempt to crush Mario.  However, 
+            even their touch is hurtful to Mario, so be careful to not run 
+            into a deployed trap.
+
+
+Name......: Piranha Plant.
+Appearance: Red petaled plant with teeth.
+Attacks...: Customarily attacking out of a pipe (though they can be outside
+            these confines as well), the Piranha Plant will try to bite 
+            Mario as he tries to pass these carnivorous beasts.
+
+
+Name......: Podoboo.
+Appearance: A red fireball.
+Attacks...: Found within lava pits, these burning entities will try to leap 
+            out with a vertical jump to hit Mario as he crosses the lava
+            expanses found within the castles.
+
+
+Name......: Pokey.
+Appearance: A segmented cactus.
+Attacks...: Pokey will slowly shuffle and sway his segmented body in an 
+            attempt to hit Mario, usually being positioned in such a manner
+            that he will make it difficult for Mario to pass by.
+
+
+Name......: Red Koopa Troopa.
+Appearance: A red-shelled turtle.
+Attacks...: Similiar to the Green Koopa Troopa, these guys actually half 
+            some self preservation instincts, as they patrol a certain 
+            platform, marching back and forth in wait of Mario's arrival.
+            Also, though it is not quite the same, their shell can be 
+            kicked, and if it hits Mario it will hurt him.
+
+
+Name......: Red Paratroopa Koopa.
+Appearance: A red-shelled, winged turtle.
+Attacks...: Much like the Green Paratroopa Koopa, this winged turtle will
+            patrol the airways, but it typically follows a horizontal flight 
+            path when it tries to hit Mario.
+
+
+Name......: Scuttlebug.
+Appearance: A large legged spider hanging from the top of the screen.
+Attacks...: They do not try to aggressively attack Mario, as they just bounce
+            up and down on their silky lines that they produce.  However, if 
+            they cut their thread, they will land and begin to hunt Mario in
+            earnest.
+
+
+Name......: Skeeter.
+Appearance: Spindly legged, water walking bugs.
+Attacks...: While flitting back and forth across the surface of the water 
+            makes them tough enough to deal with while trying to leave the
+            water, they also drop bombs downward periodically in an attempt
+            to aggressively hurt Mario.
+
+
+Name......: Sledge Hammer Bro.
+Appearance: A massive Hammer Brother with sledgehammer weaponry.
+Attacks...: Much like the smaller version, the Sledge Hammer Brother will 
+            leap around, tossing sledgehammers to try and pick off Mario.
+            However, he also boasts a massive ground slam that can stun 
+            Mario for a few seconds.
+
+
+Name......: Snailicorn.
+Appearance: A horned snail.
+Attacks...: When Mario lands on one of the ledges these beasts inhabit, it
+            will charge him and try to ram the Italian plumber off the ledge
+            to his doom.
+
+
+Name......: Snow Spike.
+Appearance: A snowball wielding foe.
+Attacks...: With an endless supply of packed snowballs, he will try to pick
+            Mario off at a distance.  Getting in close will make Mario an
+            easier target, but these guys tend to be positioned right in the
+            path of the level.
+
+
+Name......: Spike Bass.
+Appearance: A massive blowfish.
+Attacks...: This fish will patrol the waters below the low lying areas of
+            some shoreline levels, looking to leap up to hit Mario.  Though
+            he can be defeated, he will return in mere moments, so watch out
+            Mario.
+
+
+Name......: Spike Top.
+Appearance: A beetle with a spike.
+Attacks...: These guys will ignore Mario as he passes by, but they do not
+            need to go after him due to their spiky exterior.
+
+
+Name......: Spiked Ball.
+Appearance: A metal ball with spikes on it.
+Attacks...: This object will try and roll into Mario, causing him harm.
+
+
+Name......: Spiny.
+Appearance: A spike-backed red beast.
+Attacks...: The pet of Lakitu, they will be thrown from above by the cloud
+            dwelling Lakitu, landing to start walking in a straight line.
+            They also have spikes on their back, so they can not be killed
+            through a leap, making them fairly dangerous for Mario.
+
+
+Name......: Splunkin.
+Appearance: A walking pumpkin.
+Attacks...: It will walk along, trying to bump into Mario.  After one hit it
+            will increase the speed it moves at, but a second hit will 
+            destroy it.
+
+
+Name......: Squiggler.
+Appearance: a small Wiggler.
+Attacks...: These tiny Wigglers will come out of pipes, looking to hit 
+            Mario with direct touch.
+
+
+Name......: Super Dry Bones.
+Appearance: Massive skeletal turtles.
+Attacks...: Truly big enemies, they will walk back and forth in an area to 
+            try and touch Mario.  They also double as strength for moving
+            blocks to try and crush Mario.
+
+
+Name......: Super Piranha Plant.
+Appearance: A massive red petaled plant with teeth.
+Attacks...: Much like their smaller counterparts, except that they exist
+            solely outside the confines of the pipes of the Mushroom 
+            Kingdom.
+
+
+Name......: Super Thwomp.
+Appearance: A gigantic stone.
+Attacks...: Much like regular Thwomps, this guy will try to squish Mario,
+            but it can also crash through bricks and other materials, so be
+            very careful around these foes.
+
+
+Name......: Sushi.
+Appearance: A blue shark.
+Attacks...: Typically appearing in pairs, these guys will charge across the
+            screen and attempt to hit Mario while en route.
+
+
+Name......: Thwomp.
+Appearance: A stone.
+Attacks...: These classic Mario Brothers enemies will inhabit areas where
+            Mario needs to pass through, crashing downwards as the Italian
+            plumber draws near in an attempt to squash him flat.
+
+
+Name......: Unagi.
+Appearance: An Eel.
+Attacks...: Found hiding in their small holes in rock faces, they will snap
+            out in Mario’s direction to try and bite him.
+
+
+Name......: Venus Fire Trap.
+Appearance: A red petaled flower with fiery breath.
+Attacks...: When these fellows pop out from their hiding place in a pipe, 
+            they will fire one or two fireballs in Mario's direction, then
+            retreat into the pipe, and then repeat the same attack.
+
+
+Name......: Whomp.
+Appearance: A large slate of grey rock.
+Attacks...: When Mario comes close to their position, these guys will fall
+            face first onto the ground, which seems silly but is a very 
+            effective attacking strategy.
+
+
+Name......: Wiggler.
+Appearance: A yellow caterpillar with a flower in it's head.
+Attacks...: The typical Wiggler is a happy creature, meandering around at a
+            slow pace, but after it is attacked it will turn red and move 
+            around at great speed in an attempt to hurt Mario.
+
+

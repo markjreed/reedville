@@ -1,0 +1,391 @@
+                          ~~~~~~~~~~~~~~~~~~~~~~
+                        ~~~~~~~ World Five ~~~~~~~
+                          ~~~~~~~~~~~~~~~~~~~~~~
+
+_____________________
+X - Start            |
+# - Level            |
+a - Extra Level      |
+b - Extra Level      |
+c - Extra Level      |
+O - Empty Space      |
+T - Tower            |
+C - Castle           |
+H - Ghost House      |
+W - Warp Cannon      |
+P - Pipe             |
+p - Pipe             |
+S - Star Coin Toll   |
+I - Item Toad House  |
+G - Green Toad House |
+M - Mega Toad House  |
+                     |
+_____________________|
+
+          +----2----+        P----+-----------H----O---------+
+          |    |    |             |           |    |         |
+          |    |    |             |           |    |         |
+X----1----O    P    O----T--------O    p  W---+    c    G----4----C
+          S         |    S        S    |           |              |
+          |         |    |        |    |           |              |
+          +----a----+    +----I   +----b-----------OS---M         p
+
+
+                               o-----------o
+                               | Level 5-1 |
+                               o-----------o
+
+Let the Snow Spike chuck his ammo, bowling over the enemies and running
+along, jumping the gaps to find a snow drift to cross, grabbing the 
+Power-Up from the ? Block before crossing the drifts via those same ? 
+Blocks.  head right past four Goombas to whack a Snow Spike, followed by
+going after the Star Coin above by leaping off the ? Block to the right of 
+it.  Another Snow Spike will attack, followed by the halfway point, a 
+Power-Up, and a gap to hop to find Mario facing a Green Paratroopa Koopa to
+Super Jump off of the back of to reach the second Star Coin.
+
+Cross the snow drift ahead by the brick ledges, killing the Snow Spike to
+run down the slope ahead and leap up to get the Star Coin above, though if 
+you are Regular Mario, use the building blocks below to make a high enough 
+ledge to leap off of to reach it instead.  Kill the Snow Spike while going
+right, facing some more Snow Spikes and a snow drift, so bounce off the
+enemies with a Super Jump to clear it, reaching the end of the area, letting
+the snow fall off the trees before hopping onto the flagpole to end the
+level!
+
+
+                               o-----------o
+                               | Level 5-2 |
+                               o-----------o
+
+Move down the pipe to walk underneath the Spike Tops in the bricks, whacking
+the Spike Top patrolling the ? Block, releasing the Power-Up in the process.
+Next are a bunch of Swoops that lead the way to a gauntlet of Piranha Plants
+to go through, grabbing the first Star Coin from inside the brick case 
+ahead.  As a fun challenge, Ground Pound the bricks just short of the 
+gauntlet to release a 1-Up Mushroom, followed by getting through the Piranha
+Plants to snag it before the cliff appears to swallow the valuable Mushroom.
+
+Head right to find a springboard to use to hit the Star Coin above (it is 
+the third Star Coin, despite it being the second one collected) when the 
+Spike Tops are not in the way, followed by picking up the springboard to
+backtrack to the left, hopping the gap to drop the springboard underneath 
+the yellow pipe, followed by Mario going up and into that pipe.  Head across
+the icy platforms, following the Coinpurse to reach the pipe it rests 
+against, with a Star Coin twinkling above.  Use a Super Jump to boost up to 
+the Star Coin (the second one in the level technically), followed by going 
+down the pipe to find more Spike Tops to ignore while moving right, 
+encountering a slew of Swoops, reaching a gap to span.  Move right past more
+ebemies, reaching a spot where a green pipe hangs from the ceiling, 
+indicating the branching of the path within this level.
+
+                                ==========
+                                Main Route
+                                ==========
+
+Head right, going underneath the ice chunk to cross a couple pipes, followed
+by scaling the ice chunks ahead while dodging the Spike Tops, reaching a 
+pipe that leads back to the surface.  Now Mario just needs to scale the 
+classic Super Mario Brothers staircase, jumping to the flagpole to end the
+level!
+
+
+                             ===============
+                             Alternate Route
+                             ===============
+
+Get past the Spike Tops and head up the pipe when the Piranha Plant has 
+retreated, appearing outside.  All Mario has to do from here is to use the
+floating blocks to jump high up onto the flagpole, ending the level!
+
+
+                             o---------------o
+                             | Level 5-Tower |
+                             o---------------o
+
+This level will consist of Mario having to ride the wooden elevator ledge 
+upwards, so get ready to dodge or kill all incoming enemies.  Leap the first
+Spiked ball, followed by collecting the first Star Coin, followed by raiding
+the ? Blocks on the left for a Power-Up.  Next up is a Spiked Ball that will
+hang around the wooden elevator, but it will destroy the Dry Bones that have
+started to appear.  A couple one roll through Spiked Balls are next, 
+followed closely by two more Spiked Balls that kill Dry Bones, at which 
+point the second Star Coin should be visible.
+
+Avoid the two Spiked balls that are rolling around here, getting the ? Block
+Power-Up, with the following ? Block set (the one on the right) holding a
+1-Up Mushroom.  Immediately after this portion get Mario towards the right
+side of the ledge as a Giant Spiked Ball will destroy the bricks on the 
+left, signaling the point for Mario to start hopping up the ledges ahead,
+keeping himself above the nasty implement.  Keep hopping upwards, fading to 
+the right to get the third Star Coin on that side, followed by getting onto
+the ledges to leap upwards as soon as ledges appear because that Giant 
+Spiked Ball will get back to the right side soon enough.  Punch the bricks
+on the right to gain one last Power-Up, followed by passing through the 
+large red doors to encounter the boss fight!
+
+Bowser Jr. will return to his old tricks, simply trying to charge into 
+Mario, though he can also leap into the air if given enough time.  Deliver
+three stomps or nine fireballs or a combination of the two, beating the foe
+quickly, but be wary of the icy platform, as it can make controlling Mario
+precisely a difficult job.
+
+
+                               o-----------o
+                               | Level 5-3 |
+                               o-----------o
+
+Slide down the slopes here after grabbing the Power-Up, taking out multiple
+enemies and getting a 1-Up or two for your efforts.  Once Mario runs out of
+momentum, jump to the ice block ledge on the right to take out a Red Koopa
+Troopa, as he is guarding the first Star Coin.  Jump down through a Coin to 
+reach a ledge, followed by moving right to pass Goombas and Green Koopa 
+Troopas, reaching the halfway point, which also has a nearby Power-Up to 
+grab from a ? Block.
+
+Jump the gap ahead an take a run at the small gap ahead, ducking to perform
+a Slide Duck, passing through to find a Star Coin encased in breakable 
+bricks.  Continue onwards, passing the gap to bounce the Snailicorns off the
+icy platforms before they do so to Mario, reaching a spot where Coins lead
+up the walls above.  Wall Jump off the right wall, snagging the third Star
+Coin, followed by going right once more, clobbering or avoiding the 
+Snailicorns, finding two Green Koopa Troopas to take out before leaping onto
+the flagpole to end the level!
+
+
+                          o---------------------o
+                          | Level 5-Ghost House |
+                          o---------------------o
+
+Let the Broozer take out the bricks, allowing Mario to pop the ? Blocks 
+below with a Ground Pound, revealing a Power-Up.  Climb the stairs to reach
+a point where a Broozer will bust out of the wall on the right, drawing it 
+down onto the stairs before hopping through the hole it made, baiting the 
+enemy into destroying the bricks below.  Head through that opening (kill the
+Broozer first if you so desire), locating the first Star Coin above via the 
+Wall Jump.
+
+Head back out to the first place the Broozer wrecked, going right to climb
+upwards again until a door appears on the left.  Take a run down the stairs
+and leap to it, entering to immediately Wall Jump up the bricks before all
+the Broozers bust their way to the middle of the area, getting the second
+Star Coin while they disappear off the cliff below.  Head back out to climb
+right past more Broozers, finding a Power-Up before turning left to continue
+climbing.  At this point the way forward will split in twain, so choose 
+between the Main Route or the Alternate Route.
+
+                                ==========
+                                Main Route
+                                ==========
+
+Continue climbing the stairs, dodging the Broozers to find a possessed 
+elevator.  It will buck and throw Mario around, so dodge the Boos and grab 
+the Coins, finally reaching the top, where a door leads outside, which is 
+where the flagpole happens to be.
+
+
+                             ===============
+                             Alternate Route
+                             ===============
+
+Continue until Mario reaches a three brick block platform, so jump onto it
+to jump and reveal three hidden blocks.  Get onto the central hidden block
+and crouch before hopping (if you are small, no need to crouch obviously), 
+revealing a vine to climb upwards.  Climb past the Broozer and let him break
+through here, followed by dropping down to enter the door to find a spooky
+elevator that will rock back and forth, trying to throw you off.  Once it 
+free falls, get to the right side of it (upon landing on it again), holding
+RIGHT to enter a path when it rises again, going past the Splunkins to find
+the third Star Coin.  Backtrack to hit the brick to make a vine appear, 
+climbing it to move left through the door, reaching the flagpole!
+
+
+                               o-----------o
+                               | Level 5-4 |
+                               o-----------o
+
+This level will scroll along, so the same rules apply for getting killed if
+caught between the left edge of the screen and a solid object, but the extra
+danger is getting scrolled into the pits below.  Also note that the orange 
+toadstools sink here while the darker toadstools rise up when Mario gets 
+onto them.  head right across the sinkers to get a Power-Up, finding a 
+rising toadstool as the first Bullet Bills appear from the right.  After
+passing the next set of toadstools (and a Green Paratroopa Koopa), look for
+a Red Coin Ring, collecting the Red Coins by using the rising/falling
+properties of the toadstools to get the award.
+
+Next are the remaining toadstools, leading into a hop to a higher ledge to
+get the first Star Coin, but the second Star Coin is only accessible by 
+someone with a Mini Mushroom (if you lack one, come back later to claim this
+prize).  Head right to reach a rising toadstool to ride upwards, finding a
+Power-Up in the first ? Block, followed by leaping across the sinking 
+toadstools to reach the snowy ledge ahead.  Crank the Green Koopa Troopa,
+taking his shell to throw through the bricks ahead, collecting the 1-Up
+Mushroom that pops out of the ? Block, followed by getting the third Star
+Coin on the right.  Now continue to the right, busting the Red Koopa Troopas
+up as they appear, jumping off the last sinking toadstool to go after the
+flagpole, ending the level by doing so!
+
+
+                               o-----------o
+                               | Level 5-A |
+                               o-----------o
+
+Here the toadstools in this level will expand and shrink, so get to the 
+middle portion (directly over the stem) to stay safe when the contracting
+begins.  Get the Power-Up and head right, passing over the first chunk of
+toadstools to find a Red Coin Ring, which will require Mario to get the 8 
+Red Coins by carefully moving over the various toadstools in both the 
+expanded and contracted forms to get the reward that you seek.  After this
+is a Power-Up and the halfway point, followed closely by a lower toadstool
+to get onto, going right to get the Star Coin.
+
+After hitting the !-Switch, run left along the bricks to reach the safety of
+the ledge, then head right once more, taking the high route to find a solo
+brick to hit.  When the higher toadstool is outstretched, get to the brick,
+jumping to hit as the one toadstool you are on contracts, allowing Mario to 
+land on the one below while it expands.  Follow this by climbing the vine to
+reach a P-Switch to hit, using the springboard to land on the brick ledge,
+grabbing the second Star Coin.
+
+Now head down the hole to return to the normal portion of the level, going
+right to find the third Star Coin over a low toadstool.  Take a running leap
+from it to reach the toadstool above, leaping off of it to hit the flagpole,
+ending the level!
+
+
+                               o-----------o
+                               | Level 5-B |
+                               o-----------o
+
+Head right for a Power-Up, followed by facing off with a Goomba and 
+Snailicorn, letting Mario take out two More Goombas en route to using the 
+Green Paratroopa Koopa from the ledge above to boost that aforementioned 
+ledge to find some Coin Blocks.  Next up are some more Goombas and a 1-Up
+Mushroom on a slippery slope below, leading into a Star Coin on a small icy
+ledge, so run to it if you are Regular Mario (from the left) or jump to it 
+if you are Powered-Up (from the right).  
+
+Move right to leap past the halfway point, fighting a Snailicorn to snag the
+Power-Up, followed by grabbing the next Red Koopa Troopa to throw through 
+the Red Koopa Troopas ahead for a 1-Up (jump the gaps to keep up with the
+shell), with Mario arriving at a Power-Up ? Block.  Leap to the left and hit
+the P-Switch, carefully crossing the now open gaps to get the second Star
+Coin, followed by turning around to return to the right, going down past the
+Red Koopa Troopas to find a branch in the paths.
+
+Take the lower path, knocking the Snailicorn to the right, reaching the 
+third Star Coin, followed by going back up to take the upper path, finding a
+divergence in the paths.
+
+                                ==========
+                                Main Route
+                                ==========
+
+Head right to reach the flagpole, jumping to the higher ledge to take a run
+at the higher areas of the flagpole if so desired.  Either way, the slippery
+level will be done with!
+
+
+                             ===============
+                             Alternate Route
+                             ===============
+
+if you are Shell Mario (or have a Blue Shell in reserve), Wall Jump up the
+Coins on the wall here, reaching the ledge off screen and move left, finding
+some bricks to Shell Dash to pieces.  Head through the pipe that is on the 
+far side of the ice, arriving at a place where the Shell Dash will clear one
+brick, allowing Mario easy access to the very top of the flagpole, ending 
+the level to gain access to a pipe on the overworld!
+
+
+                               o-----------o
+                               | Level 5-C |
+                               o-----------o
+
+Move down the pipe to locate a Buzzy Beetle, followed by a Broozer and a 
+Power-Up.  Bait the next Broozer into opening the way for Mario, followed by
+getting past him to bait him into attacking the bricks below the first Star
+Coin, opening the prize up to collection.  Move right past the raining Buzzy
+Beetle shells, finding a Goomba before crossing the elevator, looking in the
+ceiling for a 1-Up Mushroom on the far side.
+
+         _ _ _ _
+ELEVATOR|_|_|_|_|
+         ^
+         |
+      IN HERE
+
+Now ride the elevator downwards, taking the lower path to grab the Buzzy 
+Beetle when it falls off the roof (stomp it and pick up the shell), throwing
+it into the Star Coin over the pit to make the snag.  Head back up to the
+top and move right past the halfway point, taking out the Broozer that comes
+down the slope ahead.  Now jump onto the bricks above, breaking the brick 
+above left-most brick in the ledge you are on, followed by hitting the 
+left-most brick in that ledge from below to make a beanstalk climb off 
+screen, allowing Mario to climb it to find a Broozer and a P-Switch.  
+
+Hit the P-Switch to make a ledge below for the Broozer when he falls down, 
+followed by baiting him into breaking the bricks on the left to open the way
+to the third Star Coin.  Now drop down and jump to the right, hitting the
+flagpole to end the level.  Note that if you failed to get this easy way out
+of the level, Mario will be forced to cross a large gap with a !-Switch
+making the path appear of Mario, which is destroyed while he takes it by 
+Broozers.  This is not a particularly fun way to do things, and besides, the
+Star Coin is on the route recommended anyway!
+
+
+                             o----------------o
+                             | Level 5-Castle |
+                             o----------------o
+
+Head right across the conveyor belt and get the Power-Up, followed up by
+bypassing a Dry Bones and the Piranha Plants.  When the conveyor belt
+leads down to a ledge and a Piranha Plant is attacking from above, go low to
+get the Star Coin, followed by leaping away to the right to escape the 
+carnivorous plant, leading Mario to face a series of Dry Bones and gaps,
+arriving at a Power-Up.  A Venus Fire Trap appears here, spitting fireballs 
+while Mario goes by, finding a series of Dry Bones to jump over while
+staying stationary just to the right and below the ledge where the second
+Star Coin twinkles, waiting for a springboard to come down the conveyor 
+belt, which is used to launch Mario to said Star Coin.
+
+Next up are a Piranha Plant to pass to get to the halfway point, followed by
+more Piranha Plant fun and a rotating Power-Up block (get the Mini Mushroom 
+if you intend to take the Alternate Route), leading into a meeting with a 
+Super Piranha Plant (let it fall to the floor below, then jump across the gap
+to the conveyor belt above it's head).  Next up is a ? Block to hit, so after
+doing that, take a running leap from the right to land on the block, allowing
+Mario to leap into the small opening above, Wall Jumping to get up onto the 
+ceiling, heading right over everything to find a Power-Up and the third Star 
+Coin.  Now head through the large red doors above, entering into the Boss 
+Fight!
+
+                                ==========
+                                Main Route
+                                ==========
+
+Petey Piranha will make his appearance here... yes, the Super Mario Sunshine
+stand out will attack Mario, looking for some revenge!  Petey will start off
+by flying into the air, trying to divebomb Mario (move out of the way as he
+attacks), which will dizzy him, allowing Mario to hit him with a jumping
+attack.  After this Petey will bounce up and down through out the room, so
+dodge these attacks so he will take off into the sky once more, allowing 
+Mario to repeat the dance two more times to finish off the beast and the 
+World, gaining access to World Six!
+
+
+                             ===============
+                             Alternate Route
+                             ===============
+
+Petey Piranha will make his appearance here... yes, the Super Mario Sunshine
+stand out will attack Mario, looking for some revenge!  Petey will start off
+by flying into the air, trying to divebomb Mario (move out of the way as he
+attacks), which will dizzy him, allowing Mini Mario to use a Ground Pound on
+his head.  After this Petey will bounce up and down through out the room, so
+dodge these attacks so he will take off into the sky once more, allowing 
+Mario to repeat the dance two more times to finish off the beast and the 
+World, gaining access to World Seven!
+
+

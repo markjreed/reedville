@@ -1,0 +1,355 @@
+----------------------------------------------------------------------------
+--------------------------------Walkthrough---------------------------------
+----------------------------------------------------------------------------
+
+4) This section will examine the game in-depth, covering every necessary
+   step for completing this wonderful game.
+
+
+                           ~~~~~~~~~~~~~~~~~~~~~
+                         ~~~~~~~ World One ~~~~~~~
+                           ~~~~~~~~~~~~~~~~~~~~~
+
+_____________________
+X - Start            |
+# - Level            |
+a - Extra Level      |
+O - Empty Space      |
+T - Tower            |
+C - Castle           |
+H - Ghost House      |
+W - Warp Cannon      |
+P - Pipe             |
+S - Star Coin Toll   |
+I - Item Toad House  |
+G - Green Toad House |
+M - Mega Toad House  |
+                     |
+_____________________|
+
+               G              M            +----5------------+
+               |              |            |    S            |
+               S              S            |    |            |
+X----1----2----3----O----T----4------------O    +----G       O----C
+          |         |    |                 S                 |
+          |         |    |                 |                 |
+          +----I----+    +----W     I------a-----------------+
+
+
+                               o-----------o
+                               | Level 1-1 |
+                               o-----------o
+
+Here we go!  Starting with a classic set-up, run forward and bust the 
+Goomba before raiding the ? Blocks for Coins and a Power-Up.  Head right,
+hitting Bricks for Coins (including a Coin Block up high), followed by a
+couple Goombas positioned around a pipe.  Hop the gap ahead to hit the next
+? Block for a Mega Mushroom (I advise doing this for the great fun that 
+comes from trashing enemies, bricks, pipes... basically anything that is in
+Mario's rampaging path), but the walkthrough will continue onwards as if you
+never grabbed this Item.
+
+Head right past a Goomba and over a gap, jumping off the pipe to get the 
+first Star Coin in the game, followed by hitting the open space between the
+bricks ahead to make a ledge to hit the next ledge of bricks to find a
+beanstalk (go up for Coins, but note it bypasses a Star Coin if taken).  Go
+down the next pipe, jumping over the gaps in the way, killing Goombas to get
+a Power-Up from the ? Blocks, finally getting the second Star Coin before 
+heading back topside.  Head left from the pipe to go get some Goombas to 
+reach the third Star Coin, which is protected by bricks, so use a Ground 
+Pound to bust it out, finishing the set for this level!
+
+Now head right, hopping the gaps and pipes, passing a Green Koopa Troopa and
+a Red Koopa Troopa, reaching the staircase that is oh so familiar to Super
+Mario Brothers veterans.  Climb upwards, taking a running leap to hit the
+flagpole to end the level!
+
+
+                               o-----------o
+                               | Level 1-2 |
+                               o-----------o
+
+This level begins with a dizzying descent, destroying the bricks for the 
+Coins that they protected... provided you are not Regular Mario of course.
+Move along to the right, grabbing the Power-Up from the first ? Block and
+breaking bricks for the Coins they shelter (note that the dual brick layer
+leads down to a bunch of Coins and a Coin Block), followed by leaping to the
+right via the brick ledges to snag the first Star Coin.
+
+Go down and right for another Power-Up, dealing with the Goombas and Green
+Koopa Troopas, arriving at a brick structure that holds the second Star 
+Coin.  To get inside, get directly above the Star Coin's position and 
+perform a Ground Pound to bash your way inside, followed by getting out to
+move right once more, facing a teeter-totter log ride to the bricks ahead 
+(the highest brick is a Coin Block).  Next are three pipes (the first can be
+accessed to go into a Bonus Room), two of which house Piranha Plants, so 
+shoot them with Fire or just pass by when they retreat into their homes, 
+being sure to get the Power-Up in the ? Block while dealing with the 
+nuisances.
+
+Hop across the gap ahead (or take a running leap and land on the bricks 
+above to run across the top of the area without worry), finding a Green 
+Koopa Troopa and two Goombas guarding the way forward to another 
+teeter-totter log.  Now the level will split in two, so the Main Route and
+the Alternate Route will be outlined:
+
+                                ==========
+                                Main Route
+                                ==========
+
+Use the teeter-totter log to reach the bricks or ledge ahead, jumping the 
+Green Koopa Troopa before hopping the next gap to reach the pipe out of the
+subterranean area.  Once outside, climb the staircase and leap to the 
+flagpole, ending the level!
+
+                             ===============
+                             Alternate Route
+                             ===============
+
+Use the teeter-totter log to get high on the right side, leaping onto the 
+ceiling, running along it to find the third Star Coin for the level, 
+followed by going up through the pipe to use the semi-staircase ahead to 
+leap onto the flagpole, ending the level!
+
+
+                               o-----------o
+                               | Level 1-3 |
+                               o-----------o
+
+Another classic area from the original Super Mario Brothers, the toadstool
+platforms!  Head right to get a Power-Up from a ? Block, followed by using
+the springboard ahead to find a second springboard and some Coins, so launch
+higher up to bounce off the rubbery toadstool, flying into the first Star
+Coin.  Immediately float to the right, following the line of Coins, falling
+down to a ledge that holds the second Star Coin!
+
+Grab the Power-Up from the ? Block before passing the halfway point, facing
+a red Koopa Troopa, followed by a dual set of rocking toadstools, high above
+these two would be the the third Star Coin (jump when they are high in the 
+air to finish getting this easy trio of Star Coins).  Head right (jump onto
+the high toadstools if possible), finding a Red Coin Ring to go through,
+making 8 Red Coins appear, rewarding Mario with a Power-Up if he is Super
+Mario or less in his stature or reserve Power-Up, or if he has at least a
+Fire Flower in both spots, he will get a 1-Up Mushroom.  All that remains 
+from here is to go right and use the remaining rocking toadstool to leap 
+onto the Flagpole, ending the level!
+
+
+                             o---------------o
+                             | Level 1-Tower |
+                             o---------------o
+
+This level is vertical in nature, with mving walls, so be sure to not get
+crushed in between the granite.  Jump up past the Dry Bones to get the 
+Power-Up from the ? Block on the left, followed by leaping through the 
+various sets of moving granite blocks when they are open, reaching a spot
+where two horizontal sprints must be performed to pass through the 
+vertically moving blocks.  Head up to the next ledge to get the Power-Up 
+that the Dry Bones is guarding, also going further right to get the first
+Star Coin before heading left to climb upwards once more.
+
+Jump up the moving granite staircase to head left, performing a set of
+wall-jumps to reach a ledge with a door heading inside.  Here is where the 
+level splits in two for purposes of the Main Route and the Alternate Route:
+
+                                ==========
+                                Main Route
+                                ==========
+
+Grab the second Star Coin from the right side of the room, followed by 
+exiting out the door, leaping up to the ledge above (between the granite
+and the spike blocks), climbing the granite blocks to reach the third Star 
+Coin for the level.  Continue jumping up through the next set of granite 
+blocks, timing the leaps to not get crushed and reach the ledge above, where
+Mario will find a green pipe to use to launch into the air.  Time his entry
+into the pipe for as soon as the lowest granite blocks above start to move 
+apart, which will safely send Mario up to the high area, where he will see 
+the two MASSIVE Dry Bones that were working the moving the granite blocks 
+through out the Tower.  Grab the Power-Up from the right before heading 
+through the large door.
+
+Baby Bowser will attack Mario simply by running back and forth, attempting 
+to ram him at full speed.  The way to defeat the monster is to hit him with
+three leaps to the head, though he will retreast to his shell after every
+bonk from Mario, so step away until he comes back from his hiding game.  The
+other method for defeating Baby Bowser is to hit him with 9 Fireballs, 
+though the Fireballs can be combined with the jump attacks to beat Baby 
+Bowser as well.  COnsider the Jump attacks remove 3 Hit Points and the 
+Fireballs remove 1 Hit Point, meaning that to beat Baby Bowser, 9 Hit Points
+must be removed.  Defeat him to end the level, advancing further in the 
+quest to save Princess Peach.
+
+                             ===============
+                             Alternate Route
+                             ===============
+
+For this exit to be accessible, Mario will need to have to be Shell Mario.  
+Jump to the right in this room, getting by the door, but instead of heading
+through, instead leap up to the hole above, passing through to a secret 
+area.  Here Mario will need to use his Shell to bust down the bricks, 
+followed by using a leap to busy the bricks above, opening the way to the
+pipe that was covered.  After going through the pipe and falling down to
+the ground below, you can just leap onto the flagpole, or you can try to
+use the Shell run to leap off the bricks above to reach the top of the 
+flagpole for a good score.  Either way, this will allow Mario to access the
+Warp Cannon on the World Map, sending him all the way to World Five!
+
+
+                               o-----------o
+                               | Level 1-4 |
+                               o-----------o
+
+Slide down the hill and kill the Goombas, followed by botting the Green 
+Koopa Troopa off the next hill to hit the ? Block to make the Power-Up 
+inside come out.  Next up are two Goombas on a slope, leading to an area 
+with a Green paratroopa Koopa to dust off, followed by checking the ? Blocks
+to find a Mini Mushroom.  The Mini Mushroom will make Mario so tiny that he
+can slip through the hole on the left side of the area, going down the tiny 
+pipe!  Inside here Mario should run right across the water, wall jumping to
+the high ledge to get the Star Coin that resides up there.  
+
+Now head back up the pipe and move to the right, passing a Goomba spewing
+pipe to leap a gap, locating a Power-Up in the ? Block row.  Now that Mario
+has become Super Mario, go stand on the brick pictured below and perform a
+Ground Pound:
+
+  STAND HERE
+       |
+ _____ v
+|  |  |_ _ _
+|__|__|_|_|_|
+|  |xxxx   xx
+|  |xxxx   xx
+
+Enter the pipe to find some Coins, but leave them alone and go right, 
+busting the bricks to reveal a P-Switch, which will turn the Coins into 
+bricks, forming a path for Mario to climb to the left, finding the second
+Star Coin on the ceiling area of the room.  Head right afterwards, taking 
+the pipe back to the surface.  At this point, Mario will need to go after 
+the third Star Coin, so head left, sliding down the hill to move right 
+towards the gap to go across it to get the third Star Coin, finishing the 
+set for this level!
+
+Head right from the pipe where Mario emerged from the subterranean area,
+facing an upward slope where Goombas pour from a pipe, jumping past that to 
+get onto said pipe.  From here Mario can make a jumping effort to reach the 
+flagpole ahead, so make a good leap to finish off the level!
+
+
+                               o-----------o
+                               | Level 1-5 |
+                               o-----------o
+
+This level has long stretches of spongy toadstool, which will keep bouncing
+Mario high into the air.  If you desire to get even more air, press the A
+Button as Mario is landing, sending him to the highest reaches of the screen
+in the process.  After snagging the Power-Up from the ? Blocks near the 
+start, jump when landing on the spongy toadstool, firing Mario high enough 
+into the air to get the first Star Coin.  Next up is a bouncy trip to the 
+right, finding a Red Koopa Troopa to knock senseless, followed by booting it
+to the right so Mario can follow it, watching it clear out a bevy of Koopa 
+Troopas, rewarding him with a 1-Up if he stays with the deadly projectile 
+long enough!
+
+Bound past the next Red Koopa Troopa, reaching a solid toadstool area, 
+followed by a pulley elevator, so get on the one side to raise the other 
+(your side will fall) leaping across to the high side to get to the second
+Star Coin.  Just a quick note that yes the old stay on the elevator long 
+enough and the bars will fall of trick still works, just like in the 
+original SMB!  Continue to the right, using the same trick on the third
+pulley elevator, getting on the right side of it when it is high to enter 
+the pipe that resides above it.  Here Mario will ride a rocking toadstool,
+grabbing Coins and the third Star Coin, followed by hopping down the hole
+at the end to return to the main area of the level.
+
+As Mario passes the halfway point (and two Green Paratroopa Koopas), he
+will find more of the spongy toadstool and a Power-Up nestled in the nearby
+? Blocks, leading into a Red Coin Ring (bounce around the few spongy 
+toadstools and the Goomba to get the reward).  Continue along carefully, 
+beating up any enemies to find four Coin Blocks to raid, with the results
+coming from bouncing into them from below, getting Mario stopped underneath
+them perfectly, allowing the spongy toadstool to do all the work for Mario. 
+After this are a couple Goombas laced into the spongy toadstool hopping, 
+finishing with bouncing high to the right to hit the flagpole, ending the
+level!
+
+
+                               o-----------o
+                               | Level 1-A |
+                               o-----------o
+
+Head down the pipe to find a Power-Up in the ? Block, which will also be the
+point where the level begins to scroll, meaning that couple classic Mario 
+game rules are in effect: Mario can get squished by the solid obstacles in 
+his path if he gets stuck on the left side of the screen, and the enemies
+will be positioned in such a manner that Mario will need to run through the
+gauntlet with precision strokes.  With the scrolling fo the screen will come
+a vaguely familiar enemy in Sushi, a blue shark from Super Mario 64 that 
+often will enter the screen with a fellow Sushi, charging straight ahead.  
+So Mario is advised to steer clear of them or to let some fireballs take 
+care of the problem, if he has the capability.
+
+Head right through the multitudes of Sushis in this area, finding a P-Switch
+to hit to reveal silver Coins spread among the bouncy obstacles ahead, so 
+swim precisely to get through the area quickly, grabbing all the Coins along
+the way.  After this area send Mario swimming for the ceiling of the next 
+stretch, as a Star Coin rests up here, and it is difficult to come at it 
+from below due to the invisible blocks that populate the area.  From there
+Mario will go right, entering the pipe leading upwards, appearing near the
+second Star Coin.
+
+Upon entering the water area again, avoid the Cheep-Cheeps and hit the 
+rotating Power-Ups for the picture that is on the block when Mario makes
+contact from below.  Next up are Sushis attacking from the left, so dodge 
+them and enter the Red Coin Ring to go try for the Power-Up/1-Up reward.  
+The Sushis will now switch back to attacking from the right, but they are 
+aided by air currents from pipes, so swim through the currents between waves
+of Sushis, finding a P-Switch to hit, revealing a multitude of silver Coins
+to grab, all the while dodging Sushi charges.
+
+Swim right as soon as the Star Coin appears above, grabbing the Star Coin,
+followed by either ducking to avoid the incoming Sushi or swim back out 
+quickly.  Swim past the last few Sushis and head up the pipe, going forward
+to jump to the flagpole to end the level!
+
+
+                             o----------------o
+                             | Level 1-Castle |
+                             o----------------o
+
+Head right, suing the rope platforms to cross lava fields and to launch
+Mario high into the air.  After getting the ? Block Power-Up, go past a few
+Podoboos in the lava, finding a Dry Bones guarding a set of moving spike
+blocks.  Run underneath the spikes, stopping in the various openings 
+(grabbing the Coins and such that are in the openings), arriving at an 
+opening where the Star Coin above beckons.  Wait for the spike blocks to
+descend, using a wall jump to reach the Star Coin.
+
+Head right to pass the halfway point, grabbing the Power-Up en route to some
+more rope and Podoboo action, leading to a Dry Bones guarding a jump to a 
+small ledge which holds the second Star Coin.  Head right to find another
+rope rigging bridge, but only go right to get past the last Podoboo here, 
+followed by letting Mario sink on the rop for a second before jumping, 
+launching him up to the pipe just off the screen above, entering it to 
+locate the third Star Coin.  Head back out to go right past a Dry Bones, 
+leaping across the rising and falling granite blocks to leap one final lava
+gap to enter the large doors ahead.
+
+Baby Bowser will send in Bowser to fight against Mario... on a breakaway
+bridge.  Yes, Baby Bowser has never read a history book apparently on the
+entire game of Super Mario Brothers.  Anyway, Bobwer can be taken down 
+through three particular strategies:
+
+  i) The easiest way to beat him is to get onto the elevator floating on the 
+     bridge, waiting for Bowser to draw near so Mario can take a running
+     leap past the beast to hit the switch and drop Bowser into the lava.
+
+ ii) Fireballs can roast the beast, taking him out in a few short bursts.
+     Although this manner will drop Bowser into the lava below, only hitting
+     the switch will end the battle.
+
+iii) This is an unorthodox option, but as Shell Mario you can bash Bowser 
+     until he falls into the lava defeated.  The same rules apply for 
+     hitting the switch to end the level.
+
+

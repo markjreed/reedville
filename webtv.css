@@ -1,0 +1,20 @@
+html, body { font-size: xx-small; }
+
+h1 { font-size: small; }
+
+#csr_photo { width: 84px; height: 204px; top: 72px }
+
+#csr_photo a img { width: 84px; }
+
+#car_photo { width: 84px; height: 204px; left: 456px; top: 72px; }
+
+#car_photo a img { width: 84px; }
+
+#age_div   { margin-left: 90px; margin-right: 90px; height: 204px; }
+
+#age_table: { width: 360px; }
+
+ul li a { font-weight: normal; }
+
+#links, #h1_div { position: relative; left: 75px; width: 250px; }
+

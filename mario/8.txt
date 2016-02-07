@@ -1,0 +1,434 @@
+                          ~~~~~~~~~~~~~~~~~~~~~~~
+                        ~~~~~~~ World Eight ~~~~~~~
+                          ~~~~~~~~~~~~~~~~~~~~~~~
+
+_____________________
+X - Start            |
+# - Level            |
+O - Empty Space      |
+T - Tower            |
+C - Castle           |
+H - Ghost House      |
+W - Warp Cannon      |
+P - Pipe             |
+S - Star Coin Toll   |
+I - Item Toad House  |
+G - Green Toad House |
+M - Mega Toad House  |
+                     |
+_____________________|
+
+          +----M    I
+          |         |
+          S         S
+X----1----2----T----3----4----C----5----6----7----8----T    C
+                         S                             |    |
+                         |                             |    |
+                    G----+                             +----+
+
+
+                               o-----------o
+                               | Level 8-1 |
+                               o-----------o
+
+Splunkins and Crowbers will begin the assault for the Koopa Klan when Mario
+enters the final world, so fight through them while getting a Power-Up from
+a ? Block near a Bullet Bill cannon, followed by going right past the Bullet
+Bills and dealing with the Crowbers.  Raid the ? Block from the low ledge 
+for another Power-Up, which will be done under constant attack, moving right
+to find a ? Block that holds a springboard.  Pick up the springboard and go
+right to drop it onto the first floating ledge that appears, using the 
+springboard to boost upwards off screen to gain possession of the first Star
+Coin.
+
+Continue to the right to pass some Splunkins and a Boo, reaching a Power-Up
+after passing the halfway marker.  Head right past the Bullet Bills that
+litter the area, minding the Boos that are around, reaching a set of Bullet
+Bill launchers below a Star Coin, using a Super Jump to reach that Star Coin
+via the back of a Bullet Bill (just be careful of the nearby Boo when 
+launching into the air).  
+
+Next for Mario is to drop down to the ledge below the Banzai Bill launcher, 
+getting the final Star Coin, followed by Wall Jumping off the Banzai Bill 
+launcher to get to the ledge on the left, followed by Super Jumping off the
+next Banzai Bill to land on the massive launcher, leaping to the right to 
+reach the flagpole to end the level!
+
+
+                               o-----------o
+                               | Level 8-2 |
+                               o-----------o
+
+Head through the pipe to find a ?-Switch to hit, swimming upwards at full 
+speed to find a ledge to leap to, grabbing the Power-Up before heading 
+through the pipe on the left.  In this area send Mario across the Barrels 
+(feel free to smack the Skeeters) to find another ? Switch, triggering it to
+raise the water level.  Swim upwards and then head right across the barrels,
+finding a pipe to go through.
+
+Snag the Power-Up from the ? Block here, followed by using a Ground Pound to
+go through the bricks, much like a certain Star World Level in Super Mario
+World (well that used a Spin Jump, but close enough).  Line up Mario 
+underneath the former ? Block, and then Ground Pound through the various
+structures, falling through a Star Coin to reach the halfway marker, so head
+through the pipe on the right.  Hit the ?-Switch here to raise the water
+level, swimming upwards quickly to leap out of the water to Super Jump off 
+of a Skeeter on the right side of the shaft, Wall Jumping as high as 
+possible, which should send Mario sailing through the second Star Coin.
+
+Swim through the lower pipe on the right, going upwards to kill off the 
+Skeeters.  Next send Mario to hit the ?-Switch, swimming up the passage on 
+the right to leap up to the ledge with the third Star Coin, followed by 
+going back down to hit the ?-Switch once more, this time going up the left
+passage to enter the pipe up above the ledge.  Jump across the ledges on
+the right, arriving at the flagpole, ending the level!
+
+
+                           o-------------------o
+                           | Level 8-Tower One |
+                           o-------------------o
+
+Jump right to the moving platform, getting the Power-Up from the ? Block 
+before leaping up the moving platforms to find the first Star Coin on the
+left.  Head back down to go right to start climbing up the moving ledges,
+carefully leaping between the spikes to find a Power-Up in a ? Block, 
+followed by letting the ledge above slide left, allowing Mario to leap up
+and duck down, letting the ledge push him through as it comes back to the 
+right.
+
+Once you are through, go left and let the moving ledge pull Mario through
+to the far side (go when the Spike Tops are not threatening), allowing Mario
+to go upwards to get the second Star Coin.  Let the high ledge push Mario
+through the small opening, going right to use the next block to go upwards,
+reaching the halfway marker.
+
+Head left and climb up between the two crushing granite blocks, finding a
+Dry Bones and a springboard, so use it to launch upwards, jumping up to 
+reveal the hidden blocks above the Dry Bones, followed by using the winged
+? Block to get on top of them, acquiring the final Star Coin.  Now head
+through the large red doors to find Baby Bowser!
+
+Bowser Jr. will be doing his usual throw the shell and get nailed, allowing
+Mario to jump onto his stomach to damage him.  However, this battlezone will
+have a couple extras trick to deal with, mainly the moving granite blocks on
+the sides of the area, and two Flamethrowers will attack from below, so be
+careful to not take a hit while chasing down Bowser Jr.  Three hits will end
+the bout, sending Bowser Jr. scurrying off once more!
+
+
+                               o-----------o
+                               | Level 8-3 |
+                               o-----------o
+
+head through the pipe to get the Power-Up on the right, followed by swimming
+upwards, passing all the Unagis in the walls.  Whenever an Unagi is swimming
+a patrol through a passage ahead, let it go by before charging through, and
+Mario will eventually reach the halfway marker, which also happens to be 
+where the level picks up intensity... BIG TIME!
+
+Yeah the Mega Unagi is here, and it will be nipping at your heels the entire
+time you swim to the right, so be fast and accurate in your swimming lines,
+or you will soon belong to the Mega Unagi's digestive tract!  Swim to the
+right, dodging through the incoming Unagis, Cheep-Cheeps, and doing so while
+maintaining your speed to stay ahead of the razor sharp teeth that trail 
+you, swim along the bottom half of the cavern to eventually reach a Star 
+Coin resting on the bottom of the sea.
+
+After grabbing this lovely decoration, swim up to the roof to bust the 
+bricks that appear ahead, getting into the containment area of the second
+Star Coin.  Next step for Mario is to ignore all other distractions (like 
+the ? Blocks and red Coin Ring) to go forward at top speed, dropping down to
+wrap around some bricks to reach the Star Coin when it appears, followed by
+making a break for it to the right.  Here Mario will find the flagpole, so
+do not worry about scoring well here, just get out of this crazy sprint swim
+level!
+
+
+                               o-----------o
+                               | Level 8-4 |
+                               o-----------o
+
+Mario will immediately be accosted by bombarding Scuttlebugs, dropping down
+in sets of two to try and hit Mario.  They will further their attacks by 
+letting go of their silk threads, coming to ground level to try and touch
+Mario, so be ready to deal with this while moving right, arriving at a ledge
+that is a ? Block, Coin Block, and another ? Block.  Take a running leap to
+the right here to reach the high ledge, grabbing the Star Coin before 
+passing the halfway marker.
+
+Grab the nearby Power-Up before cautiously advancing, dealing with 
+Scuttlebugs as they both Mario, reaching a series of up and down floating 
+platforms.  When Mario is almost across, use a running leap to get the 
+second Star Coin (land carefully below, the ledge is fairly small) before 
+continuing onwards to find an Invincible Starman.  Use this great Item to go
+right, blasting through all foes, carefully leaping across the moving ledges
+to find a mini pipe.  When this spot is located, use a Mini Mushroom from 
+your reserves (if you lack it, come back later) to become Mini Mario, 
+heading down the pipe.
+
+Inside hit the ? Block to get an Invincible Starman, moving right to hit the
+next ? Block for the next Invincible StarMan, allowing Mario to enter the 
+narrow passage above to run to the left to reach the Star Coin before his
+Starman runs out (if it does, he will not be able to bypass the Micro 
+Goombas blocking this passage).  head back up the pipe to continue on the
+right, avoiding Scuttlebugs to reach the flagpole, ending the level!
+
+
+                           o--------------------o
+                           | Level 8-Castle One |
+                           o--------------------o
+
+Ride the platform on the high track to the right to leap up to the ledge 
+with the Star Coin, followed by hopping down to hit the red block to get a
+platform to cross the next lava field.  Grab the Power-Up and dust the Dry
+Bones to go right to hit the red switch to get the platform over the solid
+ledge to appear.  Ride it up and leap to the high platform, riding it down 
+to the bottom track to get the second Star Coin, followed by riding across
+the lava ahead (take the lower route for purposes later) to find the halfway
+marker and a Power-Up.
+
+Next up for Mario are some treacherous triangle and rectangle platforms to
+hop across, grabbing the Power-Up from the ? Block, jumping to the rope that
+hangs from the ceiling.  Land Mario on the platform below the large red 
+doors, ducking to go through the narrow opening to go right to find more
+rotating platforms to cross, reaching the third Star Coin.
+
+Now wait for the ledge to return along the track, going left to head for the
+large red doors, entering to go battle the boss!
+
+Bowser Jr. will sic Skeletal Bowser on Mario, who is far less vulnerable 
+than Bowser was in the first Castle of the game.  However, he still suffers
+from the same beatable weakness in that once that switch behind him is 
+touched, he drops form sight!  To perform this feat, simply dodge the 
+incoming bone throws (mush like the SMB hammers Bowser could throw) and 
+fiery breath attacks, waiting for Bowser to leap high into the air, at which
+point Mario can go underneath and hit the switch.  Another tried and true 
+way of getting to the switch is to just run right into Bowser, using the 
+temporary invincibility to go hit the switch!
+
+This appears to be the end... but it is not!  Bowser Jr. grabs the Princess
+and sprints away with Peach once more, crossing a recently formed bridge to
+enter the second half of World 8!
+
+
+                               o-----------o
+                               | Level 8-5 |
+                               o-----------o
+
+Head right to hop across the bouncy ledges and tippy rock ledges, taking
+out the Goombas and Red Koopa Troopas, arriving at a dual ? Block set that
+signals that a quick hop down to the rock ledge below to get the Star Coin,
+followed by quickly leaping back up before it tips into the lava.  Now use 
+the Red Koopa Troopa ahead on the ? Block for a 1-Up Mushroom, followed by
+continuing to the right to beat up the Red Koopa Troopa to claim the 
+Power-Up from the ? Block it patrols near.
+
+Continue moving right, taking out the first Red Koopa Troopa before hopping 
+down to the next ledge, using one of these red Koopa Troopas to throw into 
+the Star Coin on the left to collect it, followed by hopping across the gaps
+to find a series of rock ledges that tip when you stay on them.  Hop from
+ledge to ledge quickly, hopping over the Red Koopa Troopas and Green 
+Paratroopa Koopas that will accost Mario, trying to maintain some good speed
+to take a running leap off the last ledge of this type (it is slightly 
+elevated above the others), to reach a really high ledge, where the third
+Star Coin sits.  Now head through the pipe on the right, jumping onto the
+flagpole to end the level!
+
+
+                               o-----------o
+                               | Level 8-6 |
+                               o-----------o
+
+Head left to wrap around to the far side of the screen, hopping the gap to 
+keep going left, claiming the Power-Up from the ? Block before going up to
+use the green pipe, launching up and left, wrapping around through the screen
+to get the Star Coin.  Now head back out to jump up through the ledge above,
+running right to go past the Goombas pouring from the red pipe, reaching a
+? Block that hold a Power-Up.
+
+Next up is the halfway marker, which is quickly followed by springboards for
+Mario to use, going up off the first two to find a third one, which he 
+should use to launch up and to the left, stomping through the bricks with a
+Ground Pound, followed by leaping up the ledges above before the lava 
+catches up.  Go left and use the springboard here, launching straight up to
+reach some solid red ledges.
+
+Head up through the openings while dodging the Spinies, hanging to the right
+side to find the third Star Coin, followed by running through the side of 
+the screen to reach a green pipe, which will launch Mario away from the 
+rising lava's reach!  If you want to really score well on the flagpole, head
+to the left and use the springboard there to whirl all the way to the right,
+getting some Coins while doing so.  Either way, touch the flagpole to end 
+the level!
+
+
+                               o-----------o
+                               | Level 8-7 |
+                               o-----------o
+
+Super Jump across the backs of the Green Paratroopa Koopas for a Power-Up,
+which leads to a series of Koopas of all types to Super Jump along, 
+concluding with a bounce over the large wall ahead (if you fail at this, 
+look for a hidden block to reach the top of the wall).  A Sledge Bro will
+attack at this juncture, so shoot it from afar (or you will have to get in 
+close), followed by going down underneath the ledge to go left for the Star
+Coin.  Remember to leap off of this ledge quickly as it is tough to stop so 
+suddenly on a small ledge.
+
+Head right to pass the Red Koopa Troopas to reach some cliffs, so move 
+across them while collecting Coins to reach a small ledge, leaping across 
+the gap to hit the halfway marker and to raid the higher ? Block for a 
+Power-Up (just be careful around the Green Paratroopa Koopas).  Head right 
+to find two Fiery Bros, so leap up in between their attacks, hopping on the
+first one (though a taste of their own medicine from Fiery Mario would be
+just as satisfying), followed by cracking the one on the ledge above by 
+punching him from below.
+
+Look for the Invincible Starman in the ? Block to go right, hurriedly 
+smashing through the Koopas here to find a set of floating ledges, one of
+which houses a Boomerang Bro, so take him out with the Starman (if you still
+possess it), or stomp him in between his boomerang attacks, which will leave 
+the second Star Coin unguarded.  
+
+Continue on to the right, facing another Sledge hammer Bro to allow Mario to
+Ground Pound through the one set of bricks, opening the containment are of 
+the third Star Coin to collect it (just do not Ground Pound too far, or 
+Mario will die).  head right to go through the Red Coin Ring, getting the 
+Red Coins before entering the green pipe, launching through the majority of
+the Red Coins, hopping straight up to get the last one, followed by using 
+the Green Paratroopa Koopas to Super Jump high into the air, grabbing the 
+flagpole to end the level!
+
+A fun note for this level: This is an homage to the Hand Trap from Super 
+Mario Brothers 3 that contains all the types of the Hammer Brothers Family. 
+Though this level is longer, it is about the same in terms of difficulty.
+
+
+                               o-----------o
+                               | Level 8-8 |
+                               o-----------o
+
+Run right to use the brick ledge to go up and left for the first Star Coin
+(go in between the volcanic eruptions to stay safe), followed by going right
+for the Power-Up in the nearby ? Block.  Now head right carefully, passing 
+the Kab-Ombs (stomp them to kill them to stay really safe), but do not fear 
+their explosions as they will just harmlessly shoot into the air after 
+running around for a few second making a wonderful coloured explosion.
+
+Keep on going along, raiding the bricks and ? Blocks to find Power-Ups, 
+arriving at a set of grey bricks that are positioned over holes, but look
+carefully to find a mini pipe in one.  Stand over this hole and break the
+bricks with the falling magma rock, going down the pipe (as Mini Mario, or
+else you can not go after this Star Coin) to find a large maze.  Enter the 
+maze near the mini pipe, working through the pathways (Coins are an 
+excellent indicator of which way to go), reaching the second Star Coin.  Now
+Mario will just need to continue to the left, fighting his way out of this 
+maze to reach the mini pipe to go back to the surface.
+
+Head right past all the Kab-Ombs and avoiding the incoming magma, stopping
+underneath the encased Star Coin, letting the magma rip the bricks to 
+shreds.  After leaping up between eruptions to claim the third Star Coin,
+head right past all the Kab-Ombs (carefully, as you are likely still Mini
+Mario), reaching the flagpole to end the hellish level!
+
+
+                           o-------------------o
+                           | Level 8-Tower Two |
+                           o-------------------o
+
+Head right to get onto the green block platform to begin moving, raiding the
+? Block for a Power-Up before facing a series of moves through some 
+Firebars.  When Mario enters the narrow hall with spikes and small Firebars,
+ride at the front of the platform, riding the blocks upward to grab the 
+first Star Coin from a small alcove.
+
+get onto the front block immediately to ride upwards, passing the halfway
+marker, continuing to the right to ride through the various dips and doodles
+of the platform, ignoring the Red Coin Ring while doing so.  When you reach
+the ? Block holding the Power-Up, take a running leap off the green blocks 
+to the right to get the second Star Coin, followed by hustling to the right 
+to get onto the rising green blocks before the Spiked Ball comes crashing 
+into the scene.
+
+Continue the great green block tour, avoiding the first Spiked Ball to find
+a second to leap over and onto the ledge it came from, getting the third 
+Star Coin before returning to the green blocks.  Now get onto the front 
+block and ride it upwards, leaping over to the right to enter the large red 
+doors to face Baby Bowser once more!
+
+Baby Bowser will be doing his now familiar hide in his shell before tossing
+a Green Koopa shell, so stomp the shell and throw it back to stun him, 
+followed by planting a plumber boot in his exposed mid section.  Repeat the 
+pattern two more times while watching out for the Podoboo attacks on the 
+sides, and baby Bowser will make one last run for it!
+
+
+                           o--------------------o
+                           | Level 8-Castle Two |
+                           o--------------------o
+
+Head right across the gaps while avoiding the Podoboos, reaching a door to
+pass through, finding three bricks.  Punch the center one to reveal a
+?-Switch, which will flip the room to let Mario pass through the door that
+was on ceiling (now on the ground), leading into a room to go up and to the
+right through, passing Flamethrowers and a Dry Bone, entering the door near 
+a thin wall.  In here Mario will find a Super Thwomp to pass underneath 
+after he draws it into attacking, followed by hitting the bricks to reveal a
+?-Switch.
+
+Collect the Power-Up on the right before hitting the ?-Switch, flipping the
+room again so Mario can go left underneath the Super Thwoimp again, passing
+through the door to find another long set of Flamethrowers and a Dry Bones 
+to move past, fighting over to the left to find a solo brick that holds a
+?-Switch.  Now Mario will have to go back to the right, looking for a ledge 
+above (it is located above the area with the Dry Bones) to go up past more
+Flamethrowers, entering the door.  Head right past the three Thwomps, 
+turning left to hop over the spikes above to go get the first Star Coin,
+followed by turning right to go down to get a Power-Up from a brick below a
+Dry Bones.
+
+Head left from here, continuing to go downwards while smacking bricks, 
+revealing a ?-Switch to flip the room, allowing Mario to climb upwards to
+pass under the Thwomp to reach the top.  Mario will find a choice in path,
+so go right and pass under another Thwomp to leap some spikes and a Dry
+Bones, reaching a door.  Leap onto the platform on the left to get up to a
+door that leads to an empty room where running right along the floor will 
+get Mario a second Star Coin, followed by going up the stairs to get into 
+the door located at the top.
+
+Head right to pass the halfway marker and to snag an Item, which is followed
+by a set of platforms and such that have many routes across, but only one 
+correct way will allow Mario to advance (a classic style from the original
+Super Mario Brothers castles in World 4, World 7, and World 8).  So to 
+advance through this area, start out by taking the bottom path to hear the
+success chime, followed by going along the to path in the next area, and
+finally taking the middle path to clear this area.
+
+Mario will have to leap across some small ledges ahead to find a couple 
+bricks to Ground Pound to destroy, followed by going over the lava pit to
+take a running leap to the left underneath the ledge, attempting a Slide 
+Duck to go under the short bricks, reaching the final Star Coin in the game!
+Now head right, entering the massive red doors to enter into the final Boss
+Fight!
+
+Bowser Jr. will revive his destroyed father before the battle even begins, 
+turning the bout into an unfair 2 vs. 1... if you were not the great Mario
+anyway!  Start out by concentrating on Baby Bowser, jump his charges,
+forcing him to throw a Koopa shell for Mario to stomp and throw back, 
+followed by jumping onto his exposed stomach (though Fireballs really work 
+well here), getting three hits to finish him off.  However, while taking 
+down this wily foe, remember that Bowser will be attacking with his blue
+flames that will track Mario down, but luckily their range is very limited.
+
+Once Bowser Jr. has been dispatched, it is time to take care of Bowser.  
+However, upon the defeat of scales and blood, Bowser will up the attacks, 
+sending out multiple flames at a time, including three blue homing flames at
+once!  Try to get in close to the monster, avoiding the flames (if the blue
+flames come out, back and off let them dissipate), waiting for Bowser to 
+leap into the air to allow Mario to go underneath him and to hit the switch
+that rests on the right side of the room.  Note it is far easier to go under
+him on the high leap, but it is possible to get under him on the small leap.
+
+Hit the switch to end the abduction, saving Princess Peach and ending the
+game!
+

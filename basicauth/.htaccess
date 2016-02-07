@@ -1,0 +1,5 @@
+AuthUserFile  /home/mjnrus/htpasswd
+AuthGroupFile /dev/null
+AuthName "Basic Auth Test"
+AuthType Basic
+require valid-user

@@ -1,0 +1,95 @@
+<html>
+ <head>
+  <meta http-equiv="content-type" content="text/html; charset=utf-8" />
+  <title>WHATL Computus: Calendar Chart</title>
+  <style>
+   body { background-color: #c0c0c0 }
+   #buttons div { float: left; border: solid 1px black  }
+   #buttons div.inactive { border-left: none; border-top: none;  background-color: #e0e0e0;
+		         border-bottom: bevel 10px black; border-right: bevel 10px black; }
+   #buttons div.active { border-left: bevel 10px white; border-top: bevel 10px white; 
+		         background-color: #a0a0a0; border-bottom: none; border-right: none; }
+   table { clear: both; background-color: #e0e0e0 }
+   .even { background-color: white }
+   .equinox { background-color: #00ff00 }
+  </style>
+ </head>
+ <body>
+  <h1>WHATL Computus: Calendar Chart</h1>
+
+  <p>This shows the letter and number assignments to each day in the year.
+    In any given year, each day whose letter matches the year's <i>κυριακαίο γράμματο</i>
+   ("dominical letter") is a <i>Κυριακό</i> (Sunday), and each day whose number
+   matches the epact is an ecclesiastical new moon.</p>
+
+  <p>For example, for the year 2014 (which corresponds to 2010 AD), the epact
+   is <b>6</b> and the <i>κυριακαίο γράμματο</i> is <b>Δ</b>.</p>
+
+  <p>To find Easter, most of the table is not needed, of course.  The earliest
+	possible date for Easter is 28 <i>Δύστρο</i>, and the lateset possible date is
+    1 <i>Αρτεμίσιο</i>.  The procedure is as follows:</p>
+
+  <ol>
+   <li><b>Determine the numeric label of the ecclesiastical <i>full</i> moons, 
+       which occur 14 days after the new moons.</b> For 2014, the epact of 6
+	means that the full moons fall on days numbered 20.</li>
+   <li><b>Find the first day with that number on or after the ecclesiastical
+	  vernal equinox (27 Δύστρο, highlighted in green).</b> This is
+   	  the day of the Paschal Moon; for 2014, that's the 7th day of <i>Ξανθικό</i>.</li>
+   <li><b>Starting with the day <i>after</i> the full moon, find the first <i>Κυριακό</i>
+          That is Easter.</b> In 2014, that's the 10th of <i>Ξανθικό</i>.  
+  </ol>
+
+  <div id="buttons">
+     <div id="full" class="active">Full</div><div id="easter" class="inactive">Easter</div>
+  </div>
+
+  <table border="1">
+   <tr><td>&nbsp;</td>
+    <th colspan="2" width="8%" class="even" align="left">Αυδυναίο</th>
+    <th colspan="2" width="8%" class="odd" align="left">Περίτιο</th>
+    <th colspan="2" width="8%" class="even" align="left">Δύστρο</th>
+    <th colspan="2" width="8%" class="odd" align="left">Ξανθικό</th>
+    <th colspan="2" width="8%" class="even" align="left">Αρτεμίσιο</th>
+    <th colspan="2" width="8%" class="odd" align="left">Δαίσιο</th>
+    <th colspan="2" width="8%" class="even" align="left">Πάνημο</th>
+    <th colspan="2" width="8%" class="odd" align="left">Λώιο</th>
+    <th colspan="2" width="8%" class="even" align="left">Γορπιαίο</th>
+    <th colspan="2" width="8%" class="odd" align="left">Υπερβερεταίο</th>
+    <th colspan="2" width="8%" class="even" align="left">Δίο</th>
+    <th colspan="2" width="8%" class="odd" align="left">Απελλαίο</th>
+   </tr>
+   <tr><th>1</th><td class="even">*</td><td class="even">Α</td><td>29</td><td>Δ</td><td class="even">28</td><td class="even">Ζ</td><td>27</td><td>Β</td><td class="even">26</td><td class="even">Δ</td><td>25/24</td><td>Η</td><td class="even">23</td><td class="even">Β</td><td>22</td><td>Ε</td><td class="even">21</td><td class="even">Η</td><td>20</td><td>Γ</td><td class="even">20</td><td class="even">Δ/<i>Ε</i></td><td>19</td><td>Η/<i>Α</i></td>   </tr>
+   <tr><th>2</th><td class="even">29</td><td class="even">Β</td><td>28</td><td>Ε</td><td class="even">27</td><td class="even">Η</td><td>26</td><td>Γ</td><td class="even">25</td><td class="even">Ε</td><td>23</td><td>Α</td><td class="even">22</td><td class="even">Γ</td><td>21</td><td>Ζ</td><td class="even">20</td><td class="even">Α</td><td>19</td><td>Δ</td><td class="even">19</td><td class="even">Ε/<i>Ζ</i></td><td>18</td><td>Α/<i>Β</i></td>   </tr>
+   <tr><th>3</th><td class="even">28</td><td class="even">Γ</td><td>27</td><td>Ζ</td><td class="even">26</td><td class="even">Α</td><td>25/24</td><td>Δ</td><td class="even">24</td><td class="even">Ζ</td><td>22</td><td>Β</td><td class="even">21</td><td class="even">Δ</td><td>20</td><td>Η</td><td class="even">19</td><td class="even">Β</td><td>18</td><td>Ε</td><td class="even">18</td><td class="even">Ζ/<i>Η</i></td><td>17</td><td>Β/<i>Γ</i></td>   </tr>
+   <tr><th>4</th><td class="even">27</td><td class="even">Δ</td><td>26</td><td>Η</td><td class="even">25</td><td class="even">Β</td><td>23</td><td>Ε</td><td class="even">23</td><td class="even">Η</td><td>21</td><td>Γ</td><td class="even">20</td><td class="even">Ε</td><td>19</td><td>Α</td><td class="even">18</td><td class="even">Γ</td><td>17</td><td>Ζ</td><td class="even">17</td><td class="even">Η/<i>Α</i></td><td>16</td><td>Γ/<i>Δ</i></td>   </tr>
+   <tr><th>5</th><td class="even">26</td><td class="even">Ε</td><td>25/24</td><td>Α</td><td class="even">24</td><td class="even">Γ</td><td>22</td><td>Ζ</td><td class="even">22</td><td class="even">Α</td><td>20</td><td>Δ</td><td class="even">19</td><td class="even">Ζ</td><td>18</td><td>Β</td><td class="even">17</td><td class="even">Δ</td><td>16</td><td>Η</td><td class="even">16</td><td class="even">Α/<i>Β</i></td><td>15</td><td>Δ/<i>Ε</i></td>   </tr>
+   <tr><th>6</th><td class="even">25</td><td class="even">Ζ</td><td>23</td><td>Β</td><td class="even">23</td><td class="even">Δ</td><td>21</td><td>Η</td><td class="even">21</td><td class="even">Β</td><td>19</td><td>Ε</td><td class="even">18</td><td class="even">Η</td><td>17</td><td>Γ</td><td class="even">16</td><td class="even">Ε</td><td>15</td><td>Α</td><td class="even">15</td><td class="even">Β/<i>Γ</i></td><td>14</td><td>Ε/<i>Ζ</i></td>   </tr>
+   <tr><th>7</th><td class="even">24</td><td class="even">Η</td><td>22</td><td>Γ</td><td class="even">22</td><td class="even">Ε</td><td>20</td><td>Α</td><td class="even">20</td><td class="even">Γ</td><td>18</td><td>Ζ</td><td class="even">17</td><td class="even">Α</td><td>16</td><td>Δ</td><td class="even">15</td><td class="even">Ζ</td><td>14</td><td>Β</td><td class="even">14</td><td class="even">Γ/<i>Δ</i></td><td>13</td><td>Ζ/<i>Η</i></td>   </tr>
+   <tr><th>8</th><td class="even">23</td><td class="even">Α</td><td>21</td><td>Δ</td><td class="even">21</td><td class="even">Ζ</td><td>19</td><td>Β</td><td class="even">19</td><td class="even">Δ</td><td>17</td><td>Η</td><td class="even">16</td><td class="even">Β</td><td>15</td><td>Ε</td><td class="even">14</td><td class="even">Η</td><td>13</td><td>Γ</td><td class="even">13</td><td class="even">Δ/<i>Ε</i></td><td>12</td><td>Η/<i>Α</i></td>   </tr>
+   <tr><th>9</th><td class="even">22</td><td class="even">Β</td><td>20</td><td>Ε</td><td class="even">20</td><td class="even">Η</td><td>18</td><td>Γ</td><td class="even">18</td><td class="even">Ε</td><td>16</td><td>Α</td><td class="even">15</td><td class="even">Γ</td><td>14</td><td>Ζ</td><td class="even">13</td><td class="even">Α</td><td>12</td><td>Δ</td><td class="even">12</td><td class="even">Ε/<i>Ζ</i></td><td>11</td><td>Α/<i>Β</i></td>   </tr>
+   <tr><th>10</th><td class="even">21</td><td class="even">Γ</td><td>19</td><td>Ζ</td><td class="even">19</td><td class="even">Α</td><td>17</td><td>Δ</td><td class="even">17</td><td class="even">Ζ</td><td>15</td><td>Β</td><td class="even">14</td><td class="even">Δ</td><td>13</td><td>Η</td><td class="even">12</td><td class="even">Β</td><td>11</td><td>Ε</td><td class="even">11</td><td class="even">Ζ/<i>Η</i></td><td>10</td><td>Β/<i>Γ</i></td>   </tr>
+   <tr><th>11</th><td class="even">20</td><td class="even">Δ</td><td>18</td><td>Η</td><td class="even">18</td><td class="even">Β</td><td>16</td><td>Ε</td><td class="even">16</td><td class="even">Η</td><td>14</td><td>Γ</td><td class="even">13</td><td class="even">Ε</td><td>12</td><td>Α</td><td class="even">11</td><td class="even">Γ</td><td>10</td><td>Ζ</td><td class="even">10</td><td class="even">Η/<i>Α</i></td><td>9</td><td>Γ/<i>Δ</i></td>   </tr>
+   <tr><th>12</th><td class="even">19</td><td class="even">Ε</td><td>17</td><td>Α</td><td class="even">17</td><td class="even">Γ</td><td>15</td><td>Ζ</td><td class="even">15</td><td class="even">Α</td><td>13</td><td>Δ</td><td class="even">12</td><td class="even">Ζ</td><td>11</td><td>Β</td><td class="even">10</td><td class="even">Δ</td><td>9</td><td>Η</td><td class="even">9</td><td class="even">Α/<i>Β</i></td><td>8</td><td>Δ/<i>Ε</i></td>   </tr>
+   <tr><th>13</th><td class="even">18</td><td class="even">Ζ</td><td>16</td><td>Β</td><td class="even">16</td><td class="even">Δ</td><td>14</td><td>Η</td><td class="even">14</td><td class="even">Β</td><td>12</td><td>Ε</td><td class="even">11</td><td class="even">Η</td><td>10</td><td>Γ</td><td class="even">9</td><td class="even">Ε</td><td>8</td><td>Α</td><td class="even">8</td><td class="even">Β/<i>Γ</i></td><td>7</td><td>Ε/<i>Ζ</i></td>   </tr>
+   <tr><th>14</th><td class="even">17</td><td class="even">Η</td><td>15</td><td>Γ</td><td class="even">15</td><td class="even">Ε</td><td>13</td><td>Α</td><td class="even">13</td><td class="even">Γ</td><td>11</td><td>Ζ</td><td class="even">10</td><td class="even">Α</td><td>9</td><td>Δ</td><td class="even">8</td><td class="even">Ζ</td><td>7</td><td>Β</td><td class="even">7</td><td class="even">Γ/<i>Δ</i></td><td>6</td><td>Ζ/<i>Η</i></td>   </tr>
+   <tr><th>15</th><td class="even">16</td><td class="even">Α</td><td>14</td><td>Δ</td><td class="even">14</td><td class="even">Ζ</td><td>12</td><td>Β</td><td class="even">12</td><td class="even">Δ</td><td>10</td><td>Η</td><td class="even">9</td><td class="even">Β</td><td>8</td><td>Ε</td><td class="even">7</td><td class="even">Η</td><td>6</td><td>Γ</td><td class="even">6</td><td class="even">Δ/<i>Ε</i></td><td>5</td><td>Η/<i>Α</i></td>   </tr>
+   <tr><th>16</th><td class="even">15</td><td class="even">Β</td><td>13</td><td>Ε</td><td class="even">13</td><td class="even">Η</td><td>11</td><td>Γ</td><td class="even">11</td><td class="even">Ε</td><td>9</td><td>Α</td><td class="even">8</td><td class="even">Γ</td><td>7</td><td>Ζ</td><td class="even">6</td><td class="even">Α</td><td>5</td><td>Δ</td><td class="even">5</td><td class="even">Ε/<i>Ζ</i></td><td>4</td><td>Α/<i>Β</i></td>   </tr>
+   <tr><th>17</th><td class="even">14</td><td class="even">Γ</td><td>12</td><td>Ζ</td><td class="even">12</td><td class="even">Α</td><td>10</td><td>Δ</td><td class="even">10</td><td class="even">Ζ</td><td>8</td><td>Β</td><td class="even">7</td><td class="even">Δ</td><td>6</td><td>Η</td><td class="even">5</td><td class="even">Β</td><td>4</td><td>Ε</td><td class="even">4</td><td class="even">Ζ/<i>Η</i></td><td>3</td><td>Β/<i>Γ</i></td>   </tr>
+   <tr><th>18</th><td class="even">13</td><td class="even">Δ</td><td>11</td><td>Η</td><td class="even">11</td><td class="even">Β</td><td>9</td><td>Ε</td><td class="even">9</td><td class="even">Η</td><td>7</td><td>Γ</td><td class="even">6</td><td class="even">Ε</td><td>5</td><td>Α</td><td class="even">4</td><td class="even">Γ</td><td>3</td><td>Ζ</td><td class="even">3</td><td class="even">Η/<i>Α</i></td><td>2</td><td>Γ/<i>Δ</i></td>   </tr>
+   <tr><th>19</th><td class="even">12</td><td class="even">Ε</td><td>10</td><td>Α</td><td class="even">10</td><td class="even">Γ</td><td>8</td><td>Ζ</td><td class="even">8</td><td class="even">Α</td><td>6</td><td>Δ</td><td class="even">5</td><td class="even">Ζ</td><td>4</td><td>Β</td><td class="even">3</td><td class="even">Δ</td><td>2</td><td>Η</td><td class="even">2</td><td class="even">Α/<i>Β</i></td><td>1</td><td>Δ/<i>Ε</i></td>   </tr>
+   <tr><th>20</th><td class="even">11</td><td class="even">Ζ</td><td>9</td><td>Β</td><td class="even">9</td><td class="even">Δ</td><td>7</td><td>Η</td><td class="even">7</td><td class="even">Β</td><td>5</td><td>Ε</td><td class="even">4</td><td class="even">Η</td><td>3</td><td>Γ</td><td class="even">2</td><td class="even">Ε</td><td>1</td><td>Α</td><td class="even">1</td><td class="even">Β/<i>Γ</i></td><td>*</td><td>Ε/<i>Ζ</i></td>   </tr>
+   <tr><th>21</th><td class="even">10</td><td class="even">Η</td><td>8</td><td>Γ</td><td class="even">8</td><td class="even">Ε</td><td>6</td><td>Α</td><td class="even">6</td><td class="even">Γ</td><td>4</td><td>Ζ</td><td class="even">3</td><td class="even">Α</td><td>2</td><td>Δ</td><td class="even">1</td><td class="even">Ζ</td><td>*</td><td>Β</td><td class="even">*</td><td class="even">Γ/<i>Δ</i></td><td>29</td><td>Ζ/<i>Η</i></td>   </tr>
+   <tr><th>22</th><td class="even">9</td><td class="even">Α</td><td>7</td><td>Δ</td><td class="even">7</td><td class="even">Ζ</td><td>5</td><td>Β</td><td class="even">5</td><td class="even">Δ</td><td>3</td><td>Η</td><td class="even">2</td><td class="even">Β</td><td>1</td><td>Ε</td><td class="even">*</td><td class="even">Η</td><td>29</td><td>Γ</td><td class="even">29</td><td class="even">Δ/<i>Ε</i></td><td>28</td><td>Η/<i>Α</i></td>   </tr>
+   <tr><th>23</th><td class="even">8</td><td class="even">Β</td><td>6</td><td>Ε</td><td class="even">6</td><td class="even">Η</td><td>4</td><td>Γ</td><td class="even">4</td><td class="even">Ε</td><td>2</td><td>Α</td><td class="even">1</td><td class="even">Γ</td><td>*</td><td>Ζ</td><td class="even">29</td><td class="even">Α</td><td>28</td><td>Δ</td><td class="even">28</td><td class="even">Ε/<i>Ζ</i></td><td>27</td><td>Α/<i>Β</i></td>   </tr>
+   <tr><th>24</th><td class="even">7</td><td class="even">Γ</td><td>5</td><td>Ζ</td><td class="even">5</td><td class="even">Α</td><td>3</td><td>Δ</td><td class="even">3</td><td class="even">Ζ</td><td>1</td><td>Β</td><td class="even">*</td><td class="even">Δ</td><td>29</td><td>Η</td><td class="even">28</td><td class="even">Β</td><td>27</td><td>Ε</td><td class="even">27</td><td class="even">Ζ/<i>Η</i></td><td>26</td><td>Β/<i>Γ</i></td>   </tr>
+   <tr><th>25</th><td class="even">6</td><td class="even">Δ</td><td>4</td><td>Η</td><td class="even">4</td><td class="even">Β</td><td>2</td><td>Ε</td><td class="even">2</td><td class="even">Η</td><td>*</td><td>Γ</td><td class="even">29</td><td class="even">Ε</td><td>28</td><td>Α</td><td class="even">27</td><td class="even">Γ</td><td>26</td><td>Ζ</td><td class="even">26</td><td class="even">Η/<i>Α</i></td><td>25/24</td><td>Γ/<i>Δ</i></td>   </tr>
+   <tr><th>26</th><td class="even">5</td><td class="even">Ε</td><td>3</td><td>Α</td><td class="even">3</td><td class="even">Γ</td><td>1</td><td>Ζ</td><td class="even">1</td><td class="even">Α</td><td>29</td><td>Δ</td><td class="even">28</td><td class="even">Ζ</td><td>27</td><td>Β</td><td class="even">26</td><td class="even">Δ</td><td>25/24</td><td>Η</td><td class="even">25</td><td class="even">Α/<i>Β</i></td><td>23</td><td>Δ/<i>Ε</i></td>   </tr>
+   <tr><th>27</th><td class="even">4</td><td class="even">Ζ</td><td>2</td><td>Β</td><td class="equinox">2</td><td class="equinox">Δ</td><td>*</td><td>Η</td><td class="even">*</td><td class="even">Β</td><td>28</td><td>Ε</td><td class="even">27</td><td class="even">Η</td><td>26</td><td>Γ</td><td class="even">25</td><td class="even">Ε</td><td>23</td><td>Α</td><td class="even">24</td><td class="even">Β/<i>Γ</i></td><td>22</td><td>Ε/<i>Ζ</i></td>   </tr>
+   <tr><th>28</th><td class="even">3</td><td class="even">Η</td><td>1</td><td>Γ</td><td class="even">1</td><td class="even">Ε</td><td>29</td><td>Α</td><td class="even">29</td><td class="even">Γ</td><td>27</td><td>Ζ</td><td class="even">26</td><td class="even">Α</td><td>25/24</td><td>Δ</td><td class="even">24</td><td class="even">Ζ</td><td>22</td><td>Β</td><td class="even">23</td><td class="even">Γ/<i>Δ</i></td><td>21</td><td>Ζ/<i>Η</i></td>   </tr>
+   <tr><th>29</th><td class="even">2</td><td class="even">Α</td><td>*</td><td>Δ</td><td class="even">*</td><td class="even">Ζ</td><td>28</td><td>Β</td><td class="even">28</td><td class="even">Δ</td><td>26</td><td>Η</td><td class="even">25</td><td class="even">Β</td><td>23</td><td>Ε</td><td class="even">23</td><td class="even">Η</td><td>21</td><td>Γ</td><td class="even">22</td><td class="even">Δ/<i>Ε</i></td><td>20</td><td>Η/<i>Α</i></td>   </tr>
+   <tr><th>30</th><td class="even">1</td><td class="even">Β</td><td>29</td><td>Ε</td><td class="even">29</td><td class="even">Η</td><td>27</td><td>Γ</td><td class="even">27</td><td class="even">Ε</td><td>25/24</td><td>Α</td><td class="even">24</td><td class="even">Γ</td><td>22</td><td>Ζ</td><td class="even">22</td><td class="even">Α</td><td>&nbsp;</td><td><i>Δ</i></td><td class="even">21</td><td class="even">Ε/<i>Ζ</i></td><td>19</td><td>Α/<i>Β</i></td>   </tr>
+   <tr><th>31</th><td class="even">*</td><td class="even">Γ</td><td>&nbsp;</td><td>&nbsp;</td><td class="even">28</td><td class="even">Α</td><td>&nbsp;</td><td>&nbsp;</td><td class="even">26</td><td class="even">Ζ</td><td>&nbsp;</td><td>&nbsp;</td><td class="even">23</td><td class="even">Δ</td><td>&nbsp;</td><td>&nbsp;</td><td class="even">21</td><td class="even">Β</td><td>&nbsp;</td><td>&nbsp;</td><td class="even">20</td><td class="even">Ζ/<i>Η</i></td><td>&nbsp;</td><td>&nbsp;</td>   </tr>
+  </table>
+ </body>
+</html>

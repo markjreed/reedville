@@ -1,0 +1,29 @@
+<html>
+ <head>
+  <title>XSS Test</title>
+ </head>
+ <body>
+  <h1>XSS Test</h1>
+
+  <p>This page attempts to load and display the list of challenges from the CartoonNetwork CN Sayin' promotion via https://cnsayin.cartoonnetwork.com/appInfo. If all goes well, it should appear in this textarea:</p>
+
+  <textarea id="appInfo"></textarea>
+  </body>
+  <script>
+   document.getElementsByTagName('body')[0].onload = function() { 
+     var xhr = new XMLHttpRequest();
+     xhr.onreadystatechange = function() {
+       if (this.readyState == 4) {
+         document.getElementById('appInfo').innerHTML = xhr.responseText
+       }
+     }
+     xhr.open('GET', 'http://157.166.255.42/appInfo/default', true);
+     xhr.send(null);
+  };
+ </script>
+</html>
+
+
+
+
+  

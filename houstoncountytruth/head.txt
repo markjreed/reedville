@@ -1,0 +1,2 @@
+  <link href="cgi-bin/css.cgi" rel="stylesheet" />
+  <script src="swap.js"></script>

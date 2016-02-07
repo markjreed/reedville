@@ -1,0 +1,133 @@
+BODY {
+	font-family: sans-serif, arial, helvetica;
+	font-size: medium;
+	color: black;
+	background: white;
+}
+
+TABLE {
+		padding-left: 4%;
+}
+
+TABLE.nopadding {
+		padding-left: 0%;
+}
+
+TABLE.statistics {
+		padding-left: 0%;
+}
+
+TH.statistics {
+		background: gray;	
+}
+
+H1 {
+		padding-left: 4%;
+		font-family: sans-serif;
+		font-size: x-large;
+		font-weight: bold;
+}
+
+H2 {
+		padding-left: 4%;
+		font-family: sans-serif;
+}
+
+td.certhead {
+		font-size: 24;
+		font-weight:bold;
+		text-align:center;
+		font-family: sans-serif;
+}
+
+H3 {
+		padding-left: 4%;
+		font-family: sans-serif;
+}
+
+H4 {
+		padding-left: 4%;
+		font-family: sans-serif;
+}
+
+Div.BodyText {
+		padding-left: 4%;
+		padding-bottom: 2%
+}
+
+Div.specialNote {
+		padding-left: 4%;
+		padding-bottom: 2%;
+		color:#ff0000
+}
+
+
+Div.navlinks {  
+		padding-left: 4%;
+}
+Div.navlinks_nat {  
+		background-color:#eef;
+		padding-left: 4%;
+}
+
+.navitem {
+		background-color:#99cc99;
+		font-size:110%;
+}
+
+Div.FAQquestion {
+		padding-left: 4%;
+		padding-bottom: 2%
+                font-weight: bold;
+}
+
+Div.FAQresponse {
+		padding-left: 4%;
+		padding-bottom: 2%
+}
+
+Div.MediaQuote {
+		font-style:     italic;
+		padding-left:   4%;
+		padding-bottom: 2%
+}
+
+span.tm{
+    font-size:0.5em;
+    vertical-align:top
+}
+Span.MediaQuote {
+		font-style:     italic;
+		padding-bottom: 2%
+}
+
+Div.Attribution {
+		font-style:     normal;
+		padding-left:   40%;
+		padding-bottom: 5%
+}
+
+A {
+		font-family: sans-serif;
+		font-style: normal;
+}
+
+A:LINK {
+		color: blue;
+}
+
+A:VISITED {
+		color: red;
+}
+
+A:HOVER {
+		color: red;
+}
+
+Div.Copyright {
+		padding-left: 4%;
+		font-family: sans-serif;
+		font-size: 8pt;
+		color: gray;
+		text-align: justify;
+}

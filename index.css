@@ -1,0 +1,97 @@
+html, body { background-color: #c0ffc0; color: black; 
+             font-family: Georgia, serif; margin-top: 0; }
+
+#csr_photo { width: 300px; height: 420px; position: absolute; 
+             left: 5px; top: 5px; z-index: 0 }
+
+#csr_photo a     { display: block; width: 100%; height: 100%; 
+                   position: absolute; left: 0; top: 0; }
+#csr_photo a img { width: 167px; vertical-align: middle; 
+                   border: solid 3px white; position: absolute;
+                   left: 0; top: 0; z-index: 0; }
+
+#csr_photo a:hover     { background-color: #00ff00 }
+#csr_photo a:hover img { border-color: #00ff00 }
+
+#csr_photo a:active     { background-color: black }
+#csr_photo a:active img { border-color: black }
+
+#car_photo { width: 300px; height: 420px; position: absolute; 
+             right: 5px; top: 5px; z-index: 0 }
+
+#car_photo a     { display: block; width: 100%; height: 100%; }
+#car_photo a img { vertical-align: middle; border: solid 3px white;     
+                   width: 167px; z-index: 0; }
+
+#car_photo a:hover { background-color: #00ff00 }
+#car_photo a:hover img { border-color: #00ff00 }
+
+#car_photo a:active { background-color: black }
+#car_photo a:active img { border-color: black }
+
+#age_div   { margin-left: 300px; margin-right: 300px; width: auto; 
+             height: 420px; position: relative; top: 5px; 
+             border: solid 1px #c0ffc0; z-index: 10 }
+
+h1 { color: #387038; text-align: center; margin-top: 0; z-index: 10; }
+
+#age_table {  width: 100%; color: black;
+              border-collapse: collapse; z-index: 10; }
+
+#age_table td { border: solid 1px black; font-size: 18pt; 
+                margin-bottom: 0px; margin-top: auto; }
+
+.heading { font-size: 22pt; background-color: #60c060; color: black; 
+           font-weight: bold; text-align: center}
+.units { background-color: #60c060; color: black; text-align: center}
+
+.connor { text-align: right; }
+.chase  { text-align: left; }
+
+table#links {  width: 60%; margin-left: auto; margin-right: auto; 
+position: relative; border-collapse: collapse; }
+
+table#links td { display: block; margin: 0; padding: 0; width: 100%; color: black; 
+         border: solid 1px black; background-color: white; }
+table#links th { border: solid 1px black; margin: 0; padding: 0; }
+
+table#links td a {  display: block; width: 100%; color: black; 
+                 text-decoration: none; font-weight: bold; font-size: small }
+table#links td a:hover {  background-color: #00ff00; color: black; }
+table#links td a:active {  background-color: black; color: #00ff00; }
+
+.note { font-style: italic; font-weight: normal; font-size: medium }
+
+dl.rss_feed
+{
+	margin: 2em 0;
+	padding: 0;
+	width: 20em;
+	font-family: sans-serif;
+}
+
+.rss_feed dt
+{
+	background-color: #131210;
+	color: #959289;
+	padding: .5em;
+	font-weight: bold;
+	font-style: italic;
+	text-align: center;
+	border-left: 1px solid #131210;
+	border-right: 1px solid #131210;
+	border-top: 1px solid #131210;
+}
+
+.rss_feed dt a { color: white } 
+
+.rss_feed dd
+{
+	margin: 0 0 1em 0;
+	background: #DBD8D8;
+	text-align: left;
+	padding: 1em .5em;
+	border-left: 1px solid #131210;
+	border-right: 1px solid #131210;
+	border-bottom: 1px solid #131210;
+

@@ -1,0 +1,148 @@
+<html>
+ <head>
+  <title>With one magic word... and a bit of work</title>
+  <style>
+    body { background: grey }
+    * { color: lightyellow; font-family: Helvetica, Arial, sans-serif }
+    h1, h2 { font-family: Aegyptus, Helvetica, Arial, sans-serif; color: yellow }
+    figure { display: block; width: 50% }
+    figure img { display: block; width: 100% }
+    img#captain_marvel { max-width: 300px }
+    img#black_adam { max-width: 300px }
+    figcaption { font-size: small }
+  </style>
+ </head>
+ <body>
+  <h1>With one magic word... and a bit of work</h1>
+
+  <p>I posted the following image on facebook:</p>
+
+  <figure><img src="take2.jpg"><figcaption>My new ride, personalized at last.</figcaption></figure>
+
+  <p>A friend asked about where I got the decal. Since I made it, she then
+  asked where I got the bits. So I thought I would just detail the entire
+  process for her and anyone else who might care.</p>
+
+  <h2>The Idea</h2>
+
+  <p>I wanted some superhero-themed personalization on my nifty new Leaf. Since there's no
+  attractive way to attach a front license plate, a sticker of some sort seemed the way
+  to go. Because it's electric, something based on a lightning bolt would seem like a good fit,
+  but I didn't want to be totally generic.  As it's black, I immediately thought of <a href="https://en.wikipedia.org/wiki/Black_Adam">Black Adam.</a></p>
+
+  <p>... OK, so he's technically a super<i>villain</i>, but really, these days he's more
+  of an anti-hero. I mean, does this look like a bad guy to you?</p>
+
+  <figure>
+   <img id="black_adam" src="black-adam-holds-power.jpg">
+   <figcaption>I'm bad, and that's good!</figcaption>
+  </figure>
+
+  <p>Whatever. How'd I do it?</p>
+
+  <h2>Measure Twice, Cut Thrice</h2>
+
+  <p>First, I measured the hood: 21&frac12;" long. Since the lightning bolt
+is narrower than it is tall, I just walked into the brick-and-mortar storefront
+of <a href="http://allaboutsigns.com">All About Signs</a> and purchased a 2' x
+2' sheet of yellow vinyl sticker. Now I just needed a pattern.</p>
+
+  <p>I looked up "shazam bolt" on <a href="http://images.google.com">Google
+  Images</a> and used the search tools menu to restrict results to "large",
+  revealing a nice assortment of images. The first one I tried was this nifty
+  neon piece, which turns out to have been created by Deviant Artist <a
+  href="http://morganrlewis.deviantart.com/">MorganRLewis</a>:</p>
+
+  <figure>
+  <a href="http://morganrlewis.deviantart.com/art/Captain-Marvel-Shazam-Family-Neon-Symbol-WP-312170558"><img src="http://pre06.deviantart.net/ead0/th/pre/i/2012/184/2/9/captain_marvel__shazam___family_neon_symbol_wp_by_chaomanceromega-d55uwce.png"></a>
+   <figcaption>This would be cool to get in physical form.</figcaption>
+  </figure>
+
+  <p>Since I just needed an outline, it seemed like a good candidate.
+  Unfortunately, as a neon tube rendering, its corners were far too round when
+  turned into a simple outline.</p>
+
+  <p>If I'd looked around the rest of Mr. Lewis's gallery, I could have found
+  <a
+  href="http://morganrlewis.deviantart.com/art/Captain-Marvel-Shazam-Family-Symbol-WP-Pack-312169214">several
+  great candidate images</a>, but instead I went back to Google, where I found
+  this version created by another Deviant Artist, named <a
+  href="http://yurtigo.deviantart.com">Yurtigo</a>:
+
+  <figure>
+   <a href="http://yurtigo.deviantart.com/art/Shazam-Symbol-429969200"><img src="http://pre05.deviantart.net/d75e/th/pre/f/2014/259/e/5/shazam_symbol_by_yurtigo-d73zqcw.png"></a>
+   <figcaption>SHAZAM!</figcaption>
+  </figure>
+
+<p>Perfect. But I still had to do some work to turn it into a useful pattern.</p>
+
+<p>First, I downloaded the image and opened it in <a href="http://www.gimp.org">GIMP</a>. I ran
+it through an edge-detection filter (<b>Filters&rarr;Edge-Detect&rarr;Edge</b>) to turn it
+into a plain outline, and switched it to black-and-white
+(<b>Image&rarr;Mode&rarr;Indexed</b>) to make that outline white on a black
+background. A simple <b>Colors&rarr;Value Invert</b> to get the negative, and I had
+a white background. Because I wanted a pattern I could transfer to the back of
+the vinyl, I also flipped it with <b>Image&rarr;Transform&rarr;Flip Horizontally.</b>
+Now I had this:</p>
+
+  <figure>
+   <img src="shazam_edge.png">
+   <figcaption>It's like reverse-engineering the original drawing.</figcaption>
+  </figure>
+
+<p>The lightning bolt was 815 pixels high, and I wanted it to take up most of
+the length of the 21&frac12;-inch hood, so I set the scale to 38 (&asymp; 815 &div; 21.5)
+pixels/inch.</p>
+
+<p>I don't have a large-format printer, and GIMP won't automatically split
+large images across multiple sheets for you. But other tools will, so I
+cropped the image down to a bounding-box not much bigger than the bolt and
+exported it into a PDF.  Since Preview.app <i>also</i> won't do the
+multiple-sheets thing, I used Adobe Acrobat Reader, which has a Poster mode
+just for this use case. Reader used 6 sheets to make sure it had room for the
+margins; I cut out the pattern from each sheet, put them together and traced them
+on the back of the vinyl, and cut the vinyl along the lines with scissors.</p>
+
+<p>I washed and dried the hood so that the vinyl would stick well and there wouldn't be
+anything trapped under it.  I peeled back just a corner, lined it up, pressed the corner
+down and smoothed until there were no bubbles. Pulled the backing just a little further,
+repeat. It was slow going.</p>
+
+<p>It was also ultimately fruitless. with the whole bolt as one big piece of
+vinyl, I couldn't get it flat. There were either bubbles or weird stretching on
+the edges. Stupid flat maps on curved surfaces! I wound up with a tangled mess
+of useless vinyl. Back to the drawing board.</p>
+
+<p>Fortunately I still had plenty of vinyl left. I repeated the procedure, but this time,
+I cut out each of the three segments of the lighting bolt separately. That worked very well; the result is what you see in the picture at the top of this entry, repeated here:</p>
+
+<figure>
+ <img src="take2.jpg">
+ <figcaption>Looking good..</figcaption>
+</figure>
+
+<p>... except for the minor detail that I put the middle piece on upside down. Which I
+didn't notice until I posted the above picture on Facebook. D'oh!</p>
+
+<p>I then tried to peel and replace the middle sticker, but that didn't work.
+There was a little overlap, so peeling up the middle meant the bottom came off,
+too. And while the removal was clean (no ripping or sticking) and residue-free
+even after driving around for several hours in the sun, the stickers themsevles
+did not come off in any sort of reusable state.</p>
+
+<p>Nothing for it, I would have to try again. I was almost out of my vinyl sheet,
+but not completely. And I was able to leave the top of the bolt in place; I just needed
+a new middle and bottom. I was able to cobble together several border pieces to get those -
+more pieces just makes the whole flat-map thing even less of a problem, right?</p>
+
+<p>But leaving the top in place and getting the middle oriented correctly
+meant the bottom piece needed a new orientation to fit - and the combination left its tip
+a little too far down, just over the edge of the hood.  D'oh again! This is what it
+looks like now:</p>
+
+<figure>
+ <img src="take3.jpg">
+ <figcaption>Third time's the charm?</figcaption>
+</figure>
+
+<p>I guess I'll see if I can live with that. :)</p>

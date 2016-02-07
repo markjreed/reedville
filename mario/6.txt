@@ -1,0 +1,360 @@
+                           ~~~~~~~~~~~~~~~~~~~~~
+                         ~~~~~~~ World Six ~~~~~~~
+                           ~~~~~~~~~~~~~~~~~~~~~
+
+_____________________
+X - Start            |
+# - Level            |
+a - Extra Level      |
+b - Extra Level      |
+O - Empty Space      |
+T - Tower            |
+C - Castle           |
+H - Ghost House      |
+W - Warp Cannon      |
+P - Pipe             |
+S - Star Coin Toll   |
+I - Item Toad House  |
+G - Green Toad House |
+M - Mega Toad House  |
+                     |
+_____________________|
+
+     1---------+    G         M        I         5---------+
+     |         |    |         |        |         |         |
+     |         |    S         S        S         |         |
+X----O    I    O----2----T----3--------4----T----O    G    6----C
+     S    |    |                                 S    |    |
+     |    |    |                                 |    |    |
+     +----a----+                                 +----B----+
+
+                               o-----------o
+                               | Level 6-1 |
+                               o-----------o
+
+A Bullet Bill cannon will lead things off, but in this area they have an 
+additional ability of turning around to focus extra firepower on Mario when 
+he moves on by.  Head right to go get a Power-Up, followed by passing some 
+more Bullet Bills to find a cliff to sidestep across.  While on these cliffs 
+Mario can walk along them or hang off them, allowing him to avoid the Bullet
+Bills that will be after him.  Once across jump to the higher ledge and Wall
+Jump for the first Star Coin, followed by going on the low path to find a 
+new Wall Jump challenge, this one leading to a Power-Up.
+
+After going right to Wall Jump through the halfway marker, leap to the left
+to get the second Star Coin, then raid the Power-Up on the right, and then
+continue onwards to face another Wall Jump, this one precariously done 
+around a Red Paratroopa Koopa.  Get the next Power-Up to likely get 
+Firepower, which will help Mario cross the next narrow cliff area by jumping
+and shooting each Green Paratroopa Koopa while crossing, arriving at a 
+gauntlet of Bullet Bill launchers to contend with.
+
+Carefully maneuver through the barrage to find a cliff, getting across it 
+quickly to pass another set of launchers, followed by a second cliff to 
+cross, but remember to drop down briefly to get that third Star Coin.  Mario
+will now be at the flagpole, so he can use a Bullet Bill to Super Jump off
+of, landing high on the flagpole to end the level!
+
+
+                               o-----------o
+                               | Level 6-2 |
+                               o-----------o
+
+This area takes place on the shorelines of a body of water, and the water 
+will continually shift it height, going fairly high into the air and then 
+retreating.  To further complicate this, Spinies will be deployed through 
+out the level, floating in the water during high tide and walking around on
+land during low tide.  Run right to pass a couple Spinies via the ledges,
+hitting the ? Blocks to find a Power-Up, eventually finding a red pipe to go
+through to the next area.
+
+Head right to find a tree where Mario should hop around, revealing a hidden
+block to the right of the ? Block, followed by leaping up off the hidden 
+block to reveal another hidden block, this one containing a vine.  Climb up 
+to locate a couple ledges, hitting the P-Switch that hides in the brick,
+followed by leaping right across the winged ? blocks to hustle across the 
+now solid Coins to find the first Star Coin.
+
+Fall down to continue on to the right, collecting the contents of the ? 
+Blocks while avoiding/killing the Spinies, going down the second green pipe 
+that appears so Mario can be launched over the wall ahead.  When the tide
+reaches a high point on this side, the next cavern holds the second Star 
+Coin, so nsag it before continuing on to the right, Wall Jumping if 
+necessary along the green pipe, reaching another drop.  
+
+Get the rotating Power-Up below, followed by swimming right to raid a ? 
+Block for the Invincible Starman it holds, at which point Mario should run 
+right to drop down to the ledge below, heading left at full speed through 
+the Spinies (gaining a 1-Up or two in the process) to find the third Star
+Coin waiting.  Backtrack to the right now, dealing with a final few Spinies
+before entering the yellow pipe, finding some ledges to leap across to reach
+the flagpole, ending the level!
+
+
+                           o-------------------o
+                           | Level 6-Tower One |
+                           o-------------------o
+
+The Piledrivers return, but this time they are... HORIZONTAL!  Anyway, start 
+the climb by passing the firsts et of piledriovers, taking careful leaps to 
+get between the closely positioned Piledrivers' spiky exteriors, also 
+making sure to snag the Power-Up from the first ? Block that Mario 
+encounters.  When Mario reaches a point where he needs to jump left to a 
+solid brick ledge, keep going left to get the first Star Coin, followed by
+hiding in a small depression below to allow the Piledriver to slam by, 
+meaning Mario can continue his climb after that on the right.
+
+When a Super Dry Bones is found, the halfway point will be breached, so 
+Super Jump off the Super Dry Bones to hit the ? Block for the Power-Up,
+followed by continuing to climb, passing the four Piledrivers to find a
+springboard to use to get past the dual Piledriver threat.  Once Mario 
+reaches the door, enter to jump up the ledges to the top, letting the 
+Piledrivers slam forward and then retreat, allowing Mario to jump over to 
+the left to get the second Star Coin.
+
+Head up and through the door to continue onwards, finding the large red 
+doors.  However, before passing through said doors, Mario will need to be
+Mini Mario (easiest way) or use the Dry Bones to Super Jump up off of,
+Wall Jumping to reach the ledge above, entering the pipe to grab the final 
+Star Coin.  Now head through the door to find Baby Bowser!
+
+Bowser Jr. is again trying to charge and leap into Mario, so use the usual
+attacks of three stomps or nine fireballs or a combination of the two will
+take out the enemy.  However, this time Bowser Jr. has an extra trick up his
+sleeve, which is the platform that will tilt as Mario and Bowser Jr. move 
+around, so be careful to not fall into the spikes below.
+
+
+                               o-----------o
+                               | Level 6-3 |
+                               o-----------o
+
+Hit the moving ? Block when it is safe, grabbing the Power-Up, followed by
+passing the Venus Fire Trap to use the swinging ? Block to reach the first
+Star Coin.  head right to go down the red pipe, running across the floating 
+logs and collecting the Red Coin Ring for the reward (they are easy to get),
+followed by heading back up the surface.  Go down the second green pipe, 
+snagging the Star Coin inside, followed by resurfacing to go right and down
+the last pipe.
+
+Again run across the spinning logs quickly, carefully maneuvering past the
+Piranha Plants to reach the pipe at the end, going back up to the surface.
+Hit the ? Block when safe for the Power-Up, followed by leaping to the left 
+off of it to clear the pipe, grabbing the third Star Coin, followed by Wall
+Jumping back out to the area Mario entered from.  
+
+Now follow the Coinpurse across the gaps, destroying it by the pipe for the 
+Coins and 1-Up Mushroom it contains, followed by going past the ? Blocks and
+Piranha Plants to find the flagpole.  If you feel daring, get onto the 
+swinging ? Block to go high onto the flagpole, but the gap below makes that 
+a fairly dangerous proposition.
+
+
+                               o-----------o
+                               | Level 6-4 |
+                               o-----------o
+
+Grab the Power-Up before running under the Firebar, followed by Wall Jumping
+up to the higher ledge to continue climbing, reaching the first Star Coin.  
+Head right to find a gauntlet of Firebars, situated over a cliff, so use the
+top for walking and the bottom for hand-over-hand movement, getting through
+the set to reach a Power-Up, followed by a couple more Firebars (the last 
+of which is incredibly fast).  Grab another Power-Up before blowing past the
+small Firebars to Wall Jump upwards between two more Firebars, finding yet
+another Firebar to Wall Jump past, jumping to the left for a Star Coin 
+before moving right to pass the halfway point.
+
+The next area is a bunch of cliffs and ledges, so jump carefully (remember, 
+your jump is far weaker off of a cliff) to pass through this challenging
+section, remembering to take the high cliffs to reach a pipe.  Inside Mario
+will find some Firebars to shimmy over, reaching the third Star Coin, 
+followed by him hanging off the lower cliff to get past the same Firebars, 
+heading through the yellow pipe to enter the green pipe that Mario appears
+near.  Head right and leap onto the flagpole, ending the level!
+
+
+                           o-------------------o
+                           | Level 6-Tower Two |
+                           o-------------------o
+
+Jump up past the Dry Bones to get the Power-Up, followed by going left to 
+Wall Jump up to the conveyor belts above.  Head right when a conveyor belt
+with spikes sticking out of it appears, grabbing the Star Coin on the right,
+at which point Mario will go left past another Dry Bones to reach the 
+halfway point.  Now go up the stepped conveyor belts, grabbing the Power-Up
+from the high brick on the right, followed by continuing to climb, jumping
+the Dry Bones and Super Dry Bones as they come along.
+
+Once the two green pipes are reached, enter the one on the right, holding 
+LEFT to find the ledge where Mario will need to duck to go through the 
+narrow opening (wait till the Spike Tops take off), busting the bricks to 
+get the second Star Coin.  Climb upwards to find a Coin Block and a ? Block
+Power-Up, followed by grabbing the rope above, scaling to the right to drop
+down to get the third Star Coin, followed by ducking to ride the conveyor
+belt to the right, leaping upwards to the ledge, entering the large red 
+doors to take another crack at Bowser Jr.
+
+Bowser Jr. will have reverted to his entering of his shell when Mario draws 
+near, so leap over his charge, forcing Baby Bowser to chuck a shell at you.
+Stomp the shell and pick it up to hurl back, allowing Mario to land a leap
+to the underside of the small Koopa.  Complicating this is the tilting
+platform and the lava below, so be careful to keep stable footing through 
+out the battle.  Note that Bowser Jr. can also be smoked by 9 Fireballs if 
+you have the Firepower at any time, so feel free to roast him quickly!
+
+
+                               o-----------o
+                               | Level 6-5 |
+                               o-----------o
+
+Head down the pipe to find another watery gauntlet to swim through, facing
+Cheep-Cheeps (the orange fish) and Deep-Cheeps (the green fish), which will
+chase you (unlike the Cheep-Cheeps).  Swim to the right to find a Power-Up
+in a ? Block, leading into a wider area where the first Deep-Cheeps attack 
+from.  Swim closer to the ceiling, watching for the first Star Coin, but 
+bait the Deep-Cheeps into diving down at Mario before going after it, as 
+they make it tough to get without being hit.
+
+Next is a Red Coin Ring, but due to the positioning of the Red Coins and the
+Deep-Cheeps, so avoid it as it is not worth the risk.  Immediately after 
+this is a vortex in the ground, trying to suck Mario down into the depths
+below, so swim through strongly and get the nearby Power-Up, followed by 
+raiding the next several ? Blocks for the Invincible Starman they hold,
+blasting through all sort of foes.  Once Mario reaches a yellow pipe, enter
+to find a ton of Deep-Cheeps to swim through to the center of the room, 
+locating the second Star Coin, followed by going back through the pipe.
+
+Swim right through the vortexes ahead, dodging Deep-Cheeps, reaching a 
+vortex surrounded with bricks, which you should get sucked down into, as the
+area below holds the final Star Coin for this area.  Head up the pipe to 
+swim up through two Mega Deep-Cheeps to go up the next pipe, finding some
+fall away ledges to leap up to land high on the flagpole, ending the level!
+
+
+                               o-----------o
+                               | Level 6-6 |
+                               o-----------o
+
+use the springboard to reach the ? Block above for the Power-Up inside, 
+followed by using the same springboard to clear the Chain Chomp while moving
+left, finding another springboard to launch of to drill down through the
+bricks on the right, locating a Power-Up at the bottom.  Launch up once 
+more, aiming straight up to find another springboard, going to the left off
+of it to drill through a vertical row of bricks, finding a P-Switch.  After
+hitting the P-Switch, move left to get the second Star Coin before the Coins
+turn back into bricks.
+
+launch off the nearby springboard and go right, finding a ? Block with a 
+Power-Up inside, from which Mario will use the nearby springboard to go up
+and to the left, locating the second Star Coin, which rests on a Chain 
+Chomp's post.  After that send Mario to the right, finding the halfway 
+marker, facing a long drop down to find a Power-Up in a ? Block, followed by
+Ground Pounding through a row of bricks to a springboard.  launch up and 
+left, bouncing the off the Red Paratroopa Koopa to hit the P-Switch, 
+followed by going down and right to bounce off the red Koopa Troopa to reach
+the pipe.  
+
+Once inside, use the springboard to go high into the cavern, allowing Mario 
+to fall down on the right side of the chasm to collect the third Star Coin, 
+followed by taking the yellow pipe to the outside.  Now use the green pipes
+here to keep climbing, reaching a ledge with multiple green pipes.  Ignore 
+these and run to the right, finding the flagpole to end the level!
+
+
+                               o-----------o
+                               | Level 6-A |
+                               o-----------o
+
+Grab the Power-Up from the ? Block, followed by killing Lakitu immediately
+(use Firepower is possible).  Head right to find a vortex to jump into, 
+launching Mario up so he can move right to find the Star Coin up there,
+remembering to continue floating to the right to land again.  The next 
+landmark to look for are two solid rock sets holding quicksand, so ride the
+quicksand downward, finding a hidden area.  As soon as Mario appears, Wall
+Jump back up to the Star Coin once he just falls past it, followed by 
+climbing through this room that is eerily reminiscent of one of the 8-2 
+bonus room choices in Super Mario Brothers 3.
+
+Once Mario is back outside, raid the nearby Power-Up and then go right,
+passing the halfway marker, jumping across the small platforms to find a 
+series of pipes, so look for the yellow pipe at the tail end of this set,
+entering it to take a running leap over the Super Piranha Plant to get the
+Star Coin (though Firepower makes this tons easier to collect), followed by
+going out the red pipe on the left.  Head right upon exiting, taking a long 
+running leap over the gap ahead (below is the pipe you entered), clearing 
+the gap or else Mario will need to go back down into that same pipe due to 
+the invisible blocks that will prevent him from going to the right.  
+Continue moving right, ignoring the Lakitus while you keep moving, entering 
+a pipe to find a flagpole.  If you wish to go after the higher area of the
+flagpole, jump straight up from the bump in the sand, revealing two hidden
+blocks, followed by Wall Jumping to that ledge to leap onto the flagpole.
+
+
+                               o-----------o
+                               | Level 6-B |
+                               o-----------o
+
+Go down the pipe on the right, launching upwards to go right, crossing the
+next two gaps via the swinging poles.  Avoid the upcoming enemies, swinging
+across another gap, finding a Red Koopa Troopa there to de-shell, picking it
+up and throwing it at the Star Coin to the right (get it in sight before
+tossing), collecting it before swinging across the gap to collect a Power-Up
+from a ? Block.  Next up are some tilting toadstools and Green Paratroopa
+Koopas to deal with, followed closely by a green pipe to launch up out of,
+Super Jumping off the back of the Green Paratroopa Koopa to get the second
+Star Coin.
+
+Launch up out of the pipe again, going right to leap the Piranha Plants to
+find a long slope to go down, passing the enemies there, reaching some 
+tilting toadstools to continue down and to the right across.  Mario will
+quickly come across a rotating Power-Up box, which is guarded by Green 
+Paratroopa Koopas, so get them out of the way while collecting, leading to 
+the right to pass a Goomba producing pipe to take the first green pipe that
+appears.
+
+Upon regaining control of Mario, use the swinging poles to cross the gap
+ahead, landing on the high ledge to slide under the low wall, grabbing the
+third Star Coin.  head right to slide down the hill and across the gaps 
+ahead, getting up once across to go right to leap onto the flagpole to end 
+the level!
+
+
+                             o----------------o
+                             | Level 6-Castle |
+                             o----------------o
+
+Use the moving ledge to get across the first lava pit, followed by getting 
+over the next pit by leaping from one moving ledge to the next, finding a
+? Block over the lava to hit with a Red Koopa Troopa shell.  Next up for 
+Mario is a Star Coin floating over the lava, so use a Koopa Troopa shell to
+hit it, collecting it in the process, continuing on to the right afterwards
+to cross more moving ledges, watching for a second Star Coin down below.
+
+Use the moving ledges to get down to this Star Coin, grabbing it before 
+leaping back up to the areas above, moving right to find a Red Koopa Troopa
+and a leap past two Podoboos and a lava pit.  Head right to find a Red Koopa
+Troopa, a Power-Up, and the halfway marker, followed by going up onto the
+ledge above via the block below.  Head right to Super Jump off of the Red
+Koopa Troopa to get onto the granite block on the right, moving right to
+locate the third Star Coin.  
+
+Now backtrack to jump between the two moving granite blocks, finding a 
+narrow hallway where granite blocks will push up from below in an attempt to
+push Mario into the spikes above.  Head right through this area, entering
+the door at the end, finding a series of leaps to make upwards, going from
+moving ledge to moving ledge, locating the large red door, which leads to 
+the Boss Fight!
+
+The Monty Mole Tank will fire off Bullet Bills, swinging the turret around
+to try and hit Mario.  To further complicate this, Monty Mole will pop out
+of the tank periodically to throw a Bob-Omb into the mix, but this is also
+happens to be the time to go after the malicious Mole, leaping onto him 
+before he can chuck the Bob-Omb.  This will cause Monty Mole to lose control
+of the tank temporarily, which will fire off Bullet Bills in various 
+directions until he regains control, at which point the cycle begins over.
+However, each new round of attacks will have an additional cannon added to 
+the tank, meaning Mario will have to scale the barrels of the weapons to
+stomp Monty Mole.  Three hits will scrap the tank and Monty Mole, moving
+Mario onwards in the game!
+
+

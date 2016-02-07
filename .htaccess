@@ -1,0 +1,11 @@
+# Use PHP5CGI as default
+AddHandler fcgid-script .php
+RewriteEngine on
+#   This method no longer available Please use the 
+#   'PHP Config' link in your control panel if you
+#   would like to try PHP5 FastCGI
+# AddHandler php-fastcgi .php
+AddHandler cgi-script .rhtml
+#RewriteCond %{HTTP_HOST} ^houstoncountytruth.org$ [OR]
+#RewriteCond %{HTTP_HOST} ^www.houstoncountytruth.org$
+#RewriteRule ^(.*)$ http://houstoncountytruth.mjnr.us [R=301,L]

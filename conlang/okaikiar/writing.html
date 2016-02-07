@@ -1,0 +1,123 @@
+<html>
+
+ <head>
+  <link rel="stylesheet" type="text/css" href="/index.css"/>
+  <link rel="stylesheet" type="text/css" href="index.css"/>
+  <title>Orendia</title>
+ </head>
+
+ <body>
+  <h1>Okaikiar Sounds</h1>
+
+   <hr/> 
+    <a href="/">Home</a>
+    <a href="/~mark">Mark's Page</a>
+    <a href="/~mark/conlang">Mark's Conlangs</a>
+    <a href="/~mark/conlang/okaikiar">Okaikiar</a>
+   <hr/> 
+
+  <div align="center">
+  <p align="left">
+  Okaikiar has a relatively small set of phonemes: seven consonants
+  and six vowels.  These combine into a total of 864 possible syllables.
+  The native writing system, called Orendiar, has distinct shapes for
+  each phoneme, which are combined to form symbols for each of these
+  syllables.  Most of the time on these pages I use the Roman transcription
+  system given below, but you can see the Orendiar version of the word
+  <em>Okaikiar</em> in the background image.
+  </p>
+
+  <h2>Consonants</h2>
+
+  <p>
+  Each of the consonants is represented in the standard transcription
+  system by the same letter that represents its sound in the International
+  Phonetic Alphabet:
+  </p>
+  
+
+<%
+    consonants = %w(l d m r k n z)
+    vowels     = ['u', 'o<br/>before r', 'e', 'a<br/>before r<br/>final',
+		  "'", 'i']
+    glyphs     = %w(u o e a schwa i)
+    ipa        = ['u', 'o<br/>ɔ˞', 'Ɛ', 'æ<br/>ɑ˞<br/>ɑ', 'ǝ', 'i']
+    xsampa     = ['u', 'o<br/>O`', 'E', '{<br/>A`<br/>A', '@', 'i']
+    conlang    = ['u', 'o<br/>O`', 'E', '&amp;<br/>A`<br/>A',
+		  '@', 'i']
+    
+%>
+  
+  <table cellspacing="2" cellpadding="2" class="overlay">
+   <tr><th>Orendiar</th><th>Roman</th></tr>
+<%
+    consonants.each do
+  	|c|
+	print %|<tr><td><img width="32" src="#{c}.jpg" /></td>|
+	print "<td>#{c}</td>" 
+	puts "</tr>"
+    end
+%>
+  </table>
+
+  <h2>Vowels</h2>
+
+  <p>
+  The six vowels, on the other hand, are represented by the five standard
+  Roman vowel letters plus apostrophe, so the transcription doesn't always
+  agree with IPA.  Here are the vowels with four transcriptions:
+  standard, Unicode IPA, X-SAMPA, and the modified version of X-SAMPA
+  used on the conlang mailing list.
+ </p>
+  
+  <table cellspacing="2" cellpadding="2" class="overlay">
+   <tr align="left">
+    <th>Orendiar</th>
+    <th>Roman</th>
+    <th>IPA</th>
+    <th>X-SAMPA</th>
+    <th>Conlang</th>
+   </tr>
+<%
+    (0...vowels.length).each do
+  	|i|
+	print %|<tr><td><img width="32" src="#{glyphs[i]}.jpg" /></td>|
+	print %|<td>#{vowels[i]}</td>|
+	print %|<td>#{ipa[i]}</td>|
+	print %|<td>#{xsampa[i]}</td>|
+	print %|<td>#{conlang[i]}</td>|
+	puts "</tr>"
+    end
+%>
+  </table>
+<%
+   fileName = ENV['DOCUMENT_ROOT'] + ENV['SCRIPT_NAME'];
+   fileName.untaint
+   begin
+	ctime = File.ctime(fileName);
+   rescue
+   end
+   if ctime != nil
+%>
+  <br /><font size="2"><em>Last modified <%=ctime%></em></font>
+<%
+  end
+%>
+ </div>
+
+   <hr/> 
+    <a href="/">Home</a>
+    <a href="/~mark">Mark's Page</a>
+    <a href="/~mark/conlang">Mark's Conlangs</a>
+    <a href="/~mark/conlang/okaikiar">Okaikiar</a>
+   <hr/> 
+
+ </body>
+</html>
+
+   
+   
+
+ 
+
+

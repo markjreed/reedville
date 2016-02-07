@@ -1,0 +1,1176 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
+
+<html>
+<head>
+<title>Indonesica wordlist</title>
+</head>
+<body>
+
+This wordlist was originally devised by Roger Mills for
+comparative research in Indonesia. Any questions may be
+addressed to him at rfmilly@msn.com.
+
+Digitized by Benct Philip Jonsson melroch AT yahoo DOT com, to whom my hearty thanks.
+
+(Visit/return to the main <a href="http://cinduworld.tripod.com/indonesica.htm">
+"Indonesica"</a> page.)
+
+<pre>
+	I. NUMBERS
+1	one, satu
+2	two, dua
+3	three, tiga
+4	four, empat
+5	five, lima
+6	six, enam
+7	seven, tujuh
+8	eight, delapan
+9	nine, sembilan
+10	ten, sepuluh
+11	eleven, sebelas
+12	twelve, dua belas
+13	twenty, dua puluh
+14	thirty, tiga puluh
+15	forty, empat puluh
+16	fifty, lima puluh
+17	sixty, enam puluh
+18	seventy, tujuh puluh
+19	eighty, delapan puluh
+20	ninety, sembilan puluh
+21	one hundred, seratus
+22	two hundred, dua ratus
+23	one thousand, seribu
+24	two thousand, dua ribu
+25	ten thousand, sepuluh ribu
+26	first, pertama
+27	second, kedua
+28	third, ketiga
+29	once, satu kali
+30	twice, dua kali
+31	single, tunggal
+32	many, banyak
+33	few, sedikit
+34	big, besar
+35	little, kecil
+36	more, lebih
+37	less, kurang
+38	each, tiap(2)
+39	every, tiap(2)
+40	half, (se)tengah
+41	middle, tengah
+42	all, semua
+43	some, beberapa
+44	several, beberapa
+45	another, lain
+46	enough, cukup
+47	even, genap
+48	odd, ganjil
+	II. BODY PARTS
+49	skull, tempurung kepala
+50	head, kepala
+51	brain, otak
+52	hair, rambut
+53	bald, tanpa rambut
+54	grey-haired, uban
+55	forehead, dahi
+56	eye, mata
+57	eyebrow, kening
+58	nose, hidung
+59	ear, telinga
+60	cheek, pipi
+61	mouth, mulut
+62	lips, bibir
+63	chin, dagu
+64	tongue, lidah
+65	tooth, gigi
+66	beard, janggut
+67	voice, suara
+68	neck, leher
+69	shoulder, bahu
+70	chest, dada
+71	breast, susu
+72	waist, pinggang
+73	stomach, perut
+74	navel, pusat
+75	ribs, rusuk
+76	arm, lima
+77	hand, tangan
+78	left (hand), kiri
+79	right (hand), kanan
+80	fathom, depa
+81	fist, tinju
+82	elbow, siku
+83	finger, jari
+84	fingernail, kuku tangan
+85	palm of hand, telapak
+86	leg, kaki
+87	foot, kaki
+88	thigh, paha
+89	knee, lutut
+90	calf, betis
+91	back, punggung
+92	buttocks, burit
+93	body, badan
+94	skin, kulit
+95	naked, telanjang
+96	body-hair, bulu
+97	bone, tulang
+98	lap, pangku
+99	heart, jantung
+100	guts, isi perut
+101	liver, hati
+102	gall, empedu
+103	bile, empedu
+104	womb, kandung
+105	blood, darah
+106	vein, urat darah
+107	excrement, tahi
+108	urine, kencing
+109	corpse, mayat, bangkai
+110	soul, jiwa, semangat
+111	breath, nafas, nyawa
+112	life, nafas, nyawa
+113	ghost, hantu
+114	pain (head or body), ngilu, ngelu
+115	dirt on the skin, daki
+116	fester, membarah
+117	sore, barah
+118	boil, bisul
+119	wound, luka
+120	pus, nanah
+121	sprain, keseleo, salah urat
+122	swollen, bengkuk
+123	dropsy, penyakit busung
+124	bruise, memar
+125	penis, pelir
+126	scrotum, butuh, batu zakar
+127	vulva, puki
+128	circumcized, sunat
+129	uncircumcized, tdk sunat
+130	flatulence, kentut
+131	dysentery, mejan, menceret
+	III. KINSHIP TERMS, ETC.
+132	person, orang
+133	man, orang laki2
+134	husband, suami
+135	woman, orang perempuan
+136	wife, isteri
+137	father, bapak
+138	mother, ibu
+139	name, nama
+140	child, anak
+141	son, anak laki2
+142	daughter, anak perempuan
+143	uncle, paman
+144	aunt, bibi
+145	cousin, sepupu
+146	nephew, kemanakan
+147	niece, kemanakan
+148	grandfather, nenek (laki2)
+149	grandmother, nenek (perempuan)
+150	grandchild, cucu
+151	brother, saudara (laki2)
+152	sister, saudara (perempuan)
+153	younger brother, adik
+154	older brother, kakak
+155	young girl, dara
+156	virgin, dara
+157	family, keluarga
+158	friend, teman
+159	associate
+160	partner
+161	enemy, musuh
+162	twins, anak kembar
+163	widow, balu
+164	parents-in-law, mertua
+165	son-in-law, menantu
+166	brother-in-law, ipar
+167	king, raja
+168	nobility, bangsawan
+169	common people, orang biasa
+	IV. ANIMALS, PLANTS
+170	animal, binatang
+171	horse, kuda
+172	pig, babi
+173	cow, sapi
+174	buffalo, kerbau
+175	goat, kambing
+176	deer, rusa
+177	hide, kulit binatang
+178	horn, tanduk
+179	snout, moncong
+180	tail, ekor
+181	dog, anjing
+182	cat, kucing
+183	mouse, tikus
+184	rat, tikus
+185	bird, burung
+186	chicken, ayam
+187	wing, sayap
+188	cockfight, menyabung
+189	cock's spur, taji
+190	feather, bulu
+191	rice-bird, pipit
+192	sparrow, pipit
+193	pigeon, burung dara
+194	dove, punai
+195	duck, bebek
+196	fish, ikan
+197	scales, sisik
+198	oyster, tiram
+199	shrimp, udang
+200	octopus, gurita
+201	squid, cumi2
+202	crab. kepiting
+203	shark, ikan hiu
+204	ray, ikan pari
+205	crocodile, buaya
+206	bat, kalong
+207	small lizzard, cecak
+208	snake, ular
+209	sea-turtle, penyu
+210	land-turtle, kura2
+211	insect, serangga
+212	ant, semut
+213	termite, anai2
+214	wasp, tabuhan
+215	bee, lebah
+216	worm, ulat
+217	snail, siput
+218	millipede, alipan
+219	butterfly, kupu2
+220	spider, lawa2
+221	louse, kutu, tuma
+222	fly, lalat
+223	mosquito, nyamuk
+224	firefly, kunang2
+225	plant, tanam2am
+226	rice, padi
+227	seed-rice, benih
+228	ear (of grain), bulir
+229	grain, butir
+230	hulled rice, beras
+231	rice-straw, jerami
+232	tree, pohon
+233	wood kayu
+234	sap, getah
+235	leaf, dahun
+236	branch, dahan, cabang
+237	tree-trunk, batang
+238	root, akar
+239	bare, tanpa dahun
+240	stick, tongkat
+241	plank, papan
+242	board, papan
+243	shell, tempurung
+244	coconut, kelapa
+245	banyan tree, waringin
+246	ficus, ampelas
+247	sago palm, rumbia
+248	pandanus, pandan
+249	sago
+250	palm-wine, tuak
+251	bamboo, betung, pering
+252	grass, rumput
+253	moss, lumut
+254	thorn, duri
+255	nettle, jelatang
+256	fish poison, tuba
+257	poison, racun
+258	banana, pisang
+259	bunch (of fruits), setundun (...buah2)
+260	onion, bawang
+261	cucumber, ketimun
+262	tuber, ubi, kentang
+263	fruit, buah
+264	sugarcane, tebu
+265	pineapple, nenas
+266	eggplant, terung
+267	pumpkin, labu
+268	corn, jagung
+269	flower, bunga
+	V. NATURE
+270	land, tanah
+271	water, air
+272	fire, api
+273	wind, angin
+274	mud, lumpur
+275	dust, abu
+276	stone, batu
+277	mountain, gunung
+278	cave, gua
+279	hill, bukit
+280	inland, pedalaman
+281	interior, pedalaman
+282	surface, darat
+283	flat, darat
+284	plain, darat
+285	field, huma, lapang
+286	ditch, selokan
+287	garden, kebun
+288	earthquake, gempa
+289	wet ricefield, sawah
+290	dry ricefield, ladang
+291	desert, padang
+292	woods, hutan
+293	clearing in the forest
+294	village, dusun, desa
+295	gold, emas
+296	silver, perak
+297	iron, besi
+298	copper, tembaga
+299	sea, laut
+300	shore, pantai
+301	beach, pantai
+302	sand, pasir
+303	gravel, kerikil
+304	wave, gelombang, ombak
+305	foam, busah
+306	fluid, cair
+307	liquid, cair
+308	straits, selat
+309	cape, ujung (tanah)
+310	tip, ujung
+311	island, pulau
+312	coral, karang
+313	bay, teluk
+314	river mouth, kuala
+315	lake, danau
+316	river, sungai (besar)
+317	stream, sungai (kecil)
+318	channel saluran
+319	irrigation canal, saluran, pengairan
+320	flood, banjir
+321	current, harus
+322	north, utara
+323	south, selatan
+324	east, timur
+325	west, barat
+326	smoke, asap
+327	flame, nyala
+328	glowing coals, bara
+329	spark, kulu
+330	ashes, abu
+331	charcoal, arang
+332	sky, langit
+333	sun, matahari
+334	light, sinar
+335	moon, bulan
+336	star, bintang
+337	full moon, (bulan) purnama
+338	shadow, bayangan
+339	shade, naung
+340	cloud, awan
+341	rain, hujan
+342	drizzle, hujan rintik2
+343	thunder, gemuruh
+344	noise, bunyi
+345	sound, bunyi
+346	lightning, kilat
+347	storm, ribut
+348	tempest, ribut
+349	fog, halimun
+350	mist, kabur, kabut
+351	haze, kabur, kabut
+352	dew, embun
+353	whirlwind, halimbubu
+354	typhoon, taifun
+355	year, tahun
+356	day, hari
+357	morning, pagi
+358	midday, siang
+359	afternoon, sore
+360	dusk, sore
+361	night, malam
+362	late night, tengah malam
+363	yesterday, kemarin
+364	yesterday -1, kemarin dulu
+365	tomorrow, besok
+366	tomorrow +1, lusa
+367	today, hari ini
+	VI. EVERYDAY LIFE
+368	village, desa, kampong
+369	road, jalan
+370	bridge, jembatan
+371	crossroads, persimpangan
+372	house, rumah
+373	wall, dinding
+374	a hole in the wall, lubang di dinding
+375	ceiling, langit2 kamar
+376	floor, lantai
+377	window, jendela
+378	glass, kaca
+379	door, pintu
+380	hinge, engsel
+381	hook, engsel
+382	ladder (to the house), tangga (di rumah)
+383	ladder (in general), tangga (biasa)
+384	roof, atap
+385	thatch, atap
+386	split bamboo, palapah
+387	fence, pagar
+388	stable, tempat kerbau/kuda
+389	room, kamar
+390	bed, tempat tidur
+391	toilet, tempat buang air
+392	garbage heap, persampahan
+393	kitchen, dapur (kamar)
+394	stove, dapur (alat, tempat api)
+395	pan, kewali
+396	pot, periuk
+397	(water)jar, guci, kendi
+398	(cooking)pot, periuk
+399	cooking vessel
+400	rice-pounder, alu
+401	rice-mortar, lesung
+402	basket, keranjang
+403	spoon, sendok (untk makan)
+404	scoop, sendok (lbh besar)
+405	ladle
+406	knife, pisau
+407	funnel, corong
+408	plate, piring
+409	cup, cangkir
+410	bowl, mangkok
+411	dipper, gayung
+412	scissors, gunting
+413	needle, jarum
+414	thread, benang
+415	color, warna
+416	shirt, kemeja
+417	shoes, sepatu
+418	sarong
+419	loincloth, sabuk
+420	fringe, rambu2
+421	scarf, selampai
+422	plant fiber, kapas
+423	cotton, kapas
+424	bark cloth (kain dibuat dari kulit pohon)
+425	loom, alat tenun
+426	loom part, belira
+427	the woof, pakan
+428	the warp
+429	ring, cincin
+430	bracelet, gelang
+431	umbrella, payung
+432	earring, anting2
+433	ornament, perhiasan
+434	brush, sikat
+435	comb, sisir
+436	table, meja
+437	chair, kursi, kadera
+438	pillow, bantal
+439	blanket, selimut
+440	mosquito net, kelambu
+441	curtain, gorden
+442	rafters, kasau
+443	house-poles, tiang2 rumah
+444	roof-peak, bubung
+445	leak, bocor
+446	whitewash, kapur
+447	morter, gala
+448	chalk, kapur
+449	paint, cat
+450	lamp, lampu
+451	torch, suluh, obor
+452	wick, sumbu
+453	oil, minyak
+454	coconut oil, santan
+455	egg, telur
+456	meat, daging
+457	sauce, kuah
+458	gravy, kuah
+459	spices, rempah2
+460	side-dishes, lauk-pauk
+461	porrige, bubur
+462	mush, bubur
+463	salt, garam
+464	dregs, ampas
+465	remains, ampas
+466	smell, bau
+467	honey, madu
+468	sugar, gula
+469	vinegar, cuka
+470	pepper, lada, merica
+471	red pepper, lombok
+472	bamboo shot, rebung
+473	heart-of-palm, umbut
+474	caraway, jintan
+475	cumin
+476	ginger, jahe
+477	turmeric, kunyit
+478	sesame, lenga
+479	boat, perahu
+480	canoe, perahu (kecil)
+481	paddle, gayung
+482	oar, gayung
+483	mast, tiang
+484	sail, layar
+485	rudder, kemudi
+486	outrigger, katir
+487	fishing net, jala
+488	fish-trap, bubu
+489	fish-hook, kait
+490	keris
+491	dagger, badik
+492	machete, golok
+493	gun, senapan
+494	archer's bow, busur
+495	arrow, panah
+496	hunting net, jaring
+497	sharp bamboo stakes, ranjau
+498	saw, gergaji
+499	hammer, palu
+500	nail, paku
+501	peg, pasak
+502	axe, beliung
+503	hatchet, beliung
+504	wedge, baji
+505	chisel, pahat
+506	carpenter's plane, ketam
+507	rope, tali
+508	string, tali kecil
+509	skewer, penusuk
+510	wire, kawat
+511	chain, rantai
+512	solder, pateri
+513	lathe, larik, bindu
+514	hoe, cangkul, pacul
+515	bucket, ember
+516	work, kerja
+517	job, pekerjaan
+518	extra work
+519	second job
+520	profit, untung
+521	loss, rugi
+522	edge, tepi, pinggir
+523	space between, sela, selang
+524	interval, sela, selang
+525	side, sisi, segi
+526	line, garis
+527	sheath, sarong (mis.utk keris)
+	VII. VERBS
+528	be born, lahir
+529	die, mati
+530	live, hidup
+531	kill, membunuh, mematikan
+532	grow, tumbuh
+533	inherit, mewarisi
+534	hit, pukul
+535	fight, berkelahi
+536	kick, sepak
+537	stab, menusuk, menikam
+538	jerk, sentak
+539	jump, lompat
+540	rub, gosok
+541	massage, mengurut
+542	scratch, menggaruk, menggores
+543	rasp, parut
+544	scrape, kerut
+545	drill, menggerek
+546	file, mengikir
+547	sharpen, mengasah
+548	cut, potong
+549	chop
+550	cut open
+551	cut into
+552	prune, tutuh
+553	trim, tutuh
+554	cut off, kerat
+555	amputate, butung
+556	rip, merobek
+557	tear, merobek
+558	break off, putus
+559	slice, mengiris
+560	hack, meng-iris2
+561	cut unevenly
+562	cut up
+563	shave, mencukur
+564	slash, sayat
+565	split, membelah
+566	carve, (write), mengukir
+567	inlay, tatah
+568	move, bergerak, pindah
+569	change, ganti
+570	substitute, ganti
+571	exchange, tukar
+572	move something, memindahkan
+573	walk, berjalan
+574	run, lari
+575	go, pergi
+576	come, datang
+577	arrive, sampai
+578	approach, menghampiri
+579	depart, berangkat, bertolak
+580	enter, masuk
+581	go out, keluar
+582	return, (datang) kembali
+583	return something, mengembalikan
+584	turn around, balik
+585	return home, pulang
+586	trip
+587	step in a hole
+588	sink in the mud
+589	push, mendorong, menyorong
+590	pull, menarik
+591	point, menunjuk
+592	accuse, tuduh
+593	throw, melempar
+594	meet, bertemu
+595	pick up, berjemput
+596	appear, muncul, timbul
+597	disappear, menghilang, lenyap
+598	stop by, singgah
+599	visit, mampir
+600	move something away, menjauhkan
+601	move something closer, mendekatkan
+602	to face, berhadapan, menghadapi
+603	send, kirim
+604	receive, terima
+605	swim, berenang
+606	dive, menyelam
+607	sink, tenggelam (kapal)
+608	drown, tenggelam (mati)
+609	shake, geletar, gemeletar
+610	drift, ber-hanyut2
+611	float, mengapung
+612	flow, mengalir
+613	go sail along the coast, selisir, menyusuri
+614	think, berpikir
+615	know, tahu
+616	know (a person), kenal
+617	feel, merasa(kan)
+618	suffer, menderita
+619	regret, menyesal
+620	say, berkata
+621	speak, berbicara
+622	sing, bernyanyi
+623	chant, mengaji
+624	recite, mengaji
+625	laugh, tertawa
+626	shout, teriak
+627	cry out, teriak
+628	call, panggil
+629	teach, mengajar
+630	study, belajar
+631	learn, belajar
+632	praise, puji
+633	inform, beri tahu
+634	communicate
+635	tell, berceritera
+636	narrate
+637	read, membaca
+638	write, menulis
+639	compose, mengarang
+640	arrange, mengatur
+641	hear, dengar
+642	see, lihat
+643	wink, mengejap mata
+644	blink, mengejapkan mata
+645	look up, tengadah
+646	look at, meninjau, memandang
+647	stare
+648	feel something, meraba
+649	touch, menyentuh
+650	handle, menjamah
+651	taste, merasa, menggado
+652	drink, minum
+653	sip, menghirup
+654	suck, menyusu
+655	suckle, menyusu(-i, -kan)
+656	bite (into something), menggigit
+657	bite (of animals)
+658	chew, mamah
+659	swallow, menelan
+660	eat, makan
+661	feed, memakani
+662	lick, menjilat
+663	hiccough, bersedu
+664	cry, menangis
+665	cry over, menangisi
+666	lament, menangisi
+667	cough, membatuk
+668	sneeze, bersin
+0 	smell, stink, berbau
+669	smell something, menciumi
+670	breathe, bernafas
+671	gasp, meng-engah2
+672	pant
+673	wheeze, mengungap
+674	hold the breath, dengu
+675	to blow, bertiup
+676	squeeze, memerah, memeras
+677	press,memerah, memeras
+678	press out, mengejan
+679	choke (on food), salah telan
+680	vomit, muntah
+681	spit, meludah
+682	love, mencintai
+683	hate, membenci
+684	kiss, menciumi
+685	leer, jeling
+686	ogle, jeling
+687	have sexual intercourse, bersanggama (ttg.orang)
+688	mate, bersanggama (ttg. binatang)
+689	itch, gatal
+690	kill by squashing, menindas
+691	embrace, dakap, peluk
+692	dance, menari
+693	sleep, tidur
+694	close the eyes, memejamkan mata
+695	deny, menyangkal
+696	remember, ingat
+697	forget, lupa
+698	help, tolong
+699	pity, kasih
+700	console, melipur
+701	promise, janji
+702	endure, tahan
+703	trust, percaya(i)
+704	believe, percaya
+705	ask, menanya
+706	answer, menjawab
+707	repay, membalas
+708	requite, membalas
+709	order, menyuruh
+710	command, menitahkan
+711	like, suka(i)
+712	tell a lie, berdusta
+713	win, menang
+714	defeat, menangi, mengalahkan
+715	defeated, kalah
+716	hope, harap
+717	make, membuat, membikin
+718	dig, menggali
+719	scatter, menghambur
+720	sow, menabur
+721	build, membangun
+722	clear land, membuka tanah
+723	hunt, berburu
+724	chase, mengusir
+725	shoot a gun, menembak
+726	peel, mengupas
+727	flay, menguliti (mis.binatang)
+728	strip (leaves)
+729	slaughter, sembelih
+730	plow, membajak
+731	harrow, menggaru
+732	pull out, mencabut
+733	uproot, mencabut
+734	draw a sword, menghunus
+735	side by side, bersampingan
+736	next to
+737	in a row/line, berjajar
+738	lean on, bersandar
+739	lean something against, bersandarkan
+740	sit with legs crossed, bersila
+741	squat, bersimpuh
+742	sit with legs stretched out, duduk belunjur
+743	stretch out, membujur
+744	fall down, merebah
+745	collapse, roboh
+746	break, memecahkan
+747	break open, meletus
+748	burst
+749	to pry, cungkil
+750	gouge
+751	mix, campur
+752	assemble, berkumpul
+753	poke, sungkit
+754	gather (things) together, mengumpulkan
+755	measure, mengukur
+756	knock, mengetok
+757	heat, memanaskan
+758	cook, memasak
+759	fry, menggoreng
+760	roast, membakar, memanggang
+761	bake
+762	burn, tunu
+763	boil, merebus, mendidih
+764	steam, menguap
+765	spatter, merecik
+766	settle, enap, endap
+767	stir
+768	remove pot from the fire, mengangkit
+769	divide into portions, membagi
+770	drip, menitis
+771	winnow, menampi
+772	filter, menyaring
+773	weigh, menimbang
+774	pour, membuang, menuang
+775	spill, tumpah
+776	polish. mengupam
+777	chop fine, cencang
+778	knead, menguli
+779	wash, mencuci
+780	wash clothes ... mis.pakaian
+781	wash dishes ... mis.piring2
+782	bathe, mandi
+783	spray, siram
+784	rinse
+785	wipe, menyapu (mis.barang yg basah)
+786	sweep, menyapu (mis. lantai)
+787	cross, menyeberang(i)
+788	deviate, menyimpang
+789	go to the side
+790	turn, membelok
+791	"tack", belok2
+792	sail into the wind, berlayar melawan angin
+793	rotate, putar
+794	revolve, pusar
+795	twist, memulas
+796	wind/roll up, membebat, membalut
+797	wrap, membungkus
+798	tie, mengikat
+799	make nets,membuat jala
+800	splice
+801	stretch, merentang(i)
+802	extend
+803	tighten, mengeratkan
+804	wind up, membalut
+805	bandage, membalut
+806	wrap (a corpse), membalun mayat
+807	sway, bergoyang
+808	unsteady, bergoyang
+809	place, menaruh
+810	bet, bertaruh
+811	carry, membawa
+812	bring, membawa
+813	hang, menggantung
+814	take, mengambil
+815	steal, mencuri
+816	use, memakai
+817	wear, memakai
+818	deliver, mengantar(kan)
+819	carry on the shoulder, memikul
+820	buy, membeli
+821	sell, menjual
+822	rent, menyewa
+823	give, memberi
+824	borrow, pinjam
+825	lend, pinjami, pinjamkan
+826	owe, berhutang
+827	pay, membayar
+828	bargain, tawar-menawar
+829	choose, memilih
+830	get, mendapat
+831	obtain
+832	restore, memulihkan
+833	there is, ada
+834	there is not, tidak ada
+835	have, mempunyai
+836	want, mau, ingin
+837	wish, ingin
+838	will,want, mau
+839	not yet, belum
+840	already, sudah
+841	all gone, habis
+842	yes, ya
+843	no, tidak
+844	do not..., jangan...
+845	be ...ing, sedang ...
+846	be, ada, adalah
+847	become, menjadi
+848	have to, harus
+849	must, mesti
+850	can, bisa
+851	may, boleh
+852	permit, ijin (izin)
+853	allow, ijin
+854	forbid, melarang
+855	forbidden, pemali
+856	ever, pernah
+857	never, belum/tidak pernah
+858	formerly, dulu
+859	before, dulu, sebelum
+860	happen, terjadi
+861	cause, , menyebabkan, menjadikan
+862	count, menghitung
+863	add, tambah
+864	divide, membagi
+865	reduce, mengurangi
+866	increase, membesarkan
+867	make smaller, mengecilkan
+868	sew, menjahit
+869	weave, tenun
+870	decorate, menghiasi
+871	embroider, menyuji
+872	repair, jerumat, memperbaiki
+873	fade, luntur
+874	dream, mimpi
+875	daydream, mengawang
+876	wake up, bangun
+877	get up (from bed), bangun
+878	sit, duduk
+879	get up (from sitting), bangkit dari duduk
+880	rise (sun), terbit
+881	sit side by side, duduk bersamping
+882	sit next to, berdekatan
+883	stand, berdiri
+884	kneel, bertelut
+885	fall, jatuh
+886	rise up, timbul
+887	go up, naik
+888	raise, menaikkan
+889	climb, menaiki
+890	climb a mountain, mendaki
+891	stay, tinggal
+892	descend, turun
+893	lower, menurunkan
+894	let down (rope), mengulur
+895	pay out rope, mengulur
+896	recede, surut
+897	open, membuka
+898	bloom, mengembang
+899	cover, menghampar
+900	spread out, menghamparkan
+901	separate, memisahkan
+902	pile up, menyusun
+903	close, menutupi
+904	hide, menyembunyikan (diri)
+905	hold, memegang
+906	shelter, melindung(i)
+907	slip, gelincir
+908	slide, gelincir
+909	carry - hand. menjinjing
+910	carry - head, menjunjung
+911	carry - hip, menggendong
+912	play, bermain
+913	bark (dog), menyalak
+	VIII. ADJECTIVES
+914	white, putih
+915	black, hitam
+916	red, merah
+917	yellow, kuning
+918	green, hijau
+919	blue, biru
+920	grey, kelabu
+921	spotted, belang
+922	tall, tinggi (ttg.orang)
+923	short, pendek
+924	long, panjang
+925	high, tinggi
+926	low, rendah
+927	great, raya, besar
+928	small, kecil
+929	round, bulat
+930	smooth, lancar
+931	jagged, sumbing
+932	hard (especially of wood), teras
+933	hard, keras
+934	soft, lembut, lunak
+935	ripe, masak
+936	unripe, mentah
+937	hot, panas
+938	cold, dingin
+939	sharp, tajam
+940	dull, majal
+941	sweet, manis
+942	sour, asam
+943	bitter, pahit
+944	salty, masin
+945	spicy hot, pedas
+946	tasteless, tawar (mis.air)
+947	old, tua
+948	young, muda
+949	new, baru
+950	heavy, berat
+951	light, ringan
+952	bright, terang
+953	shiny, kilau, silau
+954	glittering
+955	dark, gelap
+956	clear, jelas
+957	vague, samar
+958	narrow, sempit
+959	wide, luas, lebar
+960	full, penuh
+961	empty, kosong
+962	tight, erat
+963	loose, kendur
+964	sleepy, ngantuk
+965	tired, capai, lesu
+966	deep, dalam (ttg.air)
+967	shallow, dangkal
+968	wet, basah
+969	dry, kering
+970	far, jauh
+971	near, dekat
+972	downstream, (sungai) hilir
+973	upstream, (sungai) mudik
+974	good, baik
+975	bad, jelek
+976	true, betul, benar
+977	false, salah
+978	certain, tentu
+979	beautiful, indah, bagus
+980	ugly, jelek
+981	good tasting, enak
+982	bad tasting, buruk
+983	fresh, segar
+984	rotten, busuk
+985	difficult. susah, sulit
+986	easy, mudah
+987	expensive, mahal
+988	cheap, murah
+989	coarse, kasar
+990	fine, halus
+991	invulnerable, kebal
+992	rich, kaya
+993	poor, miskin
+994	stingy, kikir
+995	greedy, loba
+996	thin, tipis, kurus
+997	thick, tebal
+998	fat, gemuk
+999	viscous, kental
+1000	sick, sakit
+1001	well, sembuh
+1002	hungry, lapar
+1003	sated, besur
+1004	thirsty, haus
+1005	pregnant, hamil, bunting
+1006	barren, mandul, kersang
+1007	strong, kuat
+1008	weak, lemah
+1009	brave, berani
+1010	afraid, takut
+1011	ashamed, malu(2)
+1012	painful, pedih
+1013	smarting
+1014	dirty, kotor
+1015	mouldy, cemur
+1016	muddy, cemar
+1017	clean, bersih
+1018	straight, lurus
+1019	direct, terus
+1020	askew, miring
+1021	curving
+1022	sloping, melandai
+1023	athwart, melintang
+1024	transverse, malang
+1025	across, malang
+1026	curly (hair), keriting
+1027	urine smell, bau kencing
+1028	rancid smell, bau hanyir
+1029	burnt smell, bau hangus
+1030	fragrant, harum
+1031	noisy, riuh
+1032	quiet, diam
+1033	lonely, sunyi, sepi
+1034	peaceful, tenang
+1035	calm (water), teduh
+1036	clear (water), jernih
+1037	wild, liar
+1038	tame, jinak
+1039	free, bebas
+1040	loud, keras (bunyi)
+1041	hard (blow), keras (pukul)
+1042	hoarse, parau
+1043	crazy, gila
+1044	confused, kacau, bingung
+1045	dizzy, mabuk
+1046	nervous, gelisah
+1047	angry, marah
+1048	happy, senang
+1049	sad, sedih
+1050	disappointed, kecewa
+1051	crippled, timpang
+1052	blind, buta
+1053	deaf, tuli
+1054	stupid, bodoh
+1055	clever, pintar
+1056	capable, cakap
+1057	willing, sanggup
+1058	fast, cepat
+1059	slow, lambat, perlahan2
+1060	broken, rusak
+1061	damaged, rusak
+1062	torn, robek
+1063	perfect, sempurna
+1064	very, sangat, ...sekali
+1065	rare, jarang
+1066	usual, biasa
+1067	common, biasa, umum
+1068	everyday, umum, se-hari2
+1069	popular, populer
+1070	slippery, licin
+1071	sticky, pulut
+1072	excessively decorated
+	IX. PRONOUNS ETC.
+1073	me - I, saya, aku
+1074	you sg. (thou), engkau
+1075	he, dia
+1076	she, dia
+1077	we excl., kami
+1078	we incl., kita
+1079	you pl., kamu
+1080	they,  mereka
+1081	my, ...-ku
+1082	your (thy), ...-mu
+1083	his, ...-nya
+1084	her, ...-nya
+1085	our excl., ... kami
+1086	our incl., ... kita
+1087	your, ... kamu
+1088	their, ... mereka
+1089	mine, kepunyaan saya
+1090	yours, kepunyaanmu
+1091	his, hers, ....-nya
+1092	ours, ... kami/kita
+1093	theirs, ... mereka
+1094	who? siapa
+1095	what? apa
+1096	how much/many? berapa
+1097	when? kapan
+1098	which? yg.mana
+1099	where? dimana, kemana
+1100	why?, mengapa, kenapa
+1101	self (reflexive), diri-
+1102	-self (intensifier), sendiri
+1103	each other, saling
+1104	respectively, masing2
+1105	thing, anu
+1106	indefinite, anu
+1107	any,
+1108	goods, barang(2)
+1109	this, ini
+1110	that (nearby), itu
+1111	that (far), itu (jauh)
+1112	here, disini
+1113	there (near), disitu
+1114	there (far), disana
+1115	now, sekarang
+1116	often, sering(kali)
+1117	just in case, nyampang
+1118	at, di
+1119	in, di(dalam)
+1120	from, dari
+1121	to, ke
+1122	inside, didalam
+1123	on top, diatas
+1124	under, dibawah
+1125	outside, diluar
+1126	with, dengan
+1127	by means of, dengan
+1128	and, dan
+1129	or, atau
+1130	but, tapi, tetapi
+1131	if, kalau
+1132	when, waktu
+1133	because, sebab
+1134	perhaps, barangkali
+1135	although, meskipun
+1136	before, sebelum
+1137	after, sesudah
+1138	during, selama
+1139	since, sejak
+1140	in vain, sia2
+1141	pretending, pura2
+1142	in front, didepan, dimuka
+1143	in back, dibelakang
+1144	how? bagaimana, apa caranya
+</pre>
+
+</body>
+</html>

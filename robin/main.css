@@ -1,0 +1,9 @@
+* { font-family: Helvetica, Arial, sans-serif }
+
+.italic { font-style: italic; } 
+
+.display { margin-left: 0.5in; font-size: x-large; }
+
+.big { font-size: x-large; }
+
+th { text-align: left }

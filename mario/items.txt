@@ -1,0 +1,103 @@
+----------------------------------------------------------------------------
+-----------------------------------Items------------------------------------
+----------------------------------------------------------------------------
+
+5) This section will list all Items, their uses, and any other applicable
+   information.
+
+
+                            o----------------o
+                            | Power-Up Items |
+                            o----------------o
+
+
+Name......: Blue Shell.
+Power.....: This former housing of a Koopa Troopa will allow Mario to don 
+            the status symbol of the Koopa Klan.
+How To Use: Holding DOWN to duck in place, staying protected from attacks,
+            but the main use is spinning wildly forward after dashing for a
+            short while, breaking bricks and killing enemies.
+
+
+Name......: Fire Flower.
+Power.....: This little petunia will allow Mario to become Fiery Mario so 
+            he can throw fireballs at his foes.
+How To Use: Press the X/Y Button to throw a Fireball, with a maximum of two
+            Fireballs allowed on screen at a time.
+
+
+Name......: Mega Mushroom.
+Power.....: This massive Mushroom will turn Mario into a behemoth of an 
+            individual, making him as tall as 2/3 of the screen!
+How To Use: Simply run forward, plowing through enemies, bricks, pipes...
+            anything that normally would be a problem for Mario will now
+            get destroyed.  After the short rampage ends, some 1-Ups will
+            be awarded based on the damage dished out.
+
+
+Name......: Mini Mushroom.
+Power.....: This miniscule Mushroom will shrink Mario down to a size that 
+            even Regular Mario can laugh at.  Any hit will do him in, so be
+            careful.
+How To Use: While in this form Mario gains a higher leap, more hang time and
+            air acrobatic control, and the ability to run across the surface 
+            of water.
+
+
+Name......: Invincible Starman.
+Power.....: When collected, this Star will make Mario flash wildly (his 
+            colour you perverted person!) and make him invulnerable to 
+            enemies (although he can still die through a few ways).
+How To Use: Simply collect and plow through enemies without fear!
+
+
+Name......: Super Mushroom.
+Power.....: Mario will change from Regular Mario into Super Mario, which 
+            will allow Mario to take a hit instead of dying.  This is also 
+            required for Mario to be eligible for Fire Flowers.
+How To Use: Just collect it to gain the power.
+
+
+                                o----------------o
+                                | In-Level Items |
+                                o----------------o
+
+Name..: ?-Switch.
+Effect: This yellow trigger will make something within the area change, like
+        ground elevation or water height.  The effect is typically temporary,
+        but not always.
+
+
+Name..: !-Switch.
+Effect: This red trigger will fill in dotted outlines of blocks for a few
+        moments, so use the time to get across the gap that has been filled.
+
+
+Name..: 1-Up Mushroom.
+Effect: When collected, Mario gains an extra life.
+
+
+Name  : Coin.
+Effect: Besides being worth 200 points per collect, 100 of these little 
+        beauties will gain Mario an extra life.
+
+
+Name..: Coin Block.
+Effect: A Block that contains multiple Coins, the amount of which if dependent
+        upon how fast Mario hits the block.  Get at least 10 Coins from a 
+        Block to make a Super Mushroom pop out.
+
+
+Name..: P-Switch.
+Effect: When stomped, it turns all Coins into bricks and all bricks into 
+        Coins.
+
+
+Name..: Red Coin Ring.
+Effect: Pass through this object to make 8 Red Coins appear for a limited
+        time.  If all 8 Red Coins are gathered in time, a reward will be
+        yours (Super Mushroom if you are Regular Mario, a Fire Flower if you
+        Are Super Mario or if a spot is open for a Reserve Item, or a 1-Up
+        Mushroom if you are at least Fiery Mario and have at least a Fire 
+        Flower as a reserve item).
+

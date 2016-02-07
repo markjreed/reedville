@@ -1,0 +1,138 @@
+<html>
+
+ <head>
+  <link rel="stylesheet" type="text/css" href="index.css"/>
+  <title>Menzier Okaikior</title>
+ </head>
+
+ <body>
+  <h1>Okaikiar Sounds</h1>
+
+  <p align="left">
+  Okaikiar has a rablatively small set of phonemes: only fifteen.  What is
+  more unusual is that the majority of these phonemes (eight) are vowels, with
+  only seven consonants.  In these pages Okaikiar is generally written using
+  the Roman transcription system I describe below; for information on the
+  native writing system, see the <a href="script.rhtml">Orendiar</a> pages.)
+  </p>
+
+  <h2>Consonants</h2>
+
+  <p>
+  Each of the consonants is represented in the standard transcription
+  system by the same letter that represents its usual sound in the International
+  Phonetic Alphabet.  However, note that all the symbols are lowercase in the
+  IPA; I use English capitalization conventions when transcribing Okaikiar
+  since it doesn't create any conflict within the symbols.
+  </p>
+  
+
+<%
+    consonants = %w(l d m r k n z)
+    vowels     = ['u<br/>&nbsp;&nbsp;final', 'y<br/>&nbsp;&nbsp;final', 
+		  'o<br/>&nbsp;&nbsp;before r', 
+		  '&oslash;<br/>&nbsp;&nbsp;before r', 
+		  'e<br/>&nbsp;&nbsp;final',  
+		  'a<br/>&nbsp;&nbsp;before r<br/>&nbsp;&nbsp;final', 
+		  "'", 'i<br/>&nbsp;&nbsp;final']
+    glyphs     = %w(u uuml o ouml e a schwa i)
+    ipa        = ['ʊ<br/>u', 'ʏ<br/>y', 'o<br/>ɔ˞',
+			'&oslash;<br/>&oelig;˞',
+		  'Ɛ<br/>e', '&aelig;<br/>a˞<br/>a', 'ǝ', '&#x026a;<br/>i']
+
+    xsampa     = ['U<br/>u', 'Y<br/>y', 'o<br/>O`', '2<br/>9`', 'E<br/>e', 
+		  '{ / &amp;<br/>a`<br/>a', '@', 'I<br/>i' ]
+%>
+  
+  <table cellspacing="2" cellpadding="2" class="overlay">
+<%
+    consonants.each do
+  	|c|
+	%><tr><td><font face="serif"><%=c%></font></td><%
+    end
+%>
+  </table>
+
+  <p>
+   There is some phonetic variance that is noticeable to English
+   speakers.  For instance, voice is not significant, so that
+   <b>d</b> may sometimes sound like an unaspirated <b>t</b>,
+   and <b>z</b> may sound like an <b>s</b>  This is particularly
+   common on either side of the <em>schwa</em> sound <b>'</b>;
+   see <b>Vowels</b> below.  Thus the proper name <em>D'zor</em>
+   sounds more like <em>T'sor</em>.  However, the <b>k</b> never
+   sounds like much like a <b>g</b>, probably because it is always
+   strongly aspirated.
+  </p>
+
+  <h2>Vowels</h2>
+
+  <p>
+  The eight vowels are represented by the five standard Roman vowel
+  letters, plus y, ø, and the apostrophe.  This means that the
+  transcription doesn't always agree with IPA.  Here are the vowels
+  with three transcriptions: standard, Unicode IPA, and X-SAMPA.
+  Note that the conlang mailing list uses a slightly modified
+  version of X-SAMPA in which the sound represented by IPA &aelig;
+  is represented by &amp; instead of {.
+ </p>
+  
+  <table cellspacing="2" cellpadding="2" class="overlay">
+   <tr align="left">
+    <th>Roman</th>
+    <th>IPA</th>
+    <th>X-SAMPA/conlang</th>
+   </tr>
+<%
+    (0...vowels.length).each do
+  	|i|
+%> <tr>
+    <td><font face="serif"><%=vowels[i]%></font></td>
+    <td><font face="serif"><%=ipa[i]%></font></td>
+    <td><font face="serif"><%=xsampa[i]%></font></td>
+   </tr><%
+    end
+%>
+  </table>
+<%
+   fileName = '/home1/mjnrus/public_html/conlang/okaikiar.sounds.rhtml'
+   fileName.untaint
+   begin
+	ctime = File.ctime(fileName);
+   rescue
+   end
+   if ctime != nil
+%>
+  <br /><font size="2"><em>Last modified <%=ctime%></em></font>
+<%
+  end
+%>
+
+  <h2>Syllables</h2>
+
+  <p>
+   Okaikiar syllables are [C]V[C][C], where the only permissible final
+   clusters consist of a non-stop (l, m, n, r, z) followed by a stop 
+   (d or k).  Single intervocalic consonants are in the same syllable
+   as the following vowel.  Every vowel is syllabic; there are no recognized
+   diphthongs.  Thus <em>Okaikiar</em> syllabifies into o-ka-i-ki-ar.
+   However, in rapid speech a vowel plus an adjacent <em>i</em> may merge into
+   a rising or falling diphthong phonetically, as o-kai-kiar.
+  </p>
+
+  <h2>Stress</h2>
+
+  <p>
+   In an Okaikiar word, the stress generally falls on the penultimate
+   syllable.  However, a schwa (<em>'</em>) is not eligible to receive the
+   stress, nor is an <em>i</em> unless it is the only vowel in the word;
+   when the penult has one of these vowels, the stress moves - to an
+   earlier syllable if there are any, otherwise to the final one.
+   Thus the stress falls as indicated in the words <em>Ok&aacute;ikiar</em>
+   and <em>D'z&oacute;r</em>.
+  </p>
+
+ </div>
+
+ </body>
+</html>

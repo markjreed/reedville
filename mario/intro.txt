@@ -1,0 +1,285 @@
+New Super Mario Bros.
+Copyright Nintendo 2006
+Written By Brian P. Sulpher
+E-mail: briansulpher@hotmail.com
+Version 1.5
+Dates Written: June 1st to June 14th, 2006
+
+I dedicate this FAQ to the character who saved gaming... Mario!  Mario 
+continues to entertain me, even after all these years, and this game is no
+different, combining the old school with the newer elements of the Italian
+plumber from Brooklyn.  I salute you Mario!
+
+Also, for Cougar, Howler, and Koonce.  I miss you, and I hope you are living
+it up in the afterlife as you did in this world.  You will always be in my 
+memories, and you will never be forgotten.
+
+-----------
+Version 0.2
+-----------
+
+-Submitted guide on June 3rd, 2006
+-Finished Walkthrough through the end of World Two
+-Introduction, Controls, World Map Information, and Items sections are 
+ complete
+
+-----------
+Version 0.5
+-----------
+
+-Submitted guide on June 6th, 2006
+-Finished Walkthrough through the end of World Four
+-Enemies and 1-Up Techniques sections are complete (as they can be anyway)
+-Other sections will be filled in with the new updates as they come
+
+
+-----------
+Version 0.7
+-----------
+
+-Submitted guide on June 11th, 2006
+-Finished Walkthrough through the end of World Six
+-I am now accepting contributions to the Secrets Section, so feel free to
+ send in some info if you so desire (full credit to those who send in the 
+ information of course)
+-Other sections will be filled in with the new updates as they come
+
+-----------
+Version 1.0
+-----------
+
+-Submitted guide on June 14th, 2006
+-Finished Walkthrough 
+-Finished Minigames section
+-Added some Secrets (feel free to e-mail in any new ones)
+-I accept contributions so send away
+
+-----------
+Version 1.2
+-----------
+
+-Submitted guide on June 18th, 2006
+-Fixed an oversight in 2-4 (forgot to cover the Alternate Exit)
+-Added in my strategy for rigging the Item Toad House to the Secrets section
+
+-----------
+Version 1.5
+-----------
+
+-Submitted guide on July 4th, 2006
+-Fixed an oversight on the second World 1-2 Star Coin (thanks to a deluge of
+ e-mailers)
+-Made a correction to the Sort Or 'Splode Mini-Game
+-Added in a plethora of corrections (thanks to Kirby5790)
+
+----------------------------------------------------------------------------
+-----------------------------Table Of Contents------------------------------
+----------------------------------------------------------------------------
+
+1) Introduction
+2) Controls
+3) World Map Information
+4) Walkthrough
+5) Items
+6) Enemies
+7) 1-Up Techniques
+8) MiniGames
+9) Secrets
+10)Credits
+11)Final Word
+
+----------------------------------------------------------------------------
+-------------------------------Introduction---------------------------------
+----------------------------------------------------------------------------
+
+1) The following is directly from the New Super Mario Brothers instruction
+   manual, and is in no way the work of Brian P. Sulpher:
+
+
+EMERGENCY NEWS FLASH!
+
+
+Princess Peach has been kidnapped! While enjoying a nice walk with Mario, 
+the beloved ruler of the Mushroom Kingdom was whisked away by an unknown 
+assailant. How could this happen with Mario around?
+
+
+According to eyewitnesses, the walk was going swimmingly when Mario and the 
+princess spotted smoke billowing out of Peach's Castle. The mustachioed 
+marvel immediately jumped into action and sped off toward the fire. The 
+moment he left her side, the princess vanished!
+
+
+Who's behind Princess Peach's disappearance?
+
+
+Who's behind the attack on Peach's Castle?
+
+
+Are the two incidents related?
+
+
+Didn't Bowser Jr. once think Princess Peach might be his mother?
+
+
+Looks like Mario's going to need all the Mega Mushrooms he can find to get 
+to the bottom of this mess!
+
+
+   Well, not exactly Shakespeare I admit, but then again, when have Mario 
+   and Luigi's adventures ever been about the story anyway?  The reason I
+   mention their previous adventures is that as a long time platformer, I
+   have experienced all the Mario games in this genre, so I warn you now I 
+   will occasionally comment on certain areas, situations, and set-ups as 
+   they are either tributes or exact matches to areas found within anything 
+   from the original SMB through to Super Mario World to Super Mario 64 to
+   Super Mario Sunshine!  Hopefully younger gamers will learn some things, 
+   while you older gamers get a kick out of the details that Nintendo 
+   decided to put in for us fans!  Enjoy my FAQ for the New Super Mario 
+   Brothers!  
+
+----------------------------------------------------------------------------
+---------------------------------Controls-----------------------------------
+----------------------------------------------------------------------------
+
+2) This section will outline the control for Mario, both basic and advanced.
+
+
+                            o----------------o
+                            | Basic Controls |
+                            o----------------o
+
+D-Pad...: UP and DOWN will move Mario into pipes, though holding DOWN will
+          also allow Mario to duck.  LEFT and RIGHT will move him in the 
+          corresponding direction pressed.
+
+START...: Pauses/unpauses the game, bringing up the in-game menu.
+
+A Button: Press to make Mario jump. Also doubles as a swimming stroke in the
+          water.
+
+B Button: Press to make Mario jump. Also doubles as a swimming stroke in the
+          water.
+
+X Button: Hold this button to dash and to pick up Shells/springboards/etc.
+          Also allows Mario to punch doors on the fences to get to the other
+          side.
+
+Y Button: Hold this button to dash and to pick up Shells/springboards/etc.
+          Also allows Mario to punch doors on the fences to get to the other
+          side.
+
+L Button: Scroll the map screen to the left.
+
+R Button: Scroll the map screen to the right.
+
+
+                           o-------------------o
+                           | Advanced Controls |
+                           o-------------------o
+
+                               =============
+                               Anytime Moves
+                               =============
+
+Double/Triple Jump: When coming down from a jump (holding the X/Y Button), 
+                    immediately press the B/A Button to rocket back into the
+                    air, achieving more height and style than the previous 
+                    jump.
+
+Gap Dashing.......: When the space between platforms are one space, you can 
+                    hold the X/Y Button to pass over the holes without 
+                    falling through.
+
+Ground Pound......: When Mario has jumped into the air, press DOWN to slam
+                    his weight down, delivering a brutal hit to enemies and
+                    bricks, breaking the bricks if he is not Regular Mario.
+
+Slide Duck........: Sometimes the open space is only the size that Regular 
+                    Mario could normally pass through, but Mario can run at 
+                    the space, duck (press DOWN) just before he gets there, 
+                    and then he will slide through to the far side.
+
+Sliding...........: On a hill's slope, press DOWN to slide down the hill and
+                    kill enemies that are in the way.
+
+Super Jump........: When you hop on an enemy, hold the A Button to fly 
+                    farther into the air than a normal hop would bring 
+                    Mario.
+
+Wall Jump.........: When Mario jumps into a wall, press towards the wall, 
+                    followed by pressing A/B Button to send him kicking off
+                    the wall to gain some height.  When used in a narrow 
+                    vertical corridor, he will be able to reach heights he 
+                    could not get to through conventional means.
+
+
+                                ===========
+                                Fiery Mario
+                                ===========
+
+Firepower: Press the Y/X Button to throw a Fireball that can scorch enemies.
+           Maximum of two Fireballs on screen at a time.
+
+
+                                ===========
+                                Shell Mario
+                                ===========
+
+Shell Dash: Holding down the X/Y Button will allow Mario to run, building
+            enough speed to start spinning around as he slides like any old
+            Koopa Troopa.  He will keep going in the same direction till he
+            hits an object (reverses course) or releases the X/Y Button.
+
+----------------------------------------------------------------------------
+---------------------------World Map Information----------------------------
+----------------------------------------------------------------------------
+
+3) This section will examine the rules, functions, and structures found 
+   within the World map, and what they mean for Mario.
+
+
+                             o--------------o
+                             | World Layout |
+                             o--------------o
+
+Each world will have set of levels, objects, Toad Houses, and enemy 
+installations strewn about it, usually connected by pathway.  However, some
+levels will have two exits, with each exit leading down a different path, 
+meaning that Mario will beat the level both ways to open both paths from that
+level to the next two stops.  Often the more difficult to find/get to exit
+will yield the path to the levels with letters (A or B) instead of the more
+conventional paths of numbered levels and Towers/Castles.
+
+
+                              o------------o
+                              | Toad House |
+                              o------------o
+
+These are the places on the nap where Mario can improve his chances of 
+rescuing Princess Peach.  The following Toad Houses exist:
+
+Green Toad House: With a series of blocks to randomly select, hit them to
+                  reveal 1-Ups.  The long you go, the higher the 1-Up totals
+                  will be, but the game ends once the Bowser ? Block is hit.
+                  Luckily, the 1-Ups found to that point are still yours to 
+                  keep.
+
+Item Toad House : The tried and true Toad House, one random Item will be 
+                  Mario's after he hits the flashing Item Block, sending it 
+                  into the Item reserve for you.
+
+Mega Toad House : No guessing or luck involved here... Mario will hit the
+                  giant ? Block (love the SMB3 reference here) to reveal a
+                  Mega Mushroom, which will be put into his reserves for 
+                  whenever he decides to use it.
+
+
+                     o-------------------------------o
+                     | Winged Blocks/Hammer Brothers |
+                     o-------------------------------o
+
+These two will move about the map randomly, stopping in a level.  If Mario
+enters the level they are occupying, he will then get a free Item from the
+Winged Block if he hits it, or he will have to face a might member of the
+Hammer Brother Family.

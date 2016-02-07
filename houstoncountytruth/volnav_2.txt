@@ -1,0 +1,10 @@
+><img class="plain"
+    alt="Next Issue" src="forward.png"" onmouseover="swap(this,'forward_active.png')" onmouseout="unswap(this)"/></a></td>
+  <td bgcolor="#0080c0" width="58"><a href="latest.php"><img class="plain"
+    alt="Latest Issue" src="last.png"" onmouseover="swap(this,'last_active.png')" onmouseout="unswap(this)"/></a></td>
+ </tr>
+</table>
+</div>
+  <p class="centered"><font size="1"><em>This is a verbatim copy of a
+   newsletter originally issued in hardcopy form.  Only the formatting has
+   been altered for this web edition.</em></font></p>

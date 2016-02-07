@@ -1,0 +1,311 @@
+                          ~~~~~~~~~~~~~~~~~~~~~~~
+                        ~~~~~~~ World Three ~~~~~~~
+                          ~~~~~~~~~~~~~~~~~~~~~~~
+
+_____________________
+X - Start            |
+# - Level            |
+a - Extra Level      |
+b - Extra Level      |
+c - Extra Level      |
+O - Empty Space      |
+T - Tower            |
+C - Castle           |
+H - Ghost House      |
+W - Warp Cannon      |
+P - Pipe             |
+S - Star Coin Toll   |
+I - Item Toad House  |
+G - Green Toad House |
+M - Mega Toad House  |
+                     |
+_____________________|
+
+     +----1--------+         M---S3------------H------------+
+     |             |              |            |            |
+     |             |              |            |            |
+X----O        I    O----2----T----+     G      +----W       O----C
+     S        |    |    |               |                   |
+     |        |    |    |               S                   |
+     +--------a----+    +----b----------c-------------------+
+
+
+                               o-----------o
+                               | Level 3-1 |
+                               o-----------o
+
+Head down the pipe to find the first of many Mega Cheep-Cheeps along with 
+with Cheep-Cheeps, so swim through their lazy swimming patterns, finding a
+Red Coin Ring to pass through, but it is very tough to swim between the
+charging Cheep-Cheep types to get the Power-Up reward.  After a few more
+Cheep-Cheep/Mega Cheep-Cheep attack, the halfway point will be reached, 
+followed by hitting the rotating Power-Ups for the pictured Power-Up that
+is on the side when it is touched.
+
+Pass through a narrow area to see a Cheep-Chomp, a large fish that will try
+to attack Mario directly by trying to eat him whole!  Swim past more 
+Cheep-Cheeps to go down the pipe in the set ahead that is not blowing air, 
+finding Coins, Cheep-Cheeps, and the first Star Coin.  Upon leaving the
+pipe, go close to the roof, swimming through some air currents to grab the 
+second Star Coin, but do not hang around there, as a Cheep-Chomp attack from
+the right will occur here.  Hit the P-Switch ahead, swimming through the 
+Coins near the roof ahead to get the third Star Coin, followed by swimming 
+through a Red Coin Ring, but with that Cheep-Chomp following Mario, it is 
+best to ignore this option and instead continue to the right to go up the 
+pipe, finding the flagpole to end the level!
+
+
+                               o-----------o
+                               | Level 3-2 |
+                               o-----------o
+
+Raid the ? Block while fighting off the Red Koopa Troopa, followed by going
+to the next toadstool to stomp the Red Koopa Troopa there, followed by
+kicking him to the right and following along to get a 1-Up for the combo of
+destroyed Goombas.  Use the pulley-elevator to span the gap, followed by
+raiding the ? Blocks by the pipe for a Power-Up before heading down that
+aforementioned pipe to find the first Star Coin.  When Mario returns to the 
+main area, use the pulley-elevator sets to reach the second Star Coin high 
+on a ledge, followed by leaping down to the rocking toadstool.  At this 
+point the level splits into two paths, the Main Route and the Alternate 
+Route.
+
+                                ==========
+                                Main Route
+                                ==========
+
+Ignore the pipes above as the rocking toadstool moves forward, getting to a
+ledge and a pulley-elevator set that has a Red Coin Ring.  Grab the Red 
+Coins while moving forward, breaking the pulley elevator to get the lower
+Red Coins, receiving a prize in the process.  Next is another rocking 
+toadstool that moves across a large gap, so fight the Green Paratroopa 
+Koopas as they appear, making sure to get the third Star Coin high in the 
+air, arriving at the flagpole, so hit it to end the level!
+
+                             ===============
+                             Alternate Route
+                             ===============
+
+Jump up and enter the green pipe, finding an area with a P-Switch that makes
+some silver Coins appear, and once you are done here, go down the other pipe
+to carefully leap across the rocking toadstools here, locating the alternate
+flagpole, ending the level and opening up level 3-B!
+
+
+                             o---------------o
+                             | Level 3-Tower |
+                             o---------------o
+
+Use the middle pipe to launch up to the fences, grabbing the lowest fence 
+area.  Head left and then up, climbing carefully past the Koopa Troopas
+(punch them off the other side of the fence if you desire to), climbing up 
+to find the first Star Coin.  Now head back down to the bottom of the area
+again, using the center pipe to launch onto the higher portions of the 
+fences, finding some Amps blocking the way forward.  Punch the door of the 
+fence to swing around, climbing back to the left where the Amps are not, and 
+punch again to get onto the front side of the fence once more.  Mario will
+now advance upwards, turning to the left to go upward, grabbing the second
+Star Coin.
+
+Now backtrack to the previous fork in the path, going upwards past the 
+Koopa Troopa and Amps to find a door in the top-right corner of the room,
+where Mario will need to hit the !-Block, followed by hopping up the red 
+blocks while they are solid and dodging the Koopa Troopas on the fences,
+reaching the door high above, which sits near the third Star Coin!  Head 
+left and raid the ? Block on the right by the fence, getting a Power-Up,
+which just leaves the big doors to pass through!
+
+Bowser Jr. attacks here as usual, charging back and forth in an attempt to
+run into Mario, but this time his platform has water all underneath it, so
+falling in will make it tough to get back onto the ledge without taking a
+hit in the process.  The usual 3 stomps or 9 Fireballs or a combination of
+the two will end the battle, chasing Bowser Jr. from another Tower!
+
+
+                               o-----------o
+                               | Level 3-3 |
+                               o-----------o
+
+head down the pipe to swim past the first Blooper of the game, finding a
+Power-Up in a ? Block, which the game follows up with Cheep-Cheeps and more
+Bloopers.  Mario will soon come across a pipe with a hole behind it, but it
+is not a death hole, rather it leads downward to a Blooper that guards the
+first Star Coin.  Hit the nearby ?-Switch before swimming back up to the 
+area above, swimming to the right at top speed to drop down the hole by two
+horizontal pipes to find a Red Coin Ring to use, followed by moving to the
+right to go down the third pipe that appears, finding a room with a ton of
+Bloopers, a ton of Coins, and the second Star Coin.
+
+After grabbing what is needed from this cavern (look for a rotating Power-Up
+to snag), take the pipe in the top-right corner of the room to return to the
+previous area, riding the currents on the right upwards to move right, 
+sinking down through the side currents.  Once Mario reaches the bottom, the
+third Star Coin will be his, but be ready for an ambush by the Bloopers, so
+swim upwards at full speed to get away.  Mario will get back to the area 
+above the side currents, taking the pipe above to reach the flagpole, the 
+end of the level!
+
+
+                          o---------------------o
+                          | Level 3-Ghost House |
+                          o---------------------o
+
+Head right to get a Power-Up (be ready for to to fly off on a wild angle,
+requiring that Mario chase it down), heading right to hit the ?-Switch he
+finds, creating a staircase to allow Mario to scale the slope ahead.  Slide
+down the far side to continue past the Boos in this area to enter a door for
+a Power-Up from the left ? Block.  Return to the previous area (watching out
+for the Splunkin that attacks from the left), heading right to enter the 
+door past the ?-Switch to get the Star Coin by Super Jumping off the 
+Splunkins.
+
+Now back outside, hitting the ?-Switch before boarding the elevator, jumping
+right to take the two sets of stairs, reaching the second Star Coin at the 
+top.  Fall back down the ?-Switch, hitting it and going up the first set
+of stairs to find another slope to go down, reaching a ?-Switch hidden in 
+the brick.  Now the level will take separate paths, so you must choose the
+Main Route or the Alternate Route.
+
+                                ==========
+                                Main Route
+                                ==========
+
+Hit the ?-Switch and go back up the slope Mario just descended, entering the
+door that lies down the hole.  Grab the Power-Up from the ? Block, followed
+by going up the ledge on the left to find a rotating Power-Up, which will 
+have to be raided for the Blue Shell to become Shell Mario.  If you 
+succeeded in grabbing the Blue Shell, Mario can go after the third Star Coin
+by going right, spinning up the slopes and through the Splunkins, breaking
+the bricks to the right of the door to get access.  All that remains from 
+there is to go through the door to grab a hold of the flagpole to end the
+level!
+
+                             ===============
+                             Alternate Route
+                             ===============
+
+Hit the ?-Switch, climbing the stairs to leap over the first gap, falling 
+down the stairs you climbed just previously, jumping the nearby ?-Switch to
+enter the door before it disappears.  If you get through, go get onto the
+flagpole to end the level, opening the way to the Warp Cannon on the map 
+screen!
+
+
+                               o-----------o
+                               | Level 3-A |
+                               o-----------o
+
+Head right and enter the water, swimming underneath the Skeeters and their
+bombs, finding a Red Coin Ring to use to get the Power-Up/1-Up that the it
+awards by swimming up and going around the island.  Continue right, killing
+the Skeeter that appear, finding some dotted outline of blocks, so kill the
+Sketters, followed by hitting the !-Switch in the water below, allowing 
+Mario to use the blocks that appear to reach the ledge above.  Grab the 
+Power-Up before dropping into the water to move right, drawing the attacks
+of the Skeeter, blowing the blocks away, opening the path to the first Star
+Coin.
+
+After going right to get the Mini Mushroom from the ? Block, get to the 
+surface and get onto the spinning barrels, jumping right to use the Red 
+Koopa Troopa as a stepping stone for a Super Jump up to the second Star Coin
+above.  Continue to the right to go through a pipe, finding a stretch of 
+water to cross, entering the first pipe hanging from above.  Run to the 
+right across the water, taking a running leap to reach the third Star Coin 
+floating high above, followed by entering the next pipe.  Head to the right
+while dodging the Skeeters and Green Paratroopa Koopas, passing through the 
+pipe at the end to find the flagpole!
+
+
+                               o-----------o
+                               | Level 3-B |
+                               o-----------o
+
+Mario will need to move past each Piranha Plant when they retreat, though
+Fiery Mario will be able to burn his way through with ease.  Head right to
+to find a Power-Up, followed by a Venus Fire Trap across a gap.  After
+bypassing this obstacle, another Venus Fire Trap guarding a Power-Up will
+soon appear, which leads to a Star Coin protected by some bricks.  head 
+right to find a red pipe to go down, moving left in this area past the enemy
+to find another red pipe, taking it upwards tog et that aforementioned Star
+Coin before going back through the previous room to emerge into the main
+area.
+
+Leap across the gaps ahead, waiting for the Piranha Plants and Venus Fire
+Traps, arriving at an area where a Star Coin twinkles above.  To the left of
+this spot are two pipes, so Wall Jump off of them to pass over a pipe to 
+reach that Star Coin, followed by falling down to collect a Power-Up from 
+the nearby ? Block.  Next are a few four-way pipes, so pass them with 
+caution, finding a Piranha Plant that guards a fall down to a lower area, so
+wait for it to retreat before hopping down, collecting the final Star Coin 
+for this level.  All that remains is to go right and get onto the flagpole
+to end this tour through the pipes!
+
+
+                               o-----------o
+                               | Level 3-C |
+                               o-----------o
+
+Head right across the platforms to get a Power-Up, remembering to watch out
+for the attacks from Spike Bass.  Continue moving right, taking out Red 
+Koopa Trroopas and Goombas while moving off of the smaller ledges quickly 
+(due to their plunging into the water), arriving at a Star Coin below some
+breakaway ledges (fall down to the Star Coin, then leap back up to safety).
+Next for Mario are some Coins, but each platform also has a host of 
+Cheep-Cheeps that will leap into the air to try and hit him, so be careful.
+
+Mario will find some small solid ground up ahead, signaling the halfway 
+point, which is soon followed by a Power-Up in a ? Block.  Next up would be
+a Star Coin in an alcove below the bridge, so hopefully you can kill the 
+Spike Bass to make this an easy job, but if not, draw Spike bass out by
+entering the water, leaping him to swim underneath to get the Star Coin, 
+followed by hustling out to the right to get to safety.  
+
+A P-Switch can be hit to make Coins turn solid, so speed right (ignore the 
+silver Coins) to hit the block to get an Invincible Starman, rushing 
+through the enemies while leaping to the right, using the now solid Coins 
+(they are still bricks hopefully) to enter the pipe.  Fall through the final
+Star Coin and head to the right, hitting the invisible block above the Coins
+to reach the upper area of the flagpole.
+
+
+                             o----------------o
+                             | Level 3-Castle |
+                             o----------------o
+
+The good old fashioned Piledrivers from Super Mario World make an 
+appearance here, pounding away at a blistering pace.  Move right underneath
+two of the Piledrivers to find a Power-Up, followed up by running and 
+leaping to the right to go under two more Piledrivers.  Wait for the next 
+pile driver to retract, allowing Mario to go underneath the platform to get 
+the Star Coin, hiding there until the pile driver comes and goes, opening 
+the leap to the right.
+
+Pass the Dry Bones to leap between the two Piledrivers, noting that if you
+get stuck in between, you will have to leap repeatedly to assure that the
+Donut Blocks do not fall away on Mario.  Hit the ? Block for a Power-Up as
+you pass the halfway point, running past the first two Whomps, pausing to 
+let the third Whomp fall down, using it as a stepping stone to reach the
+pole to climb upwards.  Hop along the Donut Blocks ahead, reaching a rope to
+grab onto, swinging back and forth before leaping to the left.  Run along
+the ceiling while going left, falling through the second Star Coin, landing 
+on the Whomp, followed by going right to get to the swinging rope once more.
+
+Swing back and forth to draw the Whomp into flopping onto the ground, 
+letting Mario leap past, running to the right to leap across a pile driver 
+water gap to find a ? Block with a Power-Up inside.  Next is a series of 
+Piledrivers to run under/over and to leap, so go at a pace you feel
+comfortable with, eventually clearing the nasty area to spot the large 
+doors.  However, before heading through this portal, go right, using the
+Sldie Duck technique to get under the wall, swimming in place on the left,
+waiting for the pile driver to descend and then climb again, signaling Mario
+to jump up the ledge to reach the final Star Coin!  Drop back down and swim
+under the ledge there to leap up, entering the large doors.
+
+Go to the right to find a bridge set up with fish below it, including the 
+boss, Cheepskipper!  To defeat this foe, leap onto his head as he jumps up
+above the bridge, getting him three times to beat him.  Just note that Mario
+also has to contend with the leaping Cheep-Cheeps while doing this, and that
+Fireballs can defeat the foe in 9 hits.  Not a tough boss, just leap 
+carefully to defeat it, ending the tour of World Three!
+
+

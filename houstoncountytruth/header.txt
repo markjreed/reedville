@@ -1,0 +1,36 @@
+  <table width="640" cellpadding="0" cellspacing="0">
+   <tr>
+    <td valign="middle" rowspan="3" width="184" align="center">
+     <a href=""><img class="plain" width="161" src="hctlogo.png" 
+    /></a></td>
+    <td valign="top" bgcolor="#b27228" width="456"><img src="ulc.png" valign="top"
+	align="left"/> <img src="urc.png" valign="top" align="right"/>
+     <h1
+     class="headline">THE HOUSTON&nbsp;COUNTY TRUTH</h1>
+     <p class="centered"><i>-- Truth for the People for a Change in
+	Middle Georgia --</i></p>
+    </td>
+   </tr>
+   <tr><td valign="bottom" bgcolor="#b27228" width="456"><br />
+     <p class="centered">Gerald M. Reed, Editor <a class="heading"
+	href="mailto:editor@houstoncountytruth.org"><i>
+	&lt;editor@houstoncountytruth.org</i>&gt;</a></p><img
+	src="blc.png" valign="bottom" align="left" /><img src="brc.png" valign="bottom" align="right" />&nbsp;</td></tr><tr align="center" valign="bottom"><td bgcolor="#000080" width="456"><nowrap><a
+	href="about.php"><img id="about" class="plain"
+	src="about.png" onmouseover="swap(this,
+	'about_active.png')" onmouseout="unswap(this)"/></a><a
+	href="news.php"><img id="news" class="plain"
+	src="news.png" onmouseover="swap(this,
+	'news_active.png')" onmouseout="unswap(this)"/></a><a
+	href="latest.php"><img id="latest" class="plain"
+	src="latest.png" onmouseover="swap(this,
+	'latest_active.png')" onmouseout="unswap(this)"
+	/></a><a href="archive.php"><img id="archive"
+	class="plain" src="archive.png" onmouseover="swap(this,
+	'archive_active.png')" onmouseout="unswap(this)"
+	/></a><a href="letters"><img id="letters"
+	class="plain" src="letters.png" onmouseover="swap(this,
+	'letters_active.png')" onmouseout="unswap(this)"
+	/></a></nowrap></td></tr></table>
+  <table width="640" cellspacing="10" cellpadding="0" bgcolor="#ffffff"><tr><td>
+

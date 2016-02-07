@@ -1,0 +1,914 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN">
+<HTML>
+<HEAD>
+   <META HTTP-EQUIV="Content-Type" CONTENT="text/html; charset=UTF-8">
+   <META NAME="Author" CONTENT="Roger F. Mills">
+   <META NAME="KeyWords" CONTENT="Prevli language, conlang">
+   <TITLE>Prevli Grammar</TITLE> </HEAD>
+<body TEXT="#000000" BGCOLOR="#FFFFCC" LINK="#0000EE" VLINK="#551A8B" ALINK="#C0C0C0"><!--'"</title></head>-->
+<script type="text/javascript">
+//Compete
+__compete_code = '667f89f26d96c30e99728fe6a608804d';
+(function () { var s=document.createElement('script'),d=document.getElementsByTagName('head')[0]||document.getElementsByTagName('body')[0],t='https:'==document.location.protocol?'https://c.compete.com/bootstrap/':'http://c.compete.com/bootstrap/';s.src=t+__compete_code+'/bootstrap.js';s.type='text/javascript';s.async='async';if(d){d.appendChild(s);}})();
+//Quantcast
+function channValidator(chann){ return (typeof(chann) == 'string' && chann != '');}
+function lycosQuantcast(){ var lb = ""; if(typeof(cm_host) !== 'undefined' && channValidator(cm_host)){ lb += cm_host.split('.')[0] + '.'; }
+if(typeof(cm_taxid) !== 'undefined' && channValidator(cm_taxid)){ lb += cm_taxid; lb = lb.replace('/',''); } else { lb = lb.replace('.',''); } return lb; }
+var _qevents = _qevents || [];
+(function() {
+var elem = document.createElement('script');
+elem.src = (document.location.protocol == "https:" ? "https://secure" :"http://edge") + ".quantserve.com/quant.js";
+elem.async = true;
+elem.type = "text/javascript";
+var scpt = document.getElementsByTagName('script')[0];
+scpt.parentNode.insertBefore(elem, scpt);
+})();
+_qevents.push({ qacct:"p-6eQegedn62bSo", labels:lycosQuantcast() });
+//OwnerIQ
+var __oiq_pct = 50;
+if( __oiq_pct>=100 || Math.floor(Math.random()*100/(100-__oiq_pct)) > 0 ) {
+var _oiqq = _oiqq || [];
+_oiqq.push(['oiq_addPageBrand','Lycos']);
+_oiqq.push(['oiq_addPageCat','Internet > Websites']);
+_oiqq.push(['oiq_addPageLifecycle','Intend']);
+_oiqq.push(['oiq_doTag']);
+(function() {
+var oiq = document.createElement('script'); oiq.type = 'text/javascript'; oiq.async = true;
+oiq.src = document.location.protocol + '//px.owneriq.net/stas/s/lycosn.js';
+var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(oiq, s);
+})();
+}
+//Google Analytics
+var _gaq = _gaq || [];
+_gaq.push(['_setAccount','UA-21402695-19']);
+_gaq.push(['_setDomainName','tripod.com']);
+_gaq.push(['_setCustomVar',1,'member_name','cinduworld',3]);
+_gaq.push(['_trackPageview']);
+(function() {
+var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+})();
+//Lycos Init
+function getReferrer() {
+var all= this.document.cookie;
+if (all== '') return false;
+var cookie_name = 'REFERRER=';
+var start = all.lastIndexOf(cookie_name);
+if (start == -1) return false;
+start += cookie_name.length;
+var end = all.indexOf(';', start);
+if (end == -1) end = all.length;
+return all.substring(start, end);
+}
+function getQuery() {
+var rfr = getReferrer();
+if (rfr == '') return false;
+var q = extractQuery(rfr, 'yahoo.com', 'p=');
+if (q) return q;
+q = extractQuery(rfr, '', 'q=');
+return q ? q : "";
+}
+function extractQuery(full, site, q_param) {
+var start = full.lastIndexOf(site);
+if (start == -1) return false;
+start = full.lastIndexOf(q_param);
+if (start == -1) return false;
+start += q_param.length;
+var end = full.indexOf('&', start);
+if (end == -1) end = full.length;
+return unescape(full.substring(start, end)).split(" ").join("+");
+}
+function generateHref(atag, template){
+atag.href=template.replace('_MYURL_', window.location.href.replace('http://', '')).replace('_MYTITLE_','Check%20out%20this%20Tripod%20Member%20site!'); 
+}
+var lycos_ad = Array();
+var lycos_onload_timer;
+var cm_role = "live";
+var cm_host = "tripod.lycos.com";
+var cm_taxid = "/memberembedded";
+var tripod_member_name = "cinduworld";
+var tripod_member_page = "cinduworld/prevlisyntax.htm";
+var tripod_ratings_hash = "1441244039:6f3d0a8ff82a88f0614818f6e3c8505b";
+
+var lycos_ad_category = {"dmoz":"science\/chats_and_forums","ontarget":"&CAT=news&L2CAT=science%20and%20technology","find_what":"build my website"};
+
+var lycos_ad_remote_addr = "107.206.30.60";
+var lycos_ad_www_server = "www.tripod.lycos.com";
+var lycos_ad_track_small = "http://members.tripod.com/adm/img/common/ot_smallframe.gif?rand=58861";
+var lycos_ad_track_served = "http://members.tripod.com/adm/img/common/ot_adserved.gif?rand=58861";
+var lycos_search_query = getQuery();
+//Criteo
+var cto_conf = { a:true, i: "294", c:"img", kw: "" } ;
+(function (){
+var c = document.createElement("script"); c.type = "text/javascript"; c.async = true;
+c.src = "http://members.tripod.com/adm/partner/criteo_ld_kw.js";
+var s = document.getElementsByTagName("body")[0]; s.appendChild(c);
+})(); 
+</script>
+<script type="text/javascript" src="http://scripts.lycos.com/catman/init.js"></script>
+
+<script type="text/javascript"> 
+(function(isV)
+{
+    if( !isV )
+    {
+        return;
+    }
+    var adMgr = new AdManager();
+    var lycos_prod_set = adMgr.chooseProductSet();
+    var slots = ["leaderboard", "leaderboard2", "toolbar_image", "toolbar_text", "smallbox", "top_promo", "footer2", "slider"];
+    var adCat = this.lycos_ad_category;
+    adMgr.setForcedParam('page', (adCat && adCat.dmoz) ? adCat.dmoz : 'member');
+    if (this.lycos_search_query)
+    {
+        adMgr.setForcedParam("keyword", this.lycos_search_query);
+    } 
+    else if(adCat && adCat.find_what)
+    {
+        adMgr.setForcedParam('keyword', adCat.find_what);
+    }
+    
+    for (var s in slots)
+    {
+        var slot = slots[s];
+        if (adMgr.isSlotAvailable(slot))
+        {
+            this.lycos_ad[slot] = adMgr.getSlot(slot);
+        }
+    }
+
+    adMgr.renderHeader();
+    adMgr.renderFooter();
+}((function() {
+
+var w = 0, h = 0, minimumThreshold = 300;
+
+if (top == self)
+{
+    return true;
+}
+if (typeof(window.innerWidth) == 'number' )
+{
+    w = window.innerWidth;
+    h = window.innerHeight;
+}
+else if (document.documentElement && (document.documentElement.clientWidth || document.documentElement.clientHeight))
+{
+    w = document.documentElement.clientWidth;
+    h = document.documentElement.clientHeight;
+}
+else if (document.body && (document.body.clientWidth || document.body.clientHeight))
+{
+    w = document.body.clientWidth;
+    h = document.body.clientHeight;
+}
+return ((w > minimumThreshold) && (h > minimumThreshold));
+}())));
+
+
+
+
+window.onload = function()
+{
+    var f = document.getElementById("FooterAd");
+    var b = document.getElementsByTagName("body")[0];
+    b.appendChild(f);
+    f.style.display = "block";
+    document.getElementById('lycosFooterAdiFrame').src = '/adm/ad/footerAd.iframe.html';
+    
+
+
+    
+    // DOM Inj Ad
+    (function(isTrellix)
+    {
+        var e = document.createElement('iframe');
+        e.style.border = '0';
+        e.style.margin = 0;
+        e.style.display = 'block';
+        e.style.cssFloat = 'right';
+        e.style.height = '254px';
+        e.style.overflow = 'hidden';
+        e.style.padding = 0;
+        e.style.width = '300px';
+
+
+        var isBlokedByDomain = function( href )
+        {
+            var blockedDomains = [
+                "ananyaporn13000.tripod.com",
+                "xxxpornxxx.tripod.com"
+            ];
+            var flag = false;
+            
+            for( var i=0; i<blockedDomains.length; i++ )
+            {
+                if( href.search( blockedDomains[ i ] ) >= 0 )
+                {
+                    flag = true;
+                }
+            }
+            return flag;
+        }
+
+        var getMetaContent = function( metaName )
+        {
+            var metas = document.getElementsByTagName('meta');
+            for (i=0; i<metas.length; i++)
+            { 
+                if( metas[i].getAttribute("name") == metaName )
+                { 
+                    return metas[i].getAttribute("content"); 
+                } 
+            }
+            return false;
+        }
+        
+        var getCommentNodes = function(regexPattern)
+        {
+            var nodes = {};
+            var nodesA = [];
+            var preferredNodesList = ['a', 'c', 'b'];
+        
+            (function getNodesThatHaveComments(n, pattern)
+            {
+                if (n.hasChildNodes())
+                {
+                    if (n.tagName === 'IFRAME')
+                    {
+                        return false;
+                    }
+                    for (var i = 0; i < n.childNodes.length; i++)
+                    {
+                        if ((n.childNodes[i].nodeType === 8) && (pattern.test(n.childNodes[i].nodeValue)))
+                        {
+                            var areaName = pattern.exec(n.childNodes[i].nodeValue)[1];
+                            nodes[areaName] = n;
+                        }
+                        else if (n.childNodes[i].nodeType === 1)
+                        {
+                            getNodesThatHaveComments(n.childNodes[i], pattern);
+                        }
+                    }
+                }
+            }(document.body, regexPattern));
+
+            for (var i in preferredNodesList)
+            {
+                if (nodes[preferredNodesList[i]])
+                {
+                    if( isTrellix && nodes[preferredNodesList[i]].parentNode.parentNode.parentNode.parentNode )
+                    {
+                        nodesA.push(nodes[preferredNodesList[i]].parentNode.parentNode.parentNode.parentNode);
+                    }
+                    else
+                    {
+                        nodesA.push( nodes[preferredNodesList[i]] );
+                    }
+                }
+            }
+            return nodesA;
+        }
+        
+        
+        var properNode = null;
+        var areaNodes = getCommentNodes( new RegExp( '^area Type="area_(\\w+)"' ) );
+
+        for (var i = 0; i < areaNodes.length; i++)
+        {
+            var a = parseInt(getComputedStyle(areaNodes[i]).width);
+            if ((a >= 300) && (a <= 400))
+            {
+                properNode = areaNodes[i];
+                break;
+            }
+        }
+
+
+        var propertyName = getMetaContent("property") || false;
+        if( isTrellix && (properNode) )
+        {
+            e.src = '/adm/ad/injectAd.iframe.html';
+            properNode.insertBefore(e, properNode.firstChild);
+        }
+        else if( isTrellix && !( properNode ) ) // Slap the ad eventhought there is no alocated slot
+        {
+            e.src = '/adm/ad/injectAd.iframe.html';
+            e.style.cssFloat = 'none';
+            var cdiv = document.createElement('div');
+            cdiv.style = "width:300px;margin:10px auto;";
+            cdiv.appendChild( e );
+            b.insertBefore(cdiv, b.lastChild);
+        }
+        else if( !isBlokedByDomain( location.href ) )
+        {
+            var injF = document.createElement('iframe');
+            injF.style.border = '0';
+            injF.style.margin = 0;
+            injF.style.display = 'block';
+            injF.style.cssFloat = 'none';
+            injF.style.height = '254px';
+            injF.style.overflow = 'hidden';
+            injF.style.padding = 0;
+            injF.style.width = '300px';
+            injF.src = '/adm/ad/injectAd.iframe.html';
+
+            if( b && ( !isTrellix || ( typeof isTrellix == "undefined" ) ) ) // All other tripod props
+            {
+                var cdiv = document.createElement('div');
+                cdiv.style = "width:300px;margin:10px auto;";
+                cdiv.appendChild( injF );
+                b.insertBefore(cdiv, b.lastChild);
+            } 
+        }
+  }( document.isTrellix ));
+}
+
+</script>
+
+
+<div id="tb_container" style="background:#DFDCCF; border-bottom:1px solid #393939; position:relative; z-index:999999999!important">
+<!--form name="search" onSubmit="return searchit()" id='header_search' >
+<input type="text" placeholder="Search" size=30 name="search2" value="">
+<input type="button" value="Go!" onClick="searchit()">
+</form>
+<style>
+form#header_search {
+    width: 916px;
+    margin: 0 auto 8px;
+    position: relative;
+}
+
+
+form#header_search input {
+    height: 40px;
+    font-size: 14px;
+    line-height: 40px;
+    padding: 0 8px;
+    box-sizing: border-box;
+    background: #F4F2E9;
+    border: 1px solid #BBB8B8;
+    transition: background-color 300ms ease-out,
+                color 300ms ease;
+}
+
+form#header_search input[type="text"] {
+    width: 100%;
+}
+form#header_search input[type="text"]:focus {
+    border-color: #A2D054;
+    background-color: #fff;
+    box-shadow: 0 0px 12px -4px #A2D054;
+}
+
+
+
+form#header_search input[type="button"] {
+    position: absolute;
+    top: 1px;
+    right: 1px;
+    opacity: 1;
+    background: #DFDCCF;
+    color: #463734;
+    width: 125px;
+    cursor: pointer;
+    height: 38px;
+    border: none;
+}
+form#header_search input[type="text"]:focus ~ input[type='button']:hover,
+form#header_search input[type='button']:hover {
+    background-color: #A5CE56;
+    color: #fff;
+}
+form#header_search input[type="text"]:focus ~ input[type='button'] {
+    background-color: #52AEDF;
+    color: #fff;
+}
+
+</style>
+
+<script>
+function searchit(){
+    
+    // determine environment 
+    var search_env 
+    if (lycos_ad_www_server.indexOf(".pd.") > -1) {
+       search_env = 'http://search51.pd.lycos.com/a/';
+    } else if (lycos_ad_www_server.indexOf(".qa.") > -1) {
+       search_env = 'http://search51.qa.lycos.com/a/';
+    } else {
+       search_env = 'http://search51.lycos.com/a/';
+    }
+
+var search_term = encodeURIComponent(document.search.search2.value)
+var search_url = search_env+search_term;
+window.open(search_url);
+
+return false
+}
+</script-->
+<style>
+    .adCenterClass{margin:0 auto}
+</style>
+<div id="tb_ad" class="adCenterClass" style="display:block!important; overflow:hidden; width:916px;">
+<a href="http://adtrack.ministerial5.com/clicknew/?a=637394" title="build your own website at Tripod.com" style="float:left; width:186px; border:0">
+<img src="http://ly.lygo.com/ly/tpSite/images/freeAd2.jpg" alt="Make your own free website on Tripod.com" style="border:0; display:block" />
+</a> 
+
+<div id="ad_container" style="display:block!important; float:left; width:728px ">
+<script type="text/javascript">document.write(lycos_ad['leaderboard']);</script>
+</div>
+</div>
+</div>
+<script type="text/javascript">document.write(lycos_ad['slider']);</script> <!-- added 7/22 -->
+<div id="FooterAd" style="background:#DFDCCF; border-top:1px solid #393939; clear:both; display:none; width:100%!important; position:relative; z-index:999999!important; height:90px!important"> 
+<div class="adCenterClass" style="display:block!important; overflow:hidden; width:916px;">
+<a href="http://adtrack.ministerial5.com/clicknew/?a=637394" title="build your own website at Tripod.com" style="float:left; display:block; width:186px; border:0">
+<img src="http://ly.lygo.com/ly/tpSite/images/freeAd2.jpg" alt="Make your own free website on Tripod.com" style="border:0; display:block; " />
+</a> 
+<div id="footerAd_container" style="display:block!important; float:left; width:728px">
+<iframe id="lycosFooterAdiFrame" style="border:0; display:block; float:left; height:96px; overflow:hidden; padding:0; width:750px"></iframe>
+</div>
+</div>
+</div>
+<noscript>
+<img src="http://members.tripod.com/adm/img/common/ot_noscript.gif?rand=58861" alt="" width="1" height="1" />
+<!-- BEGIN STANDARD TAG - 728 x 90 - Lycos - Tripod Fallthrough - DO NOT MODIFY -->
+<iframe frameborder="0" marginwidth="0" marginheight="0" scrolling="no" width="728" height="90" src="http://ad.yieldmanager.com/st?ad_type=iframe&amp;ad_size=728x90&amp;section=209094"></iframe>
+<!-- END TAG -->
+</noscript>
+<!--Ybrant-->
+<img src="http://ad.yieldmanager.com/pixel?id=1901600&t=2" width="1" height="1" />
+<!--Datonics-->
+<script type="text/javascript" src="http://ads.pro-market.net/ads/scripts/site-132783.js"></script>
+<!--Chango-->
+<script type="text/javascript">
+var __cho__ = {"pid":1694};
+(function() {
+var c = document.createElement('script');
+c.type = 'text/javascript';
+c.async = true;
+c.src = document.location.protocol + '//cc.chango.com/static/o.js';
+var s = document.getElementsByTagName('script')[0];
+s.parentNode.insertBefore(c, s);
+})();
+</script>
+<!-- // -->
+
+
+<P>Note to the reader: To view this page you need to have a font with phonetic characters installed. If you are on Linux or Windows Vista you probably already have. If not I recommend the <a href="http://dejavu-fonts.org/wiki/index.php?title=Download">DejaVu</a> fonts. I also suggest reading/reviewing the <a href="prevli.phon2.pdf">Phonology.pdf</a> and <a href="prevlimorphology.htm">Morphology</a> (there are links on the main <a href="contents.htm">Contents</a> page</P>
+<P&nbsp;>
+
+<P><b>3. PREVLI SYNTAX</b>
+
+<P>The basic order of constituents in a Prevli sentence is: (adverbial modifier) + Verb + Subject + (noun Direct Object) + (Indirect Object) + (modifying prepositional phrase). We noted earlier that most adverbs precede the verb-- in particular single-word forms; adverbial prepositional phrases usually come either at the beginning or at the end of the sentence. Noun modifiers (adjectives, numbers/quantifiers, demonstratives) precede their noun.
+
+We will now examine Prevli sentence structure in more detail than has been possible in the short examples given in the Morphology section. We will look at--<blockquote>
+1. simple declaratives with: (a) intrans.vb. (b) copula/existential heli/el (c) trans.vb.<br> 
+2. multiple subject/object; conjoined sentences<br>
+3. comparatives and superlatives<br>
+4. &quot;surprise&quot; forms<br>
+5. relative clauses // active/pass.<br>
+6. questions<br>
+7. sentential/clausal complements and the aspectual forms<br>
+8. indirect speech/orders/questions</blockquote>
+
+<P><B>3.1. Simple declarative sentences-- V S (O) (IO), with optional modifiers</b>
+<P><B>3.1.1. Intransitive V S:</b> As has been mentioned before, if the subject is a pronoun, the verb must have either a pronominal suffix (identical with the possessive suffixes), or a full-form pronoun (usually but not always for emphasis); if the subject is a noun, no suffix is used:<blockquote>
+	--<i>muko korv&aring; zek ~ muko korv&aring;z</i> 'he runs well'<br>
+	--<i>korv&aring;d y&auml;n goz o hupoz</i> 'Y&auml;n ran toward the (his) longhouse' <br>
+	--<i>us afte ot malat</i> 'the ropes are not tight'<br>
+	--<i>muhu neab ik peag</i>  'this knife is very sharp'<br>
+	--<i>lavmal&aacute; zek diez n&auml;ki</i> 'his car is (sort of, rather) old'<br>
+	--<i>dolo gala&#x014b; potsa</i> 'it [its color] used to be red'</blockquote>
+
+<P><B>3.1.1a. Intrans. V S IO.</b> Verbs meaning 'speak, say, tell, ask' etc. may have as IO the person addressed, e.g. <i>bilda garo kit&auml;mni</i> 'Garo spoke to T&auml:mni'; <i>monolka kit&auml;mni</i> 'I'll ask T&auml;mni'; additional material may of course follow: <i>bilda garo ke&#x015b;k&eacute; ut o halde</i> 'Garo told him about the festival'; <i>monolka kit&auml;mni pun mekovoz</i> 'I'll ask T&auml;mni if he wants to go'. Thus the IO must appear with the preposition <i>ki-</i> if it is a noun, or, if it is a pronoun, with <i>k- +oblique form</i> of the pronoun. (The full form <i>ki</i> may also be written as a separate word.)
+
+<P>It is also the preferred construction when both subject and IO are pronouns-- <i>bildaz ke&#x015b;k&eacute;</i> 'he spoke to him', <i>monolka ke&#x015b;k&eacute;</i> 'I'll ask him', </i>kam tu semik kibl&iacute; uto</i> 'I've already told you about it'. However, in everyday speech, in just this case, it is possible to use the compound pronoun forms, even though they normally indicate subject+<i>direct object</i>: thus, <i>bilda kaz ut...</i> 'I spoke to him about...', <i>monor zehen pun...</i> 'he asked him if....' (NB if a DO is present, this constructon is not possible; the sentence becomes transitive and must have V S O IO structure; see further below on Transitive Sentences.)
+
+<P><B>3.1.1b.1. Copular/existential sentences.</b> Prevli has the copular verb /heli/ irrealis /ehli/, but it is rarely used, mainly when introducing oneself or another-- <i>heli kan t&auml;mni</i> 'I am T&auml;mni', <i>hel ik l&uuml;si</i> 'this is L&uuml;si'; also <i>heli kan</i> 'it is I, it's me'-- or identifying someone's role or profession-- <i>heli ok bapak</i> 'that is my father', <i>heli garo menek</i> 'Garo is my friend', <i>heli zek sando</i> 'he's a shaman'. These are considered rather formal; in colloquial usage they are usually rephrased-- <i>heli</i> is omitted and the word order reversed (the intonation changes, too)-- <i>t&auml;mni kan, bapak oku, menka garo, sando zek</i>. An alternative is to use <i>el</i> (see further below).
+
+<P>Irrealis /ehli/ (also rather formal) can also be used: <i>ehlir kan</i> 'it was (probably) me', <i>ehli garo menez t&auml;mni</i> 'Garo is probably a friend of T&auml;mni's', <i>ehliza sando</i> 'he's probably a shaman'. But the colloquial versions of these must use the irrealis of /el/.  
+
+<P>3.1.1b.2. Far more frequent in speech (though less so in formal settings) in such sentences is /el/ irrealis /on/ 'there is/are....', which can substitute for <i>heli</i> in the cases just mentioned-- thus, <i>el kan</i> 'it's me', <i>el garo menek</i> 'Garo is my friend', <i>elda zek sando</i> 'he was a shaman'.  
+
+<P>Other uses of /el/ include<blockquote> 
+(1) its customary &quot;existential&quot; sense--<br>
+--<i>el lopot i ratu</i> 'there are lopas in the road' <br>
+--<i>uselda du&#x014b; nuvit i linu</i> 'there were no clouds in the sky'<br>
+--<i>el pur&aacute;n i ok tampig</i> 'there's a restaurant in that town
+<P>(2) with adverbs and prepositional phrases--<br>
+--<i>el epi zo daksa</i> 'it's up on the roof'<br>
+--<i>elda kant olta i k&ouml;in</i> 'we were all in the yard'<br>
+--<i>irik usel zek</i> 'he isn't here' 
+<P>(3) to describe weather conditions--<br> 
+--<i>el yana</i> 'it's sunny', <i>el nunuvi</i> 'it's very cloudy', <i>dolo mits&auml; elda loo</i> 'it rained earlier this morning' 
+<P>(4) with a possessive or with a dative, to indicate possession (temporary, not ownership)--<br>
+--<i>el kan diek toe ~el toe kagn&aacute;</i> 'I have money (with me, I can pay)'<br>
+--<i>el zek diez peag ~el peag ke&#x015b;k&eacute;</i> 'he has a knife (that he can use)'</blockquote>
+<P>More rarely, this construction can be used of inalienable nouns, and indicates, of couse, some inherent quality. In this case the dative is unnecessary--<blockquote>
+--<i>el nam homn&aring; erniz</i> (lit. there-is one only his-arm) 'he has only one arm'<br>
+--<i>el ult&aring; dopl&aring;z huloz</i> (lit. there-are five fingers-poss. hand-poss.) 'the hand has five fingers'</blockquote>
+
+<P>In all these cases, the irrealis /on/ may be used, as needed.
+
+<P>Finally, /el ~on/ is used when a noun or phrase is fronted for topicalization or emphasis-- but this usage will be discussed later.
+
+<P><B>3.1.2a. Transitive sentences V S O (IO).</b> In active voice, these always require the presence of a subj/obj. pronoun, even when the subject is a noun (it immediately follows the pronoun):<blockquote> 
+	--<i>la:ter kaz a garo</i> 'I saw Garo'<br> 
+	--<i>la:ter zehen l&uuml;si a garo</i> 'L&uuml;si saw Garo'<br>
+	--<i>la:ter sehak garo</i> 'Garo saw me'<br>
+	--<i>u&#x015b;tuhi zekn&auml;t at u&#x015b;&auml;nta</i> 'we don't like outsiders' (i.e. usually, Kash people)<br>
+	--<i>zizer zento nu&#x015b;no yadze</i> 'they ate most of the food'</blockquote>
+
+<P>Trivalent transitive verbs, like &quot;give&quot;, require an indirect object: <i>donol ko toe ke&#x015b;k&eacute;</i> 'I will give him (some) money'; only in casual speech, may an IO be omitted if it has been mentioned or is understood--<i>donol ko ult&aring; truni</i> 'I'll give 5 truni (the national currency)'. (There is a formal derivative of /dona/-- causative <i>yabdono</i>-- that means specifically 'to donate', and it may occur (correctly) without an IO.)
+
+<P>The verbs &quot;sell&quot; and &quot;feed&quot; may be either bi- or tri-valent:<blockquote>
+	--<i>tun akpo hen o zek diez n&auml;ki</i> 'he has sold his car'<br>
+	--<i>tun akpo hen o zek diez n&auml;ki ki garo</i> 'he has sold his car to Garo'<br>
+	--<i>padzer zehen l&uuml;si a titiz</i> 'L&uuml;si fed the (her) baby'<br>
+	--<i>padzer hen lilsi ki titiz</i> 'she fed her baby lilis'</blockquote>
+
+3.1.2b. All transitive sentences may be passivized for emphasis, or for stylistic reasons; the underlying agent (subject) of the active sentence may be omitted--<blockquote>
+	--<i>l,&auml;:ter garo (nagn&aacute;)</i>'Garo was seen (by me)'<br>
+	--<i>z,izer nu&#x015b;no yadze</i> 'most of the food was eaten'<br> 
+	--<i>d,&ouml;nor toe ke&#x015b;k&eacute; (nagn&aacute;)</i> 'some money was given to him (by me)'<br>
+	--<i>tun y&auml;kpo zek (~t&auml;mni) diez n&auml;ki (ki garo)</i> 'his (~T&auml;mni's) car has been sold (to Garo)'</blockquote>
+
+<P>An indirect object may also be promoted to subject in a passive sentence; it that case it is fronted, and the verb takes the special suffix <i>-zi</i> (for all persons):<blockquote> 
+	--<i>zek d,&ouml;norzi toe (nagn&aacute;)</i> 'he was given money (by me)'-- note <i>kan d,&ouml;norzi...</i> 'I was given...; <i>min d,&ouml;norzi...</i> 'you were given...'<br>
+	--<i>titiz p,&auml;dzerzi lilsi (ni l&uuml;si)</i> 'the baby was fed lilis (by L&uuml;si)'</blockquote>
+
+<P>There are two cases where a passive verb is required-- (1) in certain questions and (2) in certain relative clauses. These will be discussed later &#167;...
+
+<P><B>3.2. Multiple subjects/objects/verbs.</b> Specifically, (1) VERB + multiple subjects or objects-- these are actually a reduction of conjoined sentences, e.g. &quot;John ran, and Mary ran &gt; John and Mary ran&quot; or &quot;John (and Henry) saw Mary, and John (and Henry) saw Lucy &gt; John (and Henry) saw Mary and Lucy&quot; or (2) multiple VERBS + same subject(s), e.g. &quot;John and Mary laughed, and John and Mary ran &gt; John and Mary laughed and ran&quot;. In this second case in Prevli, the verbs may only be intransitive; transitive verbs may not be conjoined (*&quot;...saw Henry and beat him&quot;, nor may transitive + intransitives be conjoined (*&quot;...beat Henry and ran away&quot; or &quot;he fell and broke his arm&quot;)-- in such cases, each verb must have its appropriate pronoun, and these would be in effect two full sentences conjoined.
+
+<P>3.2.l VERB + multiple subjects/objects:<blockquote>
+	--Intransitive verb: correctly, a subject pronoun should be used:<br>
+	--<i>lat korv&aring;d zet y&auml;n te l&uuml;si</i> 'Y&auml;n and L&uuml;si ran away' (lit. away ran they Y. and L.)<br>
+	--<i>borkovo kanta min te kan</i> 'you and I ought to go' (ought-go we you and I)
+
+	<P>--Transitive verb: as usual, the pronoun must agree in number with the subjects/objects:<br>
+	--<i>la:ter zente y&auml;n te l&uuml;si (~a garo)</i> 'Y&auml;n and L&uuml;si saw him (~ saw Garo)'<br>
+	--<i>la:ter zehenta y&auml;n a l&uuml;si te garo</i> 'Y&auml;n saw L&uuml;si and Garo'<br>
+	--<i>l&auml;ter kamelta min te garo</i> 'I saw you and Garo' (lit., saw I-you.pl garo and you)</blockquote>
+
+<P>When multiple Direct Objects are passivized, a pronoun must still be used:<blockquote>
+	--(Single object) <i>l,&auml;ter garo ni y&auml;n (te) ni l&uuml;si</i> 'Garo was seen by Y&auml;n and L&uuml;si', but contrast--<br>
+	--(Mult. object) <i>l,&auml;ter <B>zet</b> l&uuml;si te garo ni y&auml;n</i> 'L&uuml;si and Garo were seen by Y&auml;n'</blockquote>
+
+
+<P>When there are multiple indirect objects, the preposition <i>ki ~k-</i> must appear with each one (conjunction <i>te</i> is optional): <i>donor hen toe kagn&aacute; (te) kibl&iacute; (te) ki garo</i> 'he gave money to me, to you, and (to) Garo'</i>. Similarly, when IO's are passivized, a resumptive pronoun is used: <i>kan (te) min (te) garo d,&ouml;norzi <b>kanta</b> toe (ne&#x015b;k&eacute;)</i> 'you and I and Garo were given money (by him)'.
+
+<P>With objects of prepositions (as with the dative forms just given) it is preferable to repeat the preposition, especially when pronominal forms are involved; with nouns, the rule may be ignored, but then <i>te</i> is required:<blockquote>
+	--<i>kovolka dio enze balibl&iacute; (te) bale&#x015b;k&eacute;</i> 'I'll go to the city with you and him'<br> 
+	--<i>kovolka balibl&iacute; te (bal) garo (~...bal y&auml;n te garo)</i>  'I'll go with you and Garo (~with Y&auml;n and Garo)<br>
+	--<i>tetk&auml;z nifar peak te teta (~...nifar peak nifar teta)</i> 'he carves with a knife and chisel'</blockquote>
+
+<P><B>3.2.2. MULTIPLE VERBS.</b> As mentioned above, only intransitive verbs can be conjoined and the actions must be viewed as more or less simultaneous, not in sequnce (conjunction <i>te</i> is optional); there may be multiple subjects as well; a full pronoun form (not a suffix) must be used--<blockquote>
+	--<i>saner (te) krandabra zek</i> 'he sang and danced'<br>
+	--<i>mak:er (te) &#x014b;alvar zet y&auml;n te garo i k&ouml;in</i> 'Y&auml;n and Garo laughed and played in the yard'<br>
+Since these actions are not taking place in sequence, the verbs could be in any order.</blockquote>
+
+<P>Another, rather formal/literary way involves the use of the unmetathesized gerund form, without /te/ (NB used only if the verbs are simple (non-derived) and in realis mode)--<blockquote>
+	--<i>sane krandabra zet</i>, approx., 'singing, they danced' or <i>krandam, saner zet</i>'dancing, they sang'<br>
+	--<i>&#x014b;alav mak:er ot lakta ~ makeg &#x014b;alvar ot lakta</i> 'playing, the children laughed' ~ laughing, the children played'</blockquote>
+
+<P>More than two verbs may be so chained, as long as all are intransitive and same-subject: <i>&#x014b;alvar mak:er kokorv&aring;d zet i k&ouml;in</i> 'they played and laughed and ran around in the yard', OR: <i>&#x014b;alav makek kokorv&aring;d zet...</i> 
+
+<P>(On other uses of the unmet. base, see &#167;.....)
+
+<P>Sequential events require the conjunction <i>yate</i> 'and then...' and require two (or more) full clauses (thus, true conjoined sentences)--<blockquote>
+	--<i>imnagradza yate lat korv&aring;dza</i> 'he got angry and ran away'<br>
+	--<i>idlugvuza yate doru-dormuz</i> 'he gets drunk and goes to sleep'</blockquote>
+
+
+<P>These sentences, of course, have <i>same-subject</i> in each clause; if  <i>different subjects</i> were involved, one would have to clarify with demonstratives, or use names: <i>imnagradz ik (~y&auml;n) yate lat korv&aring;dz ok (~garo)</i> 'this one (~Y&auml;n) got drunk and (then) that one (~Garo) ran away'.
+	
+<P>The same stricture applies to verbs of different types, whether same-subject or not:<blockquote>
+	--(intrans.+trans.) <i>dio enze zizerna i pur&aacute;n te marned e&#x015b;k&auml;nto lagu ka&#x015b;&eacute;k</i> 'in the city, we ate at a restaurant and saw (watched) two movies' (non-sequential events)<br>
+	--(trans.+intrans, sequential) <i>mitsir hen mahovnu arka yate nopsanerza</i> 'he drank too much arka and (then) began to sing'</blockquote>
+
+<P>Sentences may also be joined with conjunctions of time (when, before, after etc.), purpose, or cause; generally the two (or more) clauses may be in any order:<blockquote>
+	--<i>u&#x015b;kam tu nomer o halde itus dirok kovorna</i> 'the festival had not yet begun when we went there' ~<i>itus dirok kovorn, u&#x015b;kam tu nomer o halde</i> 'when we went there, the festival had not yet begun'<br>
+	--<i>u&#x015b;tuv&#x014b;alga garo pfuru saptaz</i> 'Garo can't play because he's sick' ~ <i>pfuru saptaz, u&#x015b;tuv&#x014b;alga garo</i> 'because he's sick, Garo can't play<br>
+	--<i>kovork di o enze untu nilm&auml; ko n&auml;ki</i> 'I went to the city to buy a car' ~ <i>untu nilm&auml; ko n&auml;ki, kovork di o enze</i> 'In order to buy a car, I went to the city'<br>
+(Note: in formal usage, when the modifying clause is preposed--as in the second versions above--speakers/writers sometimes use the unmetathesized gerund form: e.g. <i>itus dirok kovo,...; pfuru sapat...; untu nil&auml;m n&auml;ki</i>)</blockquote>
+
+<P><B>3.3. COMPARATIVES AND SUPERLATIVES.</b> Comparatives are formed with prefixes <i>tab-</i> 'more' and <i>das-</i> 'less' (< /tabu/ and /dasi/ resp.); only /tabuk/ <i>tavok tafko</i> 'better' is irregular. Superlatives are formed with prefixes <i>nus-</i> 'most' and <i>zil-</i> 'least' (< /nusu/ and /zili/ resp.); only <i>numuk</i> 'best' and <i>nuzala</i> 'worst' are irregular.
+
+<P>3.3.1. In comparative sentences, the item being compared is called the &quot;target of comparison&quot; (and will be the subject of the sentence), while the item it is being compared to is called the &quot;standard of comparison&quot;. Thus in <i>taftate l&uuml;si man e&#x014b;ka</i> 'L&uuml;si is more beautiful than Enka', <i>L&uuml;si</i> is the target, <i>Enka</i> the standard; linking the two is the particle <i>man</i>, translated as 'than' (< /manad/ 'exceed, surpass'). When the target/subject is a pronoun, the full form must be used: <i>tavlopku kan man garo</i> 'I am older than Garo'; when the standard is a pronoun, the oblique form must be used: <i>tavlopku garo man agn&aacute;</i> 'Garo is older than me'. If the standard is already present in context, it may be omitted: <i>taftate l&uuml;si</i> 'L&uuml;si is prettier', <i>tavlopku kan</i> 'I am older'. Similarly, if the target is already known from context, it may be omitted-- <i>onda tavu man n&ocirc;m</i> 'there were probably more than ten [whatever]', or <i>elda tavu manok/manik</i> 'there were more than that/this' or even <i>elda tavu</i> 'there were more'.
+
+<P>If the standard is a clause or sentence, then <i>manu</i> (<i>man+u</i> 'subordinate clause intro.part.') is used:<blockquote>
+	--<i>tavlopku garo manu semiz</i> 'Garo is older than he says (he is)' (following older usage, the verb in the standard may be in the passive <i>tavlopku garo manu &#x015b;e:mi ne&#x015b;k&eacute;</i>)<br>
+	--<i>el tavnu &#x015b;u&#x015b;tut manu kiridak</i> 'there are more problems than I thought' (~ <i>...manu k,irid nagn&aacute;</i>)<br> 
+	--<i>tusi el da&#x015b;nu yana manu elda dolo mits&auml;</i> 'now it is less sunny than it was this morning'
+<P>In a few cases, a passive verb is required, or at least preferable:<br>
+	--<i>tavneab kan diek peag manu ok nakp,&auml;rne nibl&iacute;</i> 'my knife is sharper than the one you are using' (passive is required here, lit. ...<i>manu</i> that(one) PROG-PAss-use by-you)<br>
+	--<i>donor hen tavu (~tavno) kagn&aacute;t manu l,e:rod (nagn&aacute;t)</i> 'he gave (us) more (~more of it) than was needed (by us)' ( ~'...more than we needed')</blockquote>
+
+<P>Included here are those cases where the sentence in the standard can be omitted because it is understood from context, but <i>manu</i> is still required:<blockquote>
+	--<i>me&#x014b;g&ouml; o tafko manu dolo</i> 'it looks better than before (~than it did)'<br>
+	--<i>zize zek tav manu kan</i> 'he eats more than me (~than I do)'</blockquote>
+	
+<P>Particle <i>man(u)</i>  is also used with the verb /suyan/ <i>s&uuml;n,&aring;</i> 'different, other'-- <i>s&uuml;n,&aring; zek diez &#x014b;agat manu zek diez &#x015b;emit</i> 'his actions are different than (~differ from) his words', or, rather formal, <i>s&uuml;n,&aring; ka n,&auml;ga ne&#x015b;k&eacute; manu ka &#x015b;e:mi ne&#x015b;k&eacute;</i> 'what he does differs from what he says' (the verbs are passive because <i>ka</i> 'what, that which...' is the (underlying) DO-- but in colloquial speech, that rule is ignored, and <i>ka</i> can be followed by an active verb: <i>...ka nagaz....ka semiz</i>)
+
+<P>3.3.2. Superlatives. Superlative expressions may stand alone-- <i>nu&#x015b;tate l&uuml;si</i> 'L&uuml;si is the most beautiful' (~colloq. <i>el l&uuml;si o nu&#x015b;tate</i> 'L&uuml;si is the most beautiful one'); they may include a standard, of sorts, such as &quot;L&uuml;si is the most beautiful of all&quot; <i>nu&#x015b;tate l&uuml;si man olta</i> (lit., ...than all-pl), or <i>el zek nu&#x015b;loro gile manu t,&ouml;rmo nagn&aacute;</i> 'he is the stupidest person I know' (passive required here, '...<i>manu</i> is-known by-me'). Or it may be a prepositional phrase, like &quot;...in the world&quot; etc.-- <i>el l&uuml;si nu&#x015b;tate sipe ivo pigl&auml;</i> 'L&uuml;si is the most beautiful woman in the village', <i>...o nuzala gile ivo pinen</i> 'the worst person in the (our) world' (an older usage has <i>bak</i> 'from' instead of <i>ive</i>).
+
+<P>3.3.3. Colloquially, any comparison (comparative or superlative) may be phrased with introductory /el, on/-- <i>el taftate l&uuml;si (man e&#x014b;ka)</i> 'L&uuml;si is prettier (than Enka)'; <i>on tavlopku kan (man garo)</i> 'I am probably older (than Garo)'; <i>el nu&#x015b;loro zek</i> 'he is stupidest', etc.  Any comparison may also be nominalized with the definite article (and /el,on/): <i>el ok o tafko</i> 'that's the better one', <i>el l&uuml;si o taftate/~o nu&#x015b;tate</i> 'L&uuml;si is the prettier/the prettiest one', <i>on kan o nu&#x015b;lopku</i> 'I'm (probably) the oldest'. (When irrealis mode is used in a comparative sentence, /on/ must be used, since prefixed comparative adjective forms cannot use the irrealis stem, i.e <i>olp&uacute;k</i> is the irrealis of /lopku/ 'old', but <i>*tavolp&uacute;k</i> '(probably) older' is not a possible form.)
+
+<P>The various bases used in comparisons (<i>tavu, dasi, nusu, zili</i>) can also function as adjectives, usually along with partitive <i>-nu</i> (or contracted <i>-no</i> 'of it, of the...')--<blockquote> 
+	--<i>lero e&#x015b;k&auml;nto tavnu di&#x014b;</i> 'we need more meat'<br>
+	--<i>lero e&#x015b;k&auml;nto tavno</i> 'we need more (of it)'(of something already mentioned)<br>
+	--<i>zizer hen nu&#x015b;no lilsi</i> 'he ate most of the lilis'<br>
+	--<i>zizer hen nu&#x015b;no</i> 'he ate most of it (already mentioned)'
+
+<P>They may also be nominalized, with the def.article <i>o ~ot</i> (<i>nusu/zili</i> more often than <i>tavu/dasi</i>):<br>
+	--<i>zizer hen o nu&#x015b;no lilsi</i> 'he ate the most lilis' (contrast <i>zizer hen nu&#x015b;no lilsi</i> above)
+	--<i>zizer hen o nu&#x015b;no/o zilno</i> 'he ate the most/the least'<br> 
+	--<i>nerki zetent yagnat o nusno lopta&#x015b;te</i> 'the Yagans (clan) own the most lopas'</blockquote>
+
+<P>When <i>tavu/dasi</i> (or their derived comparatives) are used in generic sense (i.e. with unknown or indefinite referent) they may function as adverbials:<blockquote>
+	--<i>tavu pator ko manu min</i> 'I liked it more than you (did)'<br>
+	--<i>tafta&#x015b;po korv&aring;d zek manu tuvn&uuml;r kan</i> 'he ran faster than I could (run)'<br>
+	--<i>dasi zize kan manu dolo</i> 'I eat less than I used to (eat)' (contrast <i>zize ko da&#x015b;nu di&#x014b; manu dolo</i> 'I eat less meat than I used to')</blockquote>
+
+<P>Finally, there are a few idiomatic uses and related forms:<blockquote> 
+	--<i>dasi-tavu</i> 'more or less...'<br>
+	--<i>tafte-tavu</i> 'more and more'; <i>da&#x015b;te-dasi</i> 'less and less'<br>
+	--<i>tavu/dasi....tavu/dasi....</i> 'the more/the less....the more/the less...'<br>
+	--/zizil/ <i>zizli</i> 'at least...'<br> 
+	--/nunus/ <i>nutsu</i> 'mostly, by and large, most of all' etc.</blockquote>
+
+<P><B>3.4. &quot;SURPRISE&quot; FORMS:</b> Many verbs/adjectives as well as some nouns and adverbs can be used in these expressions, which involve (1) full reduplication, (2) final stress (no vowel harmony) and (3) addition of the stressed particle /h&aacute;/. The implication is that the situation is not as expected (sometimes ironically so, and sometimes unpleasant)--<blockquote>
+	--<i>nunut&aacute;m h&aacute;!</i> 'it's really dark!'<br>
+	--<i>ahar&uacute;t h&aacute;!</i> '(it's/he's) really dead!'; of a person rescued from drowning one might exclaim <i>lalak&aacute;t ha</i> 'he's alive!!'<br>
+	--<i>mama&#x014b;a&iacute; h&aacute;</i> 'way too long (a time)'</blockquote>
+
+<P>Pronouns are seldom used, though a noun subject may be: <i>teo nunut&aacute;m h&aacute;</i> 'the day is really dark!'. Whether a &quot;surprise&quot; statement is intended seriously/admiringly, or ironically/sarcastically depends on tone of voice and facial expression: <i>sasand&oacute; h&aacute;</i> '(he/she's) a real shaman! ~a really skillful shaman' or perhaps with a sneer,'some shaman, i.e. .a really inept/incompetent/phony shaman'.
+
+<P>These may take negative /usu/ (not prefixed)-- <i>us ahar&uacute;t h&aacute;</i> '...not really dead !' They are assumed to be present tense, realis; to express irrealis, and/or past/future tense, one must use the appropriate form of /el ~on/ (NB with &quot;surprise&quot; statements only, they have irregular forms: of /el/, <i>er</i> past, <i>la</i> future; of /on/ <i>da</i> past, <i>lo</i> future)--<blockquote>
+	--<i>on lalak&aacute;t h&aacute;</i> 'he's/it's probably alive!'<br>
+	--<i>er us ahar&uacute;t h&aacute;</i> 'he/it wasn't really dead!'<br>
+	--<i>lo tatat&iacute; h&aacute;</i> 'it'll (probably) be really beautiful' ~'I'll bet she's really beautiful'</blockquote>
+
+<P>More rarely, these forms may be used (usually without /ha/) in ordinary sentences:<blockquote> 
+	--<i>user ahar&uacute;t ok talne, te papker zehen a garo</i> 'that animal (surprisingly) wasn't really dead, and it bit Garo'<br> 
+	--<i>u&#x015b;tuvla:ter ko dugl&aacute; pfuru er nunut&aring;m (h&aacute;)</i> 'I couldn't see a thing because it was really dark.'</blockquote> 
+
+<P><B>3.5. RELATIVE CLAUSES</b> are introduced by /odi/ <i>ore ~or</i>, and directly follow the antecedent noun. However, if the NOUN + REL.CL. is the subject of the sentence, the entire phrase is usually fronted and the verb will have a resumptive pronoun, as Prevli does not allow so-called &quot;heavy noun-phrases&quot; in subject position--<blockquote>
+	--<i>o lopo or tarted, u&#x015b;tuft,&uuml;pirza</i> 'the lopa that got loose could not be caught' (contrast the active version of this sentence: u&#x015b;tuftupir zente o lopo or tarted 'they could not catch the lopa that got loose'<br>
+	--<i>o taro or bilir ki biZgoran, harkodza bak s&uuml;n,&aring; pilg&auml;</i> 'the man who spoke to our Council came from a different village'<br> 
+	--<i>o gile or papkar kaz a t&auml;mni, lat korv&aring;dza</i> 'the person who beat T&auml;mni ran away'</blockquote>
+
+<P>3.5a. Further, /odi/ must be the SUBJECT of the relative clause. Thus, transitive verbs must be in passive voice; this does not affect intransitive verbs, of course--<blockquote> 
+	--<i>u&#x015b;torm&ouml; kaz a taro or bilir</i> 'I don't know the man who spoke'<br>
+	--<i>...o sipe or nirt&uuml;</i> '...the woman who died'<br>
+	--<i>...o sipe or naktupk&aring;</i> 'the woman who [is grinding (grain)]' (i.e. using a <i>tupa$#x014b;</i>)<br>
+	--<i>nerki hen n&auml;ki or galga</i> 'he owns a car that is red'<br>
+(Note that no pronoun suffix is needed when the verb of the RC is intransitive.)</blockquote>
+
+<P>And when /odi/ is the agent/subject of a transitive verb in the RC, active voice is used (compound pronoun required):<blockquote> 
+	--<i>...o taro or nerki hen o galga n&auml;ki</i> '...the man who owns the red car'<br>
+	--<i>...o sipe or semir zehen u lat kovoz</i> '...the woman who told him/her to go away'<br>
+	--<i>...o sipe or pamne zehen a garo</i> '...the woman who married Garo'<br>
+	--<i>...o taro or davlar sehak dio enze</i> '...the man who accompanied me to the city'<br>
+	--<i>dono hen toe kigidl&aacute; or lero hen</i> 'he gives money to anyone who needs it'</blockquote>
+
+<P>But /odi/ must be followed by a passive verb in the following cases:<br> 
+(a) as object of RC (use of the subject suffix is preferred here (though not required) if the subject is animate, but is usually omitted for inaminate subjects)--<blockquote>
+	--<i>...o sipe or p,&auml;mne(z) ni garo</i> 'the woman who(m) Garo married' (...who was married by Garo)<br>
+	--<i>...o n&auml;ki or n,e:rki nign&aacute; / ...ni ok taro</i> '...the car that is owned by-me / ...by that man' = the car (that) I own / that man owns<br>
+	--<i>...o tupk&aring; or p,&auml;rned ni o sipe</i> 'the tupa&#x014b; that was used by the woman = ...that the woman used'<br>
+	--<i>...o taro or d,&auml;vlar(za) nign&aacute; dio enze</i>  'the man who was-accompanied-he by-me to the city.= the man whom I accompanied to the city'</blockquote> 
+	
+<P>(b) as IO of RC (requires the passive-dative suffix <i>-zi</i>)--<blockquote> 
+	--<i>...o taro or y&auml;kporzi o n&auml;ki nign&aacute;</i> '...the man who was-sold(-to) the car by me' = the man to whom I sold the car<br>
+	--<i>...t&auml;mni or d,&ouml;norzi o toe (ni...)</i> '...T&auml;mni who was given the money (by...)' = ...to whom the money was given</blockquote>
+
+<P>(c) in a possessive construction--<blockquote> 
+	--(alienable)<i>...o taro or diez n&auml;ki n,i:lm&auml;r nign&aacute;</i> 'the man whose car was-bought by-me' = ...whose car I bought<br>
+	--(inalienable)<i>...gile or naroz tu d,&uuml;pku nign&aacute;</i> '...a person whose name I've forgotten'<br>
+	--<i>o la&#x014b; or erniz imna&#x014b;kor</i> 'the child whose arm got broken'</blockquote>
+
+<P>3.5b. Other relativizations on prepositional phrases require the prep. + resumptive pronoun following the relative <i>or</i>, and the verb of the rel.clause is preferably active, but in literary/formal usage may be passive; it is often possible to paraphrase such sentences to avoid the <i>or + prep.phrase</i>, which is considered awkward by many--<blockquote>
+	
+	--&quot;from&quot; <i>...o taro or bake&#x015b;k&eacute; nilm&auml;r ko o n&auml;ki</i>  'the man REL from-him bought I-it the car = the man from whom I bought the car' (OR passive <i>...or bake&#x015b;k&eacute; n,i:lm&auml;r o n&auml;ki nign&aacute;</i> '...from whom was-bought the car by-me'
+ 
+	<P>--&quot;with&quot; <i>...o taro or balesk&eacute; kovorka dio enze kaftu</i> lit. the man REL with-him went-I to city Kavatu = 'the man with whom I went to Kavatu-city' -- an equally good paraphrase, with /daval/ 'to accompany': <i>o taro or davlar sehak dio enze</i> 'the man who accompanied me to the city'.</blockquote> 
+	
+<P>Relativization on an animate agent, or (inanimate) instrument is considered very awkward and is generally avoided nowadays, and an active voice paraphrase is much preferred; but passives can occur in very formal or archaizing language. Consider the following:<blockquote> 
+	--&quot;by (agent)&quot; <i>...ot tarot or ni&#x015b;t&aacute; n,i:gnir o hupon</i> lit. the men REL by-them pass-built longhouse-our = 'the men by whom our longhouse was built'-- active would be much preferred: <i>...ot tarot or nignir zento o hupon</i> 'the men who built our longhouse'<br>
+
+	<i>...o taro or ni&#x015b;k&eacute; d,&auml;vlarka di o enze</i> the man REL by-him pass-accompanied-I to the city' = 'the man by whom I was accompanied...'. (Active: <i>...o taro or davlar sehak di o enze</i>)
+
+	<P>--&quot;with/by (instrument)&quot; passive, <i>kern&auml;d o peag or nifr&oacute; t,e:pkir o di&#x014b; (ne&#x015b;k&eacute;)</i> 'the knife with which the meat was cut (by him)--note: active <i>...o peag or tepki ozo o di&#x014b;</i> 'the knife that cut the meat' is disfavored (but not impossible)--because inanimates are not usually the subject of trans.vbs. The following, with <i>nifro</i> but an <i>active</i> verb, is simply wrong, a case of tangled syntax: <i>kern&auml;d o peag or nifr&oacute; tepkir hen o di&#x014b;</i>, lit. was-dull the knife REL with-it cut(active!) he-it the meat = the knife with which he cut the meat was dull ~the knife he cut the meat with....' A possible paraphrase: <i>kern&auml;d o peag or p,&auml;rned ne&#x015b;k&eacute; untu tepig o di&#x014b;</i> 'the knife that was-used by him for cutting [gerund] the meat was dull'</blockquote>
+
+	
+<P><B>3.6. QUESTIONS</b> are of two main types: yes-no, and informational. (There are also yes-no tag questions-- &quotyou're going, aren't you? are you going, or not?&quot;.) Since all questions, theoretically, are seeking information that one does not yet know, one might assume that they would be phrased with an irrealis verb. That is indeed the case with most informational questions, which begin with an interrogative pronoun or adverbial, as will be shown.
+
+<P>3.6.1. Yes-no questions are introduced with particle <i>si</i>, and can often be in realis, since the speaker expects only confirmation or denial--<blockquote> 
+	--<i>si kovom?</i> 'are you going?'; <i>si u&#x015b;kovom?</i> 'aren't you going?'<br>
+	--<i>si tu la:te miz a garo?</i> 'have you seen Garo?'<br>
+	--<i>si hond&ouml;d mo ka semirza?</i> 'did you hear what he said?'<br>
+	--<i>si tubhond&ouml; mek?</i> 'can you hear me?' (by sandhi, /-b+h-/ > <i>f:</i>, [tuf:'ond&ouml;])</blockquote>
+
+<P>If the question has future tense, an irrealis verb is common-- <i>si okf&aacute;lam di o halde?</i> 'will you go to the festival?', but any yes-no question, especially negative ones, may be phrased in irrealis to co&#x014b;ote some doubt, disbelief or perhaps reticence--<blockquote> 
+	--<i>si okf&aacute;m?</i> 'are you (really) going? ~is it possible you're going? ~you're going despite...?<br>'
+	--<i>si usokf&aacute;m?</i> 'aren't you going? (I thought you were)'<br>
+	--<i>si uso:n&oacute;rda mo?</i> 'didn't you hear it? (I can't believe you didn't)'.</blockquote> 
+
+<P>3.6.2. Tag questions append /mihi/ <i>mi:</i> 'yes', with rising intonation: <i>si kovom, mi:?</i> 'you're going, aren't you?', <i>si u&#x015b;kovom mi:?</i> 'you aren't going, are you?'; <i>si u&#x015b;la:te mo, mi:?</i> 'you didn't see it, did you?'. &quot;Or not/or what?&quot; is expressed by appending /ili/ 'or', also with rising intonation: <i>si kovom, ili?</i> 'are you going, or not?'; <i>si el talne, ili?</i> 'is it an animal, or what?' (These could also use irrealis mode.)
+
+<P>3.6.3. Information questions always begin with an interrogative pronoun/adjective (and associated nouns if any) or adverbial--e.g. <i>si&#x014b;:&auml;/sivi te&#x014b;gi</i> 'what/which book...?'; <i>siti nu toe...</i> 'how much money...?'; <i>sitsur kovormi?</i> 'when did you go?' <i>silv&aacute; min?</i> 'where are you from?'. The verb should correctly be irrealis, though this is often overlooked. In simple &quot;who/what/where etc. is...&quot; questions, no verb is needed, although, colloquially, /el, on/ is often inserted: <i>sigi (el, on) zek?</i>  'who is he?', <i>silm&iacute; (el. on) min diem peag?</i> 'where is your knife?' Note idiomatic <i>sigi naro(+poss)?</i> 'what (lit., who) is (your, his, etc.) name?' Use of irrealis in these cases conveys a sense of doubt: <i>sigi on ok?</i> 'who do you suppose that is?', <i>silm&iacute; on o peag?</i> 'where can the knife be (where did I leave it?)'. One can also use <i>sigil&aacute;</i> 'who ever...? who on earth...?', <i>si&#x014b;al&aacute;</i> 'what ever..., what on earth...?', <i>silibl&aacute;</i> 'where ever..., where on earth...?' and the other similarly suffixed interrogatives. 
+
+<P>In transitive sentences, when an interrog. pronoun or adjective is the direct or indirect object of the verb, or a possessive (e.g. &quot;who(m) did you see? what are you eating? which car will you buy? to whom did you give it? whose knife did you use?&quot; etc.), correct usage requires a passive (irrealis) verb. In colloquial speech, again, the irrealis rule is sometimes overlooked, though it is considered a mistake.<blockquote> 
+	--<i>sigi y&auml;lh&iacute;tra nibl&iacute;?</i> 'who(m) did you see?'-- colloq. (active verb) <i>sigi l&auml;:ter miz</i>, or (a definite error) <i>sigi l&auml;:termi?</i><br>
+	--<i>si&#x014b;:&auml; (~si&#x014b;&auml;) nagyi:zze ni&#x015b;k&eacute;?</i> 'what is he eating?'-- colloq. <i>si&#x014b;&auml; nagzize hen?</i><br>
+	--<i>sivi n&auml;ki yi:dl&aacute;bla nibl&iacute;?</i> 'which car will you buy?'-- colloq. <i>sivi n&auml;ki nilm&auml;l mo?</i><br>
+	--<i>si&#x014b;:&auml; (~si&#x014b;&auml;) y&ouml;dn&aacute;d nibl&iacute; ke&#x015b;k&eacute;?</i> 'what did you give him?' (colloq. <i>...d,&ouml;nor...</i>)<br>
+	--<i>sigi y&ouml;dn&aacute;dzi nibl&iacute;?</i> 'to whom did you give it?' (colloq. <i>...d,&ouml;norzi...</i>)<br>
+	--<i>sigi y&ouml;dn&aacute;dzi o toe?</i> 'who was given the money?'<br>
+	--<i>sigi diez n&auml;ki y&auml;pridla nagn&aacute;t?</i> 'whose car shall we use? (alienable noun)<br>
+	--<i>sigi lagza tun ina&#x015b;p&aacute;t?</i> 'whose child has gotten sick? (inalienable noun, comparable to formal <i>zek titiz</i> 'his/her/the baby')-- some speakers say <i>sigiz lagza...</i> but that is considered incorrect.</blockquote>
+
+<P>If the interrog. pronoun is the object of a preposition, the construction used is similar to that seen in relative clauses, and transitive verbs may be either active or passive--<blockquote>
+	--<i>sigi bale&#x015b;k&eacute; a:m&iacute;rmi?</i> 'with whom did you travel? (who did you travel with?)'<br>
+	--<i>sigi su&#x015b;k&eacute; ik toe?</i> 'for whom is this money (who is this money intended for?)'-- contrast<br>
+	--<i>si&#x014b::&auml; unto ik toe?</i> '(for) what (purpose) is this money, what is this money (intended) for?'</blockquote>
+<P>Interrogative sentences like the following, with instrumental <i>nifro</i>, are considered awkward, and are best rephrased--<blockquote>
+	--<i>si&#x014b;:&auml; nifro tuvetp&iacute;k e&#x015b;k&auml;nto?</i> 'with what can we cut it? (what can we cut it with?)' or<br>
+	--<i>si&#x014b;:&auml; nifro tuvye:tp&iacute;k o (nagn&aacute;t)?</i> 'with what can it be cut (by us)?'--
+<P>And as with sentences involving animate agents, it is not possible to use <i>sigi ni+pron.</i> as animate agent of a passive verb in a question-- thus, e.g. &quot;by whom was this food cooked?&quot; must be phrased as an active sentence: &quot;who cooked this food?&quot;</blockquote>
+
+<P>If something has been mentioned in the discourse, an information-question about it may be in realis, e.g. &quot;--When I visited Holunda-city...&quot; <i>--sitsur kovormi dir&oacute;k?</i> 'when did you go there?' or (verbless) <i>sitsur dir&oacute;k min?</i> 'when were you there?'
+
+<P><B>3.7 Aspectual forms and sentential/clausal complements.</b>
+<P><B>3.7.1. (Same subject)</b> Many clausal complements are handled with the various aspectual forms-- when the subject of the clause is the same as the subject of the main verb, for example--<blockquote>
+	--desiderative: <i>mekovok</i> 'I want to go', irreal. <i>meokf&aacute;k</i> 'I may want to go'<br>
+	--inceptive: <i>tu nobzizeza</i> 'he has beguan to eat'; <i>nobzizer hen</i> 'he began to eat it'<br>
+	--intentive: <i>di&#x015b;nuzo ko o kurk&auml;n</i> 'I'm going to fill the water-jar' (irr. <i>disunz&aacute;...</i>)<br>
+	--obligative: <i>tetseminta (tembilinta) kit&auml;mni (ut...)</i> 'we have to/must talk (speak) to T&auml;mni (about...)'<br>
+	(The full list of aspectual derivations and their prefixes is given in the Morphology &#167;2.8.6.</blockquote>
+
+<P>Other verbs that can take same-subject complements require a separate clause or sentence, usually introduced with the particle <i>u</i>, equivalent to Engl. 'that', though the particle is often omitted in colloquial speech. This construction is the same as that required for full sentential complements (see next, &#167;3.7.2). The complement verb, if intrasitive, does not have a subject suffix--<blockquote> 	
+	--<i>patoz u bovon</i> or colloq. <i>patoz bovon</i> 'he likes to do the bon dance'<br> 
+	--<i>kutn&aring;rk (u) kovo</i> 'I asked(requested) to go'<br>
+	--<i>k&ouml;r,&aring;dza (u) korv&aring;</i> 'he refused/was unwilling to run'<br>
+	--<i>k&ouml;r,&aring;z (u) zize</i> 'he refuses to eat'</blockquote>
+	
+<P>But if the complement verb is transitive, with a direct object, then <i>u</i> and a subj+obj pronoun are required:<blockquote>
+	--<i>k&ouml;r,&aring;z u zize hen (~yotsu)</i> 'he refuses to eat it (~yotus)'<br>
+	--<i>&#x014b;arodk u utp&iacute; ko o popo, &#x014b;ok u&#x015b;tuvn&uuml;r ko</i> 'I tried to catch the popo, but (I) couldn't [do it]' (<i>&#x014b;aro</i> 't	o try' usually takes its complement in the irrealis, especially in present/future tense.)<br> 
+	--<i>k&ouml;r,&aring;dz u zize hen o di&#x014b; or tu k,&auml;&#x015b;red ni&#x015b;t&aacute;</i> 'he refused to eat the meat (that) had been cooked by them (that they had cooked)'</blockquote>
+
+<P>The same <i>u</i> construction is used in the case of an auxiliary modal verb + a derived aspectual form, e.g.--<blockquote> 
+	--<i>tean</i> 'have to/must' + causative <i>apkovo</i> 'to send s.t.' (cause s.t to go): <i>teamni u apkovo mo toe ke&#x015b;k&eacute;</i> 'you have to/must send money to him'-- realis, because the speaker expects the action to occur.  If the mood is irrealis, both verbs must be in that mood (/tian/ <i>tean</i> &gt; irreal. /it:&aacute;n/ <i>its&aacute;n</i>):  <i>its&aacute;mni u apokf&aacute; mo toe ke&#x015b;k&eacute;</i> 'you may have to (probably) send money to him'-- speaker is uncertain whether the action is truly required.  Especially so in the case of an aspect, like debitive <i>bor-</i> that usually takes the irrealis:<br>   
+	--<i>borok,&auml;rm u a&#x014b;g&aacute; mo</i> 'you (probably) ought to (irreal.) refuse to do (irr.) it' (debitive <i>bor+ok,&auml;r</i> < /oky&aacute;r/ irr. of /koyar/ 'refuse').</blockquote>
+
+<P>A clause may also be introduced by <i>untu</i> 'in order to ~ so that'-- <i>dir&oacute;k kovont untu kapka bale&#x015b;t&eacute;</i> 'we went there (in order) to fight with them'
+
+<P>Some same-subject complements can begin with the particle <i>ka</i> 'what (i.e. that which...); when it is the object of the complement's verb, the verb must be passive, though as mentioned above, that rule is often ignored:<blockquote>
+	--<i>u&#x015b;akmek ka inehlir</i> 'I don't know what happened' (<i>intheli</i> is intrans.irreal., therefore <i>ka</i> is subj.)<br> 
+	--<i>yakmez ka n,&auml;ga</i> 'he knows what to do' (lit. what is done)-- colloq. and very common with active voice, <i>yakmez ka naga</i><br>  
+	--<i>yakmez ka bory&auml;gn&aacute;</i> 'he knows what ought to be done' This could also be translated as 
+'he knows what he (same subject) ought to do' (prefix <i>bor-</i> usually requires an irrealis verb)-- see further &#l67;8c below regarding  sentences with multiple 3rd person pronouns and avoidance of ambiguity.</blockquote>
+	
+<P><B>3.7.2. (Different subject)</b> Sentential complements. These include both clausal complements with different subjects (&quot;I want you to go&quot;) as well as full sentences (&quot;I think [that] you should go&quot;). Many of these latter may also be categorized as &quot;indirect speech&quot; (see &#167;3.8), since the main verb will often be one of &quot;telling, ordering, asking, thinking, knowing, hoping&quot; etc. Aside from <i>u</i>, other particles that can begin the complement sentence are <i>pu</i> 'if/whether', <i>ka</i> 'what, that which...', <i>untu</i> 'in order to, so that...', plus a few others, and the various interrogatives. 
+
+<P>3.7.2a. Clausal. The particle <i>u</i> is required--<blockquote>
+	--<i>meent u kovom</i> 'we want you to go' (emphatic: <i>meent u kovo min</i> 'we want you to go')<br>
+	--<i>meek u zize imlitso ok &ocirc;l yadze</i> 'I want you(pl) to eat all that food'<br>
+	--<i>kutn&aring;rk u apkovo zento</i> 'I asked (requested) them to send it'<br>
+	--<i>k&ouml;r,&aring;k u &#x014b;alvam i ratu</i> 'I forbid you to play in the road'</blockquote>
+
+<P>3.7.2b. Sentential. Many verbs-- <i>kiri</i> 'to think' and <i>u&#x015b;akme</i> &lt; /us+yakme/ 'not know', in particular-- require an irrealis verb in their complement:<blockquote>
+	--<i>kirik u a&#x015b;p&aacute;tsa</i> 'I think (that) he's sick' ~<i>...u a&#x015b;patsa t&auml;mni</i> '...that T&auml;mni is sick'<br>	
+	--<i>yakmek u patoz (u) bovon</i> 'I know (that) he likes to do the bon-dance'<br>
+	--<i>u&#x015b;akmek pu apt&uacute;z (u) bovon</i> 'I don't know if/whether he likes to do the bon-dance'<br> 
+	--<i>hond&ouml;dka ka &#x015b;e:mir nibl&iacute; ut garo</i> 'I heard what you said about Garo' (...what was said by you).<br> 
+	--<i>meyakmek ka &#x015b;e:mir ne&#x015b;k&eacute;</i> 'I want to know what he said'<br>
+	--<i>nagar hen untu u&#x015b;teandam</i> 'he did it so that you didn't have to' (~<i>...u&#x015b;teanda mo</i>)<br>
+	--<i>mono ka&#x014b;ka sitsul ind&uacute;tsa</i> 'I wonder when he will die' (lit., I ask myself...)<br>
+	--<i>ta&#x014b;ok u u&#x015b;p&iacute;tmi</i> 'I'm afraid/I fear that you'll fall (/ta&#x014b;u/ 'afraid' usu. takes irrealis)</blockquote>   	
+
+<P><B>3.8. Indirect speech/orders/questions.</b> Indirect speech will always involve the verb <i>semi</i> 'to say, to tell' or a synonym; indirect orders likewise may use <i>semi</i> or /kutan/ 'request', or more specific verbs like 'to order, demand' etc.; indirect questions will usually involve /mona/ <i>mono</i> 'to ask, inquire'. These verbs may also take an indirect object (the person spoken to, ordered, asked), and in colloquial speech may sometimes use a compound pronoun to express a pronominal IO.
+
+<P>3.8a. In indirect speech and questions, the complement may be in any tense, realis or irrealis:<blockquote> 
+	--<i>semirk u nay&aacute; kovolmi</i> 'I said that you will(would) go tomorrow' (realis)<br>
+	--<i>semirk u nay&aacute; okf&aacute;lmi</i> 'I said that you will(would) (probably) go tomorrow' (irrealis)<br>
+	--<i>semirza kagn&aacute;t u nay&aacute; okf&aacute;lmi</i> 'he said to us (told us) that you will (probably) go tomorrow'<br>
+	--<i>omn&aacute;lmi (kagn&aacute;) sipr&uuml; a&#x014b;ar ko</i> 'you will (probably) ask (me) why I did it'(irrealis)<br>
+	--<i>semilka ke&#x015b;t&aacute; u tun itsaptam</i> 'I'll tell them (that) you've gotten sick'<br>
+	--<i>monorka (ke&#x015b;k&eacute;) si&#x014b;&auml; nagz,izer ni&#x015b;k&eacute;</i> 'I asked (him) what he was eating' (more correct if irrealis: <i>...si&#x014b;:&auml; nagyizzer [na'd&#x017e;idzer] ni&#x015b;k&eacute;</i>)</blockquote>
+
+<P>The last four examples are cases where the compound pronoun could be used: <i>semir zeh&auml;nt u..., omn&aacute;l mek sipr&uuml;..., semil kazent u...; monor kaz si&#x014b;&auml;....</i> Correct and/or formal speech, however, avoids this usage, reserving the compound  pronouns only for subject+direct object.
+
+<P>3.8b. There are two ways of expressing indirect orders: one--more often used colloquially, and where the context is clear--is the same as any indirect speech after <i>semi, kutn&aring; etc. + u</i>  except that the verb of the complement (the order) will be in present tense, realis; further, it can be used only for positive, not negative, orders--<blockquote>
+	--<i>semirk u kovom</i> 'I told you to go' (or <i>semirka kibl&iacute; u...</i> or <i>semir kame u...</i><br>
+	--<i>semirz u delm&ouml;k u zize ko di&#x014b;</i> 'he told me to stop eating meat' (<i>semirz kagn&aacute; u...</i> or <i>semir sehak u...</i>)<br>
+	--<i>semirz u korv&aring;z</i> 'he(A) told him(B) to run'
+<P>The problem with this usage is that, without context, many such sentences could be interpreted as meaning simply &quot;X said that....&quot;. Using /tenad/ 'to order' would avoid that ambiguity:<br>
+	--<i>tend&auml;dza u kovom</i> 'he ordered you to go' (or <i>tend&auml;dza kibl&iacute; u... ~ tend&auml;d zehim u...</i>)<br>
+	--<i>tu tend&auml; o karmo u delm&ouml; ko (u) zize di&#x014b;</i> 'the doctor has ordered me to stop eating meat'</blockquote>
+	
+<P>The second way, somewhat more formal but unambiguously an order, is to put the complement verb in the imperative mode:<blockquote> 
+	--<i>semirka ke&#x015b;t&aacute; u lat k&#x0259;v&aacute;</i> (more formal <i>k&#x0259;va&#x0294;&aacute;</i>) 'I told him to go away' (colloq. <i>semir kaz...</i>)<br>
+	--<i>semilka ke&#x015b;t&aacute; u z&#x259;z&aacute; (~z&#x0159;za&#x0294;&aacute;) hen</i> 'I'll tell him to eat it'<br>
+	--<i>tend&auml;lzet kibl&iacute; u uZvil&aacute;</i> 'they will order you to be quiet/keep silent' (~<i>tend&auml;l zetla...</i>)
+<P>Negative orders/prohibitions must use this construction:<br>
+	--<i>semirka ke&#x015b;t&aacute; u da&#x015b;k&#x0259;v&aacute;</i> 'I told him not to go' (&lt; /daza k&#x0259;va-&#x0294;&aacute;/)<br>
+	--<i>tend&auml;dzet kagn&aacute; u dazv&#x0259;li&#x0294;&aacute;</i> 'they ordered me not to speak' (/daza b&#x0259;li-&#x0294;&aacute;/, colloq. <i>dazavli&#x0294;&aacute;</i>)</blockquote>
+
+<P>Direct/quoted orders differ from indirect orders in that (1) particle <i>u</i> is absent, and (2) there is a break in the intonation preceding the quoted material-- <i>semirka ke&#x015b;t&aacute; (~semir kaz,...), lat k&#X0259;v&aacute;</i> 'I told him (said to him), go away; <i>tend&auml;dzet kibl&iacute;, uZvil&aacute;</i> 'they ordered you, be quiet' (<i>tend&auml;d zetla,..</i>) 
+
+<P>The compound pronouns are often used in direct quotes:<blockquote> 
+	--<i>semir kaz, si&#x014b;&auml; n,aga nibl&iacute;?</i> 'I said to him, what are you doing?<br>
+	--<i>semir kame, daz n&#x0259;g&aacute; mo ok</i> 'I told you, don't do that'<br>
+	--<i>garmed kaz ki h&ouml;iz, u&#x015b;nabrad kaz a lagza</i> 'I replied to the judge, I did not harm the child'<br>
+	--<i>monor kame, si tun zizem?</i> 'I asked you, have you eaten?'</blockquote>
+
+<P>Note that in these case, the compound pronoun references subject+indirect object--it is colloquial usage, and technically incorrect but widespread. In very correct speech, the compound pronoun is correctly used only for S+DO, and in the sentences above there would have to be a subject suffix, and the person addressed would be in the dative: <i>semirka kest&aacute;,... / semirka kibl&iacute;,... / garmedka ki h&ouml;iz,... / monorka kibl&iacute;,</i>... etc.
+
+<P>In a few cases the reflexive pronoun is used:<blockquote>
+	--<i>semir (~kirid) ka&#x014b;ka, u&#x015b;ma&#x015b;te ok</i> 'I said (~thought) to myself, that is not correct/proper'<br>
+	--<i>monor ka&#x014b;ka, sipr&uuml; dir&oacute;k kovormi?</i> 'I wondered, why did you go there?' (Note that without the break in intonation--indicated by the comma--this sentence would simply be the indirect question, 'I wondered why you went there'.)</blockquote>
+
+<P><B>3.8c. Avoidance of ambiguity (same/different 3rd pers. subjects).</b> 
+We have already established, in &#167;3.7.1,2 above, that in cases of <u>Main Verb + <i>u</i> Complement</u>, when both the main verb and the complement verb (intransitive) have <i>same-subject</i> pronouns, no subject suffix is used on the complement verb; but when there are <i>different subjects</i>, then the suffix is required. Thus consider the following, with same subject--
+<blockquote>
+--<i>kirik u inaps&aacute;t</i> 'I think I'm getting sick' (not *inaps&aacute;tka)<br>
+--<i>si kirim u okf&aacute;l?</i> 'do you think you'll go? (not *okf&aacute;lmi)<br>
+--<i>semir y&auml;n u tu zizer</i> 'Y&auml;n said that he (i.e. Y&auml;n) had eaten' (not *zizerza)</blockquote>
+<P>Or with different subject:<blockquote>
+--<i>kirik u inaps&aacute;tmi</i> 'I think you're getting sick'<br>
+--<i>si kirim u okf&aacute;lza</i> 'do you think he'll go?'<br>
+--<i>semir y&auml;n u tu zizerza</i> 'Y&auml;n said that he (other, not Y&auml;n) had eaten'</blockquote>
+
+<P>This is also the case if (colloquially) the main verb uses a compound pronoun to express an indirect object:<blockquote>
+--<i>semir kame u itsapatra</i> 'I told you I was getting sick' (not *sapatrak)<br>
+--<i>semir zehim y&auml;n u tu zizer</i> 'Y&auml;n told you that he (Y&auml;n) had eaten (not *zizerza)<br>
+--<i>semir zehim (y&auml;n) u tu zizerza</i> 'he (~Y&auml;n) told you that he (other, not Y&auml;n) had eaten'</blockquote>
+
+<P>If the main verb has a noun subject, the same interpretations apply:<blockquote>
+--a) <i>semi t&auml;mni u kovol_</i> 'T&auml;mni says he (T&auml;mni) will go'<br>
+--a') <i>semi t&auml;mni u kovol<u>za</u></i> 'T&auml;mni says he (other) will go'-- and of course change of subject is clear if the complement verb has a noun subject--<br>
+--a'') <i>semiz u kovol garo</i> 'he says Garo will go'</blockquote>
+
+<P>Clearly, when the complement verb is intransitive, the absence or presence of a pronoun suffix indicates, resp., whether same or different subject in intended. Of course, if one starts to pile up complements, ambiguity may arise:<blockquote>
+--a) <i>semiz u kiri_ u a&#x015b;p&aacute;t_</i> 'he(A) says that he(A) thinks he(A) is sick'--no subject markers, same subject in all three clauses, no ambiguity<br>
+--b) <i>semiz u kiri_ u a&#x015b;p&aacute;tsa</i> 'he(A) says that he(A) thinks he(B) is sick', no ambiguity as to who is sick<br>
+--c) <i>semiz u kiriz u a&#x015b;p&aacute;t_</i> 'he(A) says that he(B) thinks he(B) is sick'-- again, no ambiguity; but--<br>
+--d) <i>semiz u kiriz u a&#x015b;p&aacute;tsa</i> 'he(A) says that he(B) thinks he(A? C?) is sick'-- now there is ambiguity: <i>a&#x015b;p&aacute;tsa</i> might refer either to subject A or someone else (C) previously mentioned in context (and this could even be a &quot;mistake&quot; for sentence (b) above). The most likely interpretation is that <i>a&#x015b;patsa</i> refers to A, and to clarify that C is meant, one could say <i>...a&#x015b;p&aacute;t zek ~ok</i>, or insert a noun subject-- then the full-form pronoun, demonstrative or noun is taken to mean change of subject. Probably, if <i>kiri</i> has a noun subject, the interpretation would then be that <i>a&#x015b;p&aacute;tsa</i>  most likely refers to A, as in-- <i>semiz(A) u kiri (garo, o karmo) u a&#x015b;p&aacute;tsa</i> 'he(A) says that (Garo, the doctor) thinks he (A) is sick', but even this remains potentially ambiguous and could refer to some other sick person (C).</blockquote>
+
+<P>Other problems arise if the complement verb is transitive, since it will require a compound pronoun that cannot be omitted. There is no chance of ambiguity for most subjects+object forms when subject and object are different persons (and a complement verb's noun subject clearly indicates different-subject, e.g. <i>semirz (semi zehim) u tu zizer hento garo ot aplet</i> 'He said (he told you) that Garo had eaten the apels'). But when both main verb and complement have 3d pers. pronoun subjects there can be a problem:<blockquote>
+--a) <i>semirz (semi zehim) u tu zizer hento ot aplet</i> 'he said (~told you) that he had eaten the apels', or <i>semi garo (semi zehim garo) u tu zizer hento ot aplet</i> 'Garo said (~told you) that he had eaten the apels'-- who ate the apels? The subject of <i>semi</i> (he, Garo) or someone else (the subject of <i>zizer</i>)?<br>
+-b) <i>semir zet u kapkal e&#x015b;t&iacute;m</i> 'they said they will (=would) fight you (pl.)'-- who will fight you? whichever group <i>zet</i> represents, or some different group represented in <i>e&#x015b;t&iacute;m</i>?<br>
+--c) <i>kiriz (~kiri y&auml;n) u izzer hen derenu matla di&#x014b;</i> 'he (~Y&auml;n) thinks he ate a little raw meat.' Who ate the raw meat-- Y&auml;n or someone else?<br>
+--d) <i>kiriz u alh&iacute;tra zehen</i> 'he thinks he saw him'--this has several possible readings: A thinks A saw B, A thinks B saw A, A thinks B saw C. In context, such a sentence could stand alone, with any of those meanings. One could, if necessary, insert a demonstrative or names/nouns in the subject or object slots.</blockquote>
+
+<P>Since the La&ntilde;-La&ntilde; do not ordinarily write their language, it follows that ambiguities like these will occur mainly in conversation, where it will usually be clear from context who the referents are. If there should be a misunderstanding, the hearer might ask <i>sigi zizer hen?</i> 'who ate it?', and the speaker would then clarify with <i>o kan (zek) ~el kan (zek)</i> 'me (him) ~it was me (him)', or <i>o garo ~el garo</i> 'Garo ~it was Garo', or even <i>ya, lep&auml;tka, o t&auml;mni</i> '(my intention/meaning=) oh, I meant T&auml;mni'.
+
+<P>More formally, and more precisely, it is possible to disambiguate the pronoun of a transitive verb with the use of the particle <i>hô ~&aring;</i> to indicate &quot;same subject/object&quot; (see the discussion of <i>hô ~&aring;</i> in the Morphology, Particles &#167;7.3). Thus one could clarify the sentences above as follows:<blockquote>
+
+--a) <i>semirz (semi zehim) u tu zizer &aring; hento ot aplet</i> 'he(A) said (~told you) that [same] he(A) had eaten the apels'.  Without <i>&aring;</i> the reading is that "A said that B had eaten..."<br>
+--b) <i>semir zet u kapkal &aring; e&#x015b;t&iacute;m</i> 'they(A) said [same] they(A) will (=would) fight you (pl.)'-- now it is clear that the group referenced by <i>zet</i> will fight you; without <i>&aring;</i>, a different group.<br>
+--c) <i>kiriz (~kiri y&auml;n) u izzer &aring; hen derenu matla di&#x014b;</i> 'he (~Y&auml;n)(A) thinks [same] he(A) ate a little raw meat'; without <i>&aring;</i>, someone else ate it.<br>
+--d) <i>kiriz u alh&iacute;tra &aring; zehen</i> 'he(A) thinks [same] he(A) saw him(B)' versus <i>kiriz u alh&iacute;tra zehen an &aring; zek</i> 'he(A) thinks he(B) saw [same] him(A)'; and without <i>&aring;</i> at all, (sentence d above) it will mean 'A thinks B saw him(C)' which could be further clarified as <i>kiriz u alh&iacute;tra zehen an zek (~an ok, ~a garo)</i> 'A thinks B saw him(C) (~saw that one, ~saw Garo)'.</blockquote>
+
+<P>Thus, generally in such cases, <i>&aring;</i> refers back to the primary (or "speaker") pronominal referent. A further example:<blockquote>
+--a) <i>kiriz u abd&aacute;d zehen</i> 'he(A) thinks he(A? B?) injured him(A? C?)' The default readings are A--(B or A)--C (note "that B injured B(himself)" is not a possible reading since that would require the reflexive, <i>...abd&aacute;d o&#x015b;ko</i>); but it can be clarified further:<br>
+--b) <i>kiriz u abd&aacute;d &aring; zehen</i> 'he(A) thinks he(A) wounded him (B)'<br>
+--c) <i>kiriz u abd&aacute;d zehen an &aring; zek</i> 'he(A) thinks he(B) wounded him(A)'<br>
+--d) <i>kiriz u abd&aacute;d zehen a zek (~an ok)</i> 'he(A) thinks(B) wounded him(C)'</blockquote>
+
+<P>What if sentences like those above are themselves the complements of a verb like <i>semi</i> 'say, tell'? Intransitive verbs can indicate same/different subject by absence/presence of subject markers, and there in no ambiguity in the following sentences:<blockquote>
+--<i>semiz u kiri_ u okf&aacute;l_</i> 'he(A) says he(A) thinks he'll(A) go'<br>
+--<i>semiz u kiri_ u okf&aacute;lza (~okf&aacute;l zek)</i> 'he(A) says he(A) thinks he'll(B) go'<br>
+--<i>semiz u kiriz u okf&aacute;l_</i> 'he(A) says he(B) thinks he'll(B) go'<br>
+--<i>semiz u kiriz u okf&aacute;lza (~okf&aacute;l zek)</i> 'he(A) says he(B) thinks he'll(C) go'<br>
+--<i>monorza pu ikr&iacute;dz u borokf&aacute;_</i> 'he(A) asked if he(B) thought he(B) ought to go'</blockquote>	
+
+<P>But the following has potential ambiguity: <i>monorza pu ikr&iacute;dz u borokf&aacute;z</i> 'he(A) asked if he(B) thought he(A? C?) ought to go'-- default is that '...he(C) ought to go', but for more clarity one could say <i>...borokf&aacute; &aring; zek</i> '...[same] he(A) ought to go' or <i>...borokf&aacute; zek (~ok)</i> '...he(C) (~that one) ought to go' 
+
+<P>An additional problem arises if an inalienable noun is involved.<blockquote>
+--a) <i>mepadze zehen a titiz</i> 'she(A) wants to feed the(possessed) baby (A's? B's)'. The default reading is that A's own baby is meant; use of <i>&aring;-- ...an &aring; titiz</i>-- would (redundantly) make that clear, while <i>mepadze zehen an ok/ik (~a zek) titiz</i> ('that/this ~her(B) baby') would indicate that someone else's baby was to be fed. (Or, one could add a name--<i>...a titiz e&#x014b;ka</i> '(feed)...Enka's baby'.)<br>
+--b) <i>meez u padze zehen a titiz</i> 'she(A) wants her(B) to feed the/her baby (A's, B's, C's?)'. In this case, default now is that B's baby is meant, and <i>...an &aring; titiz</i> would make that clear; to clarify that A's baby is meant, <i>...an &aring; zek titiz</i>; to clarify "someone else's baby" one could say <i>...an ok/ik titiz</i>, or add a name <i>...a titiz e&#x014b;ka</i>.</blockquote>
+
+<P>With multiple complements:<blockquote>
+--a) <i>semiz u kutn&aring;r_ u padze zehen a titiz</i> 'she(A) says that she(A) asked to feed the/her baby'-- by default here, A's baby is meant, and <i>...an &aring; titiz</i> would (redundantly) state this; <i>...a zek (~an ok) titiz</i> or <i>...a titiz e&#x014b;ka</i> would clarify that someone else's baby was meant.<br>
+--b) <i>semiz u kutn&aring;r_ ke&#x015b;k&eacute; u padze zehen a titiz</i> 'she(A) says that she(A) asked her(B) to feed the baby (A's? B's? C's?)-- the baby's ambiguity can be resolved as in the previous example.<br>
+--c) <i>semiz u kutn&aring;rza ke&#x015b;k&eacute; u padze zehen a titiz</i> 'she(A) says that she(B) asked her(A? C?) to feed the/her baby'-- here, in addition to the baby problem, it is unclear who is to do the feeding-- as given, the interpretation should be 'A says that B asked C to feed...', but the other reading could be resolved with <i>semiz u kutn&aring;rz &aring; ke&#x015b;k&eacute; u padze zehen a titiz</i> where it is now clear that 'A says that she(B) asked [same] her(A) to feed...' (with &quot;baby&quot; to be resolved as above).</blockquote>
+ 
+<P>But we should reiterate that the use of <i>&aring;</i> is rather formal, and rarely occurs in everyday conversation, where other strategies exist to disambiguate such sentences.
+
+<P>Plus more yet to be determined.....</P>
+<P>Return to <a href="contents.htm">main page</a>
+</body>
+</html>
+
+	
+
+
+

@@ -1,0 +1,395 @@
+
+                           ~~~~~~~~~~~~~~~~~~~~~
+                         ~~~~~~~ World Two ~~~~~~~
+                           ~~~~~~~~~~~~~~~~~~~~~
+
+_____________________
+X - Start            |
+# - Level            |
+a - Extra Level      |
+O - Empty Space      |
+T - Tower            |
+C - Castle           |
+H - Ghost House      |
+W - Warp Cannon      |
+P - Pipe             |
+S - Star Coin Toll   |
+I - Item Toad House  |
+G - Green Toad House |
+M - Mega Toad House  |
+                     |
+_____________________|
+
+          I                         M         G             I
+          |                         |         |             |
+          S                         S         S             S
+X----1----2------------3------------4----T----O--------5----O----6----C
+                       |            |                            |    |
+                       |            |                            |    |
+                  W----a----P       +--------------I-------------+    P
+
+
+                               o-----------o
+                               | Level 2-1 |
+                               o-----------o
+
+Head right for a Power-Up from a ? Block, which is immediately followed by
+the first Pokey of the game.  Pokey is a segmented Cactus (originally from
+SMB2) who can only be defeated by taking out all of his segments or shooting
+him in the head.  Head past this obstacle (unless Firepower is yours, then 
+roast him up) to find a Spiny and another Pokey, so use the yellow block 
+with the face to make it past the next Pokey (hit the block and then use the
+higher ledge to launch past the wavery cactus).  Jump forward to get the 
+first Star Coin, but retreat back to the high ledge, as it will allow Mario 
+to clear Pokey when he comes closer.
+
+use the elevator that appears next, lifting past the next Pokey, moving 
+right to leap past each Pokey as the elevators they inhabit drop low enough 
+to let Mario by.  Drop down to the ledge above the quicksand, letting the
+next Pokey move upwards out of range, leaving the jump and the second Star
+Coin wide open for Mario.  A running leap will clear the gap and the Pokey,
+which will also pass the halfway point for the level, leading to a Power-Up
+in a ? Block.
+
+Next up is an area with small ledges and moving platforms that are populated
+by (yep, you guessed it) Pokey.  Jump ahead carefully, but be wary as Pokey 
+can get onto the moving platforms, so he could become mobile and chase 
+Mario.  If you lack Firepower, a quick jump down to the third Star Coin must
+be immediately followed up by efforts to get high up once more, as Pokey 
+will begin to close in on a moving platform.  The up and down elevators set 
+(vintage SMB) will have Mario riding high on the first set, jumping onto the
+second set, immediately followed by running to leap past the final Pokey,
+reaching the pipe.  Hit the brick here to make a P-Switch appear, triggering
+it to make the Coins above Pokey become a nice jumping ledge to go for the 
+top of the flagpole!
+
+
+                               o-----------o
+                               | Level 2-2 |
+                               o-----------o
+
+This level will reintroduce everyone to that rapscallion in the flying cloud
+(Lakitu) and his pets he throws about (Spiny)!  Take on the three Red Koopa 
+Troopas if you wish to, but mainly concentrate on getting the Power-Up while
+moving right, passing the ledge to see Lakitu come out from behind the 
+nearby Pyramid!  Lakitu will throw his pet Spinies at Mario, but if Mario 
+can take out Lakitu, he will not return for a short while, and Mario may be
+able to even hitch a ride in that cloud!  Run right to find a couple high ?
+Blocks (one has a Power-Up) to attack Lakitu from, and if Firepower is 
+yours, use it to take Lakitu from his perch, followed by stealing his ride!
+
+With the cloud in hand, fly right until a coin path upwards appear, so 
+follow it to locate the first Star Coin.  Jump off the cloud and run right
+past more Red Koopa Troopas, jumping a gap when the Piranha Plant retreats
+into his pipe, finding some bricks to Ground Pound through to grab the
+second Star Coin.  Lakitu should have returned by now, so be wary of him as
+you move to the right, finding a structure with bricks and ? Blocks in it
+(note that this a tribute to a structure in the first Lakitu level ever, in
+SMB's 4-1) to bust up as you desire, followed by locating a green pipe to go
+down, which will launch Mario high into the air, directly at a pipe above 
+(press UP to go inside).
+
+Use the dual set of green pipes here tog et the Coins and third Star Coin,
+then head down the pipe on the right to return to the main level area.  Move
+to the right, suing the rocking toadstool to go jump onto the flagpole, 
+ending the level!
+
+
+                               o-----------o
+                               | Level 2-3 |
+                               o-----------o
+
+Head down the pipe and go right past the ? Blocks, wall jumping to get to 
+the Star Coin above the ledge, followed by hopping down the hole to move 
+left to get a Power-Up.  After taking out the Swoop (N64 enemy!), leap over
+the first trap door (go through for Coins if you desire them) to Ground 
+Pound down to the lower tunnel, moving right to find a Piranha Plant and 
+some one-way doors.  Take Mario up around the Piranha Plant location, 
+keeping an eye out for the second Star Coin while en route, arriving at the
+next area.
+
+Head right to slide down to the bottom of the area, moving right again to go
+hit a ? Switch.  At this point the game is split into two possible exits,
+so take the Main Route to go on to 2-4, or choose the Alternate Route to go
+after 2-A.
+
+                                ==========
+                                Main Route
+                                ==========
+
+Run to the right, swimming past the opening above (you can go inside to find
+some Coins if so desired), aiming Mario for the ledge on the right before 
+the water level drops off.  Take a running start in this new area, clearing 
+the massive Piranha Plant, continuing to the dead end to find a Power-Up.  
+Jump up to the next set of challenges, moving left to leap over a Piranha 
+Plant, climbing up the right side of the two choices here, taking a running 
+leap to the right to make the small ledge there to go get the third and 
+final Star Coin.  Return to the floor below, moving right to hop upwards 
+through the ledges and the spinning manhole, taking off to the right from 
+there to hit the ! Switch, using the now solid bricks to go right to leave 
+the area.  Outside is a springboard to use for a shot at a higher flagpole
+landing, so use it to finish off the level!
+
+                             ===============
+                             Alternate Route
+                             ===============
+
+Run to the right, leaping off to the right to land in the rising water,
+swimming through the hole in the ceiling that is nearby.  Once inside the
+large cavern, go to the left and hit the second ? Switch, swimming up at the
+top of the water as it rises, leaping onto the high ledge that is briefly
+accessible.  Head right to leave the area, arriving at a flagpole, so go 
+grab a hold of it, ending the level!
+
+
+                               o-----------o
+                               | Level 2-4 |
+                               o-----------o
+
+
+Hit the ? Switch to go after the ? Blocks (getting a Power-Up from one)
+before heading right, jumping a gap to find some Coins in ? Blocks guarded
+by Green Koopa Troopas and a couple Goombas.  Next up have Mario knock a 
+Koopa Troopa senseless, picking up the shell to go right underneath the 
+ledge, jumping up to hit the shell right into the Piranha Plant, followed
+by Wall Jumping to the Star Coin above the pipe.  Now head back left to go 
+over the top of the structure, carefully going down the steep steps (passing
+Piranha Plants) to get into the water, reaching a diveragnce in the level
+pathways.
+
+                                ==========
+                                Main Route
+                                ==========
+
+Start off by swimming to the right.  Drop down and swim along the bottom of 
+the screen, passing under the land here to find a red pipe to go into.  
+Swim through the small area here, collecting coins while dodging the 
+Cheep-Cheeps, heading through the next pipe to go left (ignore the ? Switch 
+for now) to get the second Star Coin, followed by hitting the ? Switch to 
+escape the hole Mario is in.  
+
+Head right to find a Power-Up and a ? Switch, so grab the Power-Up before 
+hitting the ? Switch, moving off to the right over the two hills, launching 
+right from the summit of the second hill to reach the high ledge.  The next 
+challenge is an old favourite... HAMMER BROTHERS!  Using a vintage dual brick
+structure setting from SMB, they guard the way forward and the third Star 
+Coin, so take them out with punches from below on the bricks they are 
+standing on.
+
+Head right to find the staircase, and another blast from the past that is 
+Super Mario Brothers, as Mario can use the Green Koopa Troopa coming down 
+the staircase here can be used to gain a lot of 1-Ups!  To do so just stand
+on one of the bottom steps, letting the Green Koopa Troopa come down to 
+Mario, timing a leap straight into the air to come down so Mario lands on 
+the Koopa so Mario will keep bouncing up and down, kicking the shell off the
+stair above him for a lot of points and then the 1-Ups will begin to pile 
+up!  Once you tire of this, continue up the stairs and go touch the flagpole
+to end the level!
+
+
+                             ===============
+                             Alternate Route
+                             ===============
+
+For this exit you will need to be Mini mario.  When you reach the pipe in 
+the water, head left as Mini Mario, running across the water, entering the 
+mini pipe.  Once Mario reappears, head right and find the flagpole, so get
+onto the higherledge via a Wall Jump from the left side to get a better point
+value for the flagpole grab, but either way it will end the level!
+
+
+                             o---------------o
+                             | Level 2-Tower |
+                             o---------------o
+
+Start off by using the rotating elevators, getting the Power-Up from the 
+? Blocks above the second set, followed by climbing above to go left, using 
+the rope to continue onwards.  On the next rotating elevator, ride it until
+a small ledge on the left appear, leaping to it to start a wall jump 
+upwards, finding a door to enter, finding a small structure of blocks that 
+move when touched, so keep performing wall jumps to get to a ledge on the
+right, followed by jumping on top of the moving blocks to move left, getting
+a Star Coin.  If you wish to shortcut to end of the Tower, use the second
+moving block set to reach the top door, but if you want to do the rest of
+the level, retreat to the door you entered by.
+
+Back at the previous rotating elevator, go right this time via the rope, 
+dropping down past the rotating elevator to get the second Star Coin, 
+followed by going up again (feel free to go after the Red Coin Ring prize),
+advancing by leaping to the ledge on the right, springboarding through the
+green pipe.  Grab the Power-Up from the ? Block before moving on to jump
+across the gaps ahead via the spinning bricks (hit the small red bricks to 
+make an extra one appear).  When Mario reaches the third set, hit the red
+brick to make some more spinning blocks appear, but instead of taking the
+first two in sight, backtrack to the left to use one that was off screen to 
+go onto the higher ledge nearby, where a well placed wall jump will get the
+third Star Coin far above.  Once you are done, head back to the right, using
+the two spinning blocks passed before to get to a pipe, finding the big 
+doors!
+
+Baby Bowser will attack Mario simply by running back and forth, attempting 
+to ram him at full speed on a platform that is not complete, as Mario can 
+fall into the quicksand below, making it tough for him to escape and battle
+Baby Bowser without taking a hit on the exit.  The way to defeat the monster
+is to hit him with three leaps to the head, though he will retreat to his 
+shell after every bonk from Mario, so step away until he comes back from his
+hiding game.  The other method for defeating Baby Bowser is to hit him with 
+9 Fireballs, though the Fireballs can be combined with the jump attacks to 
+beat Baby Bowser as well.
+
+
+                               o-----------o
+                               | Level 2-5 |
+                               o-----------o
+
+Head right, Ground pounding the ? Blocks for profit and a Power-Up, quickly 
+running into Blockhoppers.  Use the Ground Pound to eliminate them, but
+when you get a spot with Coins leading upwards, draw a Blockhopper near, 
+allowing Mario to use the Blockhopper as a stepping stone to leap up and get
+the first Star Coin.  Continue right, battling Spinies and Blockhoppers, 
+finding a Power-Up at the halfway point, followed by encountering Fire 
+Snakes for the first time.
+
+head right while watching for some bricks floating in the air, indicating 
+the next spot that a Blockhopper will come in handy.  Leap onto the bricks
+from a Blockhopper, followed by Ground Pounding the bricks to reveal a
+P-Switch, o go hit it and then use the path from the Coins that are now 
+bricks to go left to get the second Star Coin.  head right to find another
+member of the Hammer Brother fold, this one happens to be a Boomerang 
+Brother, so approach him cautiously, stomping him en route to sinking into
+the quicksand below on purpose.  While sinking, hold to the right, jumping
+up to pass through the screen on the right, appearing to go downwards, using
+the Blockhopper below to reach the third Star Coin.  All that remains from
+here is to go back up to the surface, moving right past one more Blockhopper
+(or use it as a stepping stone to reach higher) to get to the flagpole.
+
+
+                               o-----------o
+                               | Level 2-6 |
+                               o-----------o
+
+After passing through the first area, Mario will again be in a scrolling
+level, with this one taking place on a few platforms.  Mario would be 
+greatly served to have Firepower here, as the main enemy facing him are the
+ever persistent Piranha Plant.  Ride to the right, busting the Power-Up from
+the third ? Block, which is soon followed by a couple Piranha Plants that
+float by harmlessly.  The next two Piranha Plants will land on the platform,
+so avoid them while the ledge floats under a pipe with a Piranha Plant 
+inside.  Stay away form the Piranha Plant on the right, as a ledge will 
+remove it, allowing Mario to get the first Star Coin floating above the
+moving platform.
+
+Grab the Power-Up from the third ? Block, followed by using the small ledge 
+that comes into play to hit the middle ? Block of the next set to make a 
+1-Up Mushroom pop out.  Watch out for a Piranha Plant to land on the right 
+side, leaping it to get on the higher ledge here for another Power-Up, 
+leading to a dual Piranha Plant attack, so get between them on the higher 
+ledge before they land, grabbing the second Star Coin that follows them.  
+Watch out for the Super Piranha Plant that will float through next, so stay
+high to avoid it completely.
+
+After this the big ledges will begin to pull away, so jump onto the small
+ledges that float on to the screen, leaping forward along the set, watching
+out for the Venus Fire Trap (SMB3 enemy!) to get the third Star Coin.  
+Continue to avoid the stray fireballs from behind, reaching solid ground 
+where Mario must use the air pump to send the cork in the pipe flying, 
+allowing him to pass through the pipe to find one last Piranha Plant to deal
+with before reaching the flagpole to end the level.
+
+
+                               o-----------o
+                               | Level 2-A |
+                               o-----------o
+
+Move right to find a Power-Up in a ? Block, followed by dealing with the
+Koopa Troopas and dodging the massive fish trying to eat Mario from below,
+appropriately titled Spike Bass due to his spiky exterior.  Keep away from
+him while moving on, taking the lower log path to get the first Star Coin
+(draw an attack from Spike Bass first, then sprint through to get the Star
+Coin easily).  
+
+Next up are some springboards, so use them to launch high into the air,
+collecting Coins and finding the second Star Coin high in the sky before 
+advancing to find a Red Koopa Troopa, at which point the paths in the level 
+diverge.
+
+                                ==========
+                                Main Route
+                                ==========
+
+Go past the Red Koopa Troopa and into the green pipe, swimming upwards upon
+exiting to find a springboard.  use this one to launch high into th air, 
+holding RIGHT to land on the flagpole for a good score, ending the level and
+unlocking the path to the Pipe!
+
+                             ===============
+                             Alternate Route
+                             ===============
+
+Perform a spinning jump from a springboard to land off the Red Koopa Troopa,
+bouncing back into the air to reach the pipe on the ledge above.  Grab the
+third Star Coin in this contained area before taking another pipe, this one
+leading to an alternate exit flagpole, which unlocks the Warp Cannon that
+goes to World Five!
+
+
+                             o----------------o
+                             | Level 2-Castle |
+                             o----------------o
+
+Let the Giant Spiked Ball roll into the pit below, followed by going right
+past a couple Spiked Balls to get a Power-Up from a ? Block.  Next up is a
+rope for swinging past a Giant Spiked Ball, swinging back and forth to get 
+enough momentum to reach the ledges above, which lead to a 1-Up Mushroom.  
+Next draw the Spiked Ball into rolling by before raiding the ? Blocks for a
+Power-Up, followed by running a gauntlet area, stopping in each crevice or
+leaping to a higher ledge to avoid the incoming Spiked Balls.  Upon reaching
+the split in the path, Wall Jump up to the high ledge, running right to go
+into the hole before the Spiked Ball arrives, grabbing the first Star Coin
+in the process.
+
+head down and then right, dodging one last Spiked Ball to get to the door.
+Mario will appear outside, facing some Bullet Bills while grabbing a 
+Power-Up, running to the right to get onto a Bullet Bill cannon to the right
+and below a Star Coin.  here Mario will need to use a Bullet Bill as a 
+stepping stone by performing a Super Jump (hold A/B Button when landing on 
+the foe) to reach that second Star Coin.  Run through the narrow hall 
+(ducking Bullet Bills) to hit the ? Switch, lowering the land to allow Mario
+through, but he will need to first get by the Spiked Ball in the dip, 
+reaching a Power-Up immediately afterwards.  Now Mario will have a choice to
+make, as the level can have two possible outcomes.  Use the rope ahead to 
+swing to the ledge above, collecting the Mini Mushroom here to go right over 
+the gap, passing through the narrow passage to reach the third Star Coin, 
+followed by making a choice on which level ending fight to participate in.
+
+                                ==========
+                                Main Route
+                                ==========
+
+Grab the Power-Up from the ? Block before exiting the lower area to go past 
+a Spiked Ball, hitting the ?-Switch, allowing Mario to enter the large doors
+below.  Head right and Mario will come face to face with the Mummy Pokey!  
+To win this battle Mario will need to put 9 Fireballs into the creature, hit
+it with three Shell Dashes, or jump on the head of the monster three times
+(you can also go Mega Mushroom on it as well if you are lazy).  The monster 
+will attack by surfacing from the sand, spitting a projectile at Mario, and 
+then disappearing below once more.  if you are going to use jumps to defeat 
+it, only nail it when it is low enough to safely jump onto it.  Once 
+Mario has won the battle, off to World Three he shall go!
+
+                             ===============
+                             Alternate Route
+                             ===============
+
+DO NOT get the Power-Up from the ? Block, instead exiting the lower area to 
+go past a Spiked Ball, hitting the ?-Switch, allowing Mario to enter the 
+large doors below.  Head right and Mario will come face to face with the
+Mummy Pokey!  To win this battle while Mini Mario, watch for the Mummy Pokey
+to poke out of the ground, noting the height it stops rising out at.  If it
+is too high for Mario to leap over the top of, avoid the incoming projectile
+and wait for the next reappearance, but when it does pop out at a low enough
+height to attack it, jump directly above it and perform a Ground Pound 
+attack to damage the Mummy Pokey.  Repeat this pattern successfully twice 
+more and Mario will be on his way to World Four!
+
+

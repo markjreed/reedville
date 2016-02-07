@@ -1,0 +1,453 @@
+                          ~~~~~~~~~~~~~~~~~~~~~~~
+                        ~~~~~~~ World Seven ~~~~~~~
+                          ~~~~~~~~~~~~~~~~~~~~~~~
+
+_____________________
+X - Start            |
+# - Level            |
+a - Extra Level      |
+O - Empty Space      |
+T - Tower            |
+C - Castle           |
+H - Ghost House      |
+W - Warp Cannon      |
+P - Pipe             |
+S - Star Coin Toll   |
+I - Item Toad House  |
+G - Green Toad House |
+M - Mega Toad House  |
+                     |
+_____________________|
+
+     M         I    G                 +----G---------+
+     |         |    |                 |              |
+     S         S    S                 |              |
+X----1----H----2----3------------T----4----5----A----O----C
+          |                      |    |    |         |
+          |                      |    |    |         |
+          +----------------G-----+    +----6----7----+
+
+
+                               o-----------o
+                               | Level 7-1 |
+                               o-----------o
+
+Ride the platform to the right, grabbing the Power-Up from a ? Block, 
+leaping to the next platform, riding it past the Green Paratroopa Koopas, 
+staying board when it falls downward.  Now on a lower track, ride the 
+platform left past the same Green Paratroopa Koopas, reaching the first Star
+Coin, followed by riding right to leap to the cloud ledge.  Immediately go
+past the brick to get onto the winged ? Block as soon as possible, riding it
+to the right to find a pipe to enter, using the swinging poles to get up to 
+the second Star Coin.
+
+After raiding the room of Coins and a 1-Up Mushroom, head down the pipe on
+the right to re-enter the level, facing a Fire Chomp (in fact, they will
+attack you from here on out).  Head right, using the platforms to ride to 
+the right, entering the pipe there to go onto the flagpole!
+
+However, you only have two Star Coins, so head back through the level, this
+time ignoring that winged ? Block, instead riding the platforms to find a 
+pipe to go up.  Upon appearing, grab the Power-Up from the ? Block and then
+take the top platform, riding it to find the Star Coin at the top of the
+screen, leaving the same portion of the level you faced previously to go 
+through, reaching the flagpole to once again end the level, this time with 
+all three Star Coins in hand!
+
+
+                          o---------------------o
+                          | Level 7-Ghost House |
+                          o---------------------o
+
+This place can be very confusing, but that is fitting of the Ghost House 
+legacy from Super Mario World.  I will be covering the bare minimum here,
+getting you through the challenge, so feel free to explore the extra doors
+at your leisure.
+
+Hit the first brick here to reveal a ?-Switch, entering the door to the left
+to find some Splunkins, a strange wavely floor, and a Star Coin as Mario
+hops to the right to go through the door.  Back in the previous room, head 
+into the door directly Mario.  Go left and Ground Pound through the odd 
+floor to reach the second Star Coin, followed by Ground Pounding down to the
+?-Switch on the right side of the room, entering the door that appears above
+to get back into that central room once more.
+
+Head through the door on the right side of the low floor, finding many 
+ghostly hands that appear to be doing something, so track their movements 
+and jump upwards, hitting the hidden block they were moving around, 
+revealing a ?-Switch.  After triggering the Item, go right to ride the 
+platforms that have appeared to go upwards, going left across the ledges to
+enter the door before it disappears.  At this point the level splits into
+two paths, so choose between the Main Route and the Alternate Route.
+
+                                ==========
+                                Main Route
+                                ==========
+
+Trip the P-Switch and run off to the right, leaping across the gaps at top
+speed (plow through the Boo ahead if you have to), leaping up the brick
+ledges to find a solid ledge, so run to the right to find the third Star
+Coin.  Backtrack to drop off this ledge, moving right to head outside, using
+the winged ? Block here to land high on the flagpole, ending the level!
+
+
+                             ===============
+                             Alternate Route
+                             ===============
+
+Hit the P-Switch and take off running to the left, hitting the brick ahead 
+that is shimmering (take the low path at the split, looking in the bricks 
+above) to reveal a vine.  Quickly backtrack and leap to this vine before the
+P-Switch runs out, climbing up to find a door to pass through, which takes
+Mario to the alternate flagpole, ending the level!
+
+
+                               o-----------o
+                               | Level 7-2 |
+                               o-----------o
+
+Head right through the pipe, getting onto the moving ledge, which is 
+controlled by Mario’s position on the ledge.  if you want it to go left or 
+right while going up, walk to that side, and if you wish it to start 
+lowering, run into a brick above to send it downwards.  Also note that the 
+walls of the screen wrap around here, so use this to your advantage as well.
+
+Anyway, go up past the Red Koopa Troopa (or stomp it and throw the shell 
+through the Green Paratroopa Koopas on the right to possibly get a 1-Up 
+chain) to raid the ? Block on the right side of the screen for a Power-Up.  
+Ride the ledge through the narrow area head, taking out the Green Paratroopa
+Koopas, arriving at a more open area where Mario should bear right to raid 
+the enclosure on the right for the first Star Coin.  next for Mario are some
+more Green Paratroopa Koopas and a Red Coin Ring (not really worth the 
+trouble on this fairly easy stage), leading into a solid ledge above with
+some Red Koopa Troopas to boot a shell through for points.
+
+After this area the slow climb continues, grabbing a Power-Up from the 
+? Block on the left, followed by riding past more Green Paratroopa Koopas, 
+reaching some Coin Blocks on the right to Ground Pound, collecting the 
+Power-Up from the ? Block as a finale on the ledge.  Pass the next Green
+Paratroopa Koopa before stomping the next one down to the shell, grabbing 
+the Koopa's shell to throw over to the right on top of the bricks, breaking 
+through to hit and thus collect the second Star Coin.  
+
+A few more ? Blocks to ignore (unless you really need those few Coins) will
+lead into an area with massive amounts of Green Paratroopa Koopas to deal
+with, so take out the ones on the left to reach the third Star Coin, 
+followed by moving up and to the left to find a pipe to another area, where
+a dual Super Jump effort off the backs of more Green Paratroopa Koopas will
+result in a high position on the flagpole, ending the level in syle!
+
+
+                               o-----------o
+                               | Level 7-3 |
+                               o-----------o
+
+Head right to pass a couple Wigglers, raiding the ? Block for a Power-Up,
+followed by going down the green pipe to locate a an absolutely GINORMOUS
+WIGGLER!  Jump onto the back of this monstrosity, riding along and grabbing 
+Coins, facing challenges from Green Paratroopa Koopas and a Goomba producing
+pipe.  Now be on the look out for a Boomerang Bro to take out from below,
+allowing Mario to leap onto his ledge to reach the Star Coin he guarded.
+
+Now go right to hit the ? Block ahead for the Invincible Starman, followed 
+by moving right, revealing silver Coins where ever Mario sets foot, so 
+collect some but be fast enough moving forward to keep reaching the next 
+? Block so a new Invincible Starman can be collected, extending this Coin
+bonanza opportunity.  While you are on this magical Wiggler ride, take a
+running leap off of his body when he humps it up high near a ledge with a
+Star Coin twirling around.
+
+Continue onwards past the various foes (mainly some Green Paratroopa Koopas
+and Goombas), reaching a ledge with a pipe... and a Boomerang Bro.  Take out
+this guy quickly, allowing Mario an easy time getting into the pipe, popping
+out to go right, Ground Pounding the first two bricks, one revealing a vine
+and the other to gain access.  Climb downwards to find a ledge on the right 
+to leap to for the third Star Coin, followed by leaping to the left to ride
+the yellow pipe back up to the top.  Now all that remains is to hit the 
+hidden block above the bricks, taking a running leap off of it to hit the 
+high portion of the flagpole, ending the strange and unique level!
+
+
+                             o---------------o
+                             | Level 7-Tower |
+                             o---------------o
+
+Hi the bricks to find a Power-Up, then climb up the platforms on the right,
+reaching some stone pathway to go left across to go up the red pipe.  Jump
+across the spiked to go up a bit, passing under the first platform before 
+halting to wait and leap on top of the platform that Mario just passed 
+under.  Ride it upwards, leaping up on the right to get to the ledge above,
+followed by leaping down the hole on the right when the granite blocks have
+retreated, allowing Mario to reach the Star Coin below.  Now climb back out
+of the hole by jumping up the moving granite blocks, jumping up past the 
+spikes when they move to the left.
+
+Carefully hit the ? Blocks on the left for a Power-Up before moving on,
+climbing upwards to jump up one ledge at a time, followed by ducking to
+slide under the spikes, leaping up to the next set of ledges when the coast
+is clear.  After passing that set of obstacles, get onto the next moving 
+ledge, leaping up into the first opening, followed by dropping down between 
+the two spiky area, followed by riding it right to jump into the next 
+opening to climb.  Mario will find a set of granite blocks to leap up, but 
+unlike the similar area in the Level 1-Tower, Mario will have to avoid the 
+spikes on the walls of the granite blocks while doing so.
+
+Enter the door to reach the halfway point, so locate the Power-Up in the 
+bricks before heading out the door to continue the climb, facing a block 
+ride up to find another Power-Up to collect, this one in a ? Block.  Head
+left through the next section with great caution, followed by jumping onto
+the granite blocks, walking off each one when they go high, reaching a ledge
+with the second Star Coin floating above.  Head left to backtrack, climbing
+upwards to find a set of granite blocks that move in a sequence.  Send Mario
+to the right when the opening appears, jumping up the ledges to reach solid
+ground, followed by leaping up to the large red door and letting the granite
+blocks close in and then move away, allowing Mario to leap to the left to 
+get the third Star Coin, followed quickly by using a running leap to get 
+back to said doors and pass through them.
+
+Bowser Jr. will be using the hide technique if you try to leap on him, so 
+jump over his advances and wait for a Green Koopa shell to be thrown, which 
+Mario can stomp on to stop, followed by flinging it back to turn Baby Bowser
+onto his back, allowing Mario to leap onto the exposed stomach.  Land the 
+typical three hits to end the bout, but Bowser Jr. has some more of those
+moving granite blocks here, so be ready to fight their momentum when leaping
+and running around on this small ledge.
+
+
+                               o-----------o
+                               | Level 7-4 |
+                               o-----------o
+
+Use the springboard on the right to get the Power-Up from the ? Block above,
+followed by going right along the bottom of the area, using the last 
+springboard encountered to go up and left to find the first Star Coin.  Now
+use the springboard to the right, bouncing off the spongy toadstool nearby,
+going up and a bit to the left, finding the second Star Coin.
+
+Head left and sue the springboards there to go up off of a couple spongy 
+toadstools, reaching the halfway point on a solid toadstool, followed by 
+climbing up to the next springboard, where the paths of the level diverge.
+
+                                ==========
+                                Main Route
+                                ==========
+
+Use the springboard to launch up to the spongy toadstool, going up higher
+to get the third Star Coin while floating as far to the right as possible.  
+If done correctly, Mario will tough the spongy toadstool here, launching
+him into the pipe above (if not, go try the same tactic again).  If you want
+to enter a bonus area, use the springboards to go up to dive through the 
+bricks up high, followed by landing on the ground, hitting the brick there 
+to make the vine head up (no Star Coins in there though).  Anyway, 
+springboard up over the large wall, going right to find the flagpole to 
+finish off the level!
+
+
+                             ===============
+                             Alternate Route
+                             ===============
+
+Mario will need to have a Mini Mushroom equipped to make this Alternate 
+Route possible.  Once you are Mini Mario, launch off of the springboard and
+use the spongy toadstool to bounce high enough to land on the winged 
+? Block.  Now jump into the small crevice above in the side of the rock 
+face, followed by using a running leap out and then back toward the wall,
+which will get Mini Mario into the opening above.  Head up the mini pipe to
+go right, jumping to reveal a couple hidden blocks, which help Mario get 
+higher onto the flagpole ahead, opening the secret route to the Castle!
+
+
+                               o-----------o
+                               | Level 7-5 |
+                               o-----------o
+
+Head right to pass a Bob-Omb and a Green Koopa Troopa, followed by a couple 
+Bullet Bill batteries that are guarding a ? Block set that holds a Power-Up.
+Continue to the right, dodging the Bob-Ombs and Bullet Bills until you see a
+Star Coin floating above, at which point you should stomp a Bob-Omb, 
+followed by carrying it off the Bullet Bill cannon to destroy the wall 
+above, gaining access to the Star Coin that was blocked off previously.
+
+To go after the next Star Coin, Mario must be Mini Mario, moving right past 
+the Bob-Ombs until a small pipe is blocked by one brick, which is where you
+will have to put the Bob-Omb you choose to set off, allowing Mario to go
+down the mini pipe.  Inside the cavern, have Mario move past the Micro 
+Goombas (Tiny Huge Island from SM64!) to grab the Mega Mushroom from the ?
+Block, moving to the left to push the pipe to the right that is covering 
+the second Star Coin!
+
+head up the pipe on the right to continue in the same direction on the
+surface, passing a massive amount of Bullet Bills, Green Koopa Troopas, and
+some Bob-Ombs.  Once Mario reaches a big brick set-up to collect the 
+Power-Up from the lower ? Block (if he is Regular Mario, he will have to use
+the Bob-Omb to get at the Super Mushroom) before hopping the gap to tangle 
+with a Red Koopa Troopa en route to a dual Bullet Bill launcher site, where
+the third Star Coin lies in between, so jump in there between the enemy and
+get out quickly.
+
+A note about this spot as well... if you bring the Red Koopa Troopa shell 
+and throw it in between these two cannons, this spot can be used to kill off
+Bullet Bills until time runs out, gaining lots of points and then a lot of 
+1-Ups, so use this spot to stalk up for the challenges ahead if the extra 
+lives are needed.  Anyway, head right to find a pipe covered by hard bricks,
+which is the indication that level splits into the Main and Alternate 
+Routes.
+
+                                ==========
+                                Main Route
+                                ==========
+
+Head past this spot, Super Jumping off the incoming Banzai Bill to land on 
+top of the massive launcher, using it as a stepping stone to leap off of, 
+Super Jumping off of the Bullet Bills if desired to land high on that 
+flagpole.  Either way, grab the flagpole to end the level!
+
+
+                             ===============
+                             Alternate Route
+                             ===============
+
+Stomp the Bob-Omb in the area and place it so it rests on top of the fifth
+block from the left, destroying blocks to leave a single layer of bricks 
+over the pipe.  Now backtrack to the left, stomping the Bob-Omb here and 
+picking it up, dropping it right close to the pipe, destroying the remaining 
+bricks to open up the pipe, so head through it.  Upon exiting on the other 
+side, collect the Coins and go through the next pipe, resurfacing to go 
+right, locating the hidden flagpole to end the level!
+
+
+                               o-----------o
+                               | Level 7-6 |
+                               o-----------o
+
+Head right through the opening area, raiding the ? Blocks and bricks for
+Coins and Power-Ups (and a even a 1-Up Mushroom) by using shells on the 
+lower bricks, all the while dealing with a mass attack of Koopa Troopas and
+Paratroopa Koopas (both colours for both types).  Mario will run into a 
+couple pipes with Piranha Plants inside, followed by a tilting toadstool 
+with three Red Paratroopa Koopas to deal with before leaping up to the high
+ledge to reach the halfway point.  It is here that level will split into a
+Main Route and an Alternate Route, so choose wisely.
+
+                                ==========
+                                Main Route
+                                ==========
+
+Grab the Power-Up from the ? Block before continuing to the right, dropping
+down before going right to leap up into the small area where two Green
+Paratroopa Koopas guard the second Star Coin (the first Star Coin is hidden 
+on the Alternate Route, so you will have to get it when you do that route).
+Continue on to the right, taking out the Koopas to reach the yellow pipe, 
+going down to enter a new area.
+
+Although you can collect some stuff on the left, the goal of coming down 
+here is fulfilled by Super Jumping off the three Green Paratroopa Koopas on
+the right to reach a ledge to go up the red pipe, emerging to get the third
+Star Coin.  Once the Green Paratroopa Koopas clear out above, leap up to 
+start out to the right, dealing with another massive attack of all types of
+Koopas, eventually reaching the flagpole, ending the level!
+
+
+                             ===============
+                             Alternate Route
+                             ===============
+
+Take out the top row of bricks and the two Green Paratroopa Koopas, followed
+by punching the lower row of bricks to reveal a vine that goes up to a new
+area.  Jump onto the toadstool on the right, which will move across the
+large gap ahead, jumping to snag the first Star Coin while en route, 
+reaching a pipe to go up.  Upon surfacing from the pipe, use a Super Jump
+off of the Green Paratroopa Koopa to land high on the flagpole, ending the
+level!
+
+
+                               o-----------o
+                               | Level 7-7 |
+                               o-----------o
+
+This level will scroll automatically, so go right to take out a couple Red
+Koopa Troopas to get the Power-Up from the ? Block, followed by riding the
+paddle elevator to get across the gap to the first Star Coin.  Now use the
+moving platforms to advance to find a platform that leads upwards, changing 
+the aim of the level from horizontal to vertical.  The Red Coin Ring is not
+really worth the time, but feel free to try if you like, followed by leaping
+off the ledge to the left, riding the first two Donut Blocks down to get the
+second Star Coin (Wall Jump back up to the safety above).
+
+Head left and up, passing the halfway marker while snagging the Power-Up 
+from the ? Block, fighting Red Koopa Troopas, getting onto the highest Donut
+Blocks to jump up and to the left to get the third and final Star Coin.  Now
+head right across the donut blocks to reach a ledge of Donut Blocks to dive 
+into a brick for a Power-Up, followed by going right to use a paddle 
+elevator to go along the track, reaching two Red Paratroopa Koopas to Super
+Jump off of to reach the high part of the flagpole, ending the level!
+
+
+                               o-----------o
+                               | Level 7-A |
+                               o-----------o
+
+Head through the pipe and go under the first ledge, leaping to reveal some
+hidden blocks, allowing Mario to go into the pipe that is right by said 
+blocks, gaining possession of a Star Coin.  Now go up the pipe with the
+Squiggler inside, heading right to go past a Piranha Plant to find a pipe on
+the right to enter, launching Mario high into the air.  While Mario starts
+to fall down, slide along the wall on the right, Wall Jumping into the pipe
+on the left, falling into a room with the second Star Coin (Wall Jump to get
+it).
+
+After heading back out, go left to fight a Squiggler, followed by going up 
+the left pipe, going up to find some platforms above with gaps in between 
+them, so start on the left and jump up to reveal the hidden blocks, filling
+the gaps.  Go right to get up onto this area, followed by going up to the
+next ledge to hit the halfway marker, moving left to get a Koopa shell, 
+followed by dropping down to move right along the area with the hidden 
+blocks.  When you reach the end of these ledges, turn and throw the shell,
+followed by dropping down and running to the left, following the shell to 
+get the 1-Up Mushroom that the brick holds.
+
+Head back up to the area with the small pipe, moving right and then up 
+across the pipe ledges, carefully maneuvering around the Piranha Plants and
+Squigglers, going up through a pipe to find a ? Block that holds a Mini 
+Mushroom.  Leave this area by going through the pipe on the right, jumping
+to the right through the Piranha Plants (since you are Mini Mario, it may be
+wise to call down your Reserve Item if you have one at this point) to find
+a yellow block to punch from underneath to form a ledge to get Mario through
+the pipe, finding a set of blocks to hop of to land high on the flagpole,
+ending the level!
+
+
+                             o----------------o
+                             | Level 7-Castle |
+                             o----------------o
+
+Head right to leap onto some green blocks, which will move over a bottomless
+pit, very reminiscent of a couple fortresses found within the game of Super
+Mario World!  Ride along and jump the Amp, looking to leap to a Star Coin on
+the right as the platform heads left, so get back onto it and leap the next
+Amp.  Ride forward to get the Power-Up from the ? Block, leading into two
+Thwomps to bait into falling, allowing Mario to leap over them, entering 
+into the end of this green block express, so jump to safety on the right.
+
+Grab the Power-Up after the halfway marker, leaping onto the next green 
+block set, riding it through the twisty path it chooses, avoiding the 
+gauntlet of Ball & Chains that populate the area, remembering that the 
+blocks the Ball & Chains are connected to are safe to stand on, which is a
+perfect way to get the second Star Coin that floats in this area (just 
+remember to board the green blocks again as they steam on by).  Next up for 
+Mario are Flamethrowers (an ode to the Airship Exhaust Ports from Super
+Mario Brothers 3), so go underneath them or jump them when they are not 
+firing, reaching the end of the line.  However, ride the green blocks as 
+they fall, leaping through the third Star Coin en route to the ledge with 
+the large red doors.  Enter these doors to go tackle the Boss Fight!
+
+Jump up the platforms and head to the right, running into a Lakitu who 
+controls the power of lightning... his name is Lakithunder!  Lakithunder 
+will attack from his remote position above, throwing Spinies down for Mario
+to dodge, which he augments with vicious thunderclaps from above.  Keep 
+avoiding the attacks to outwait Lakithunder, who will make a divebomb at 
+Mario, at which point Mario should leap onto his head to damage him.  repeat
+the pattern two more times, knocking him out and heading out for the last
+World in the game!
+
+

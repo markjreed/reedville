@@ -1,0 +1,10 @@
+html, body { font-family: Georgia, "Times New Roman", serif; 
+                background-color: #808000; color: #000000}
+
+div.results { background-color: black }
+
+.button { font-family: Arial, Helvetica, sans-serif; 
+          background-color: #c0c0c0; border-style: outset; 
+          border-color: #a0a0a0;}
+
+textarea { background-color: #ffff80; }

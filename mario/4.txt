@@ -1,0 +1,356 @@
+                          ~~~~~~~~~~~~~~~~~~~~~~
+                        ~~~~~~~ World Four ~~~~~~~
+                          ~~~~~~~~~~~~~~~~~~~~~~
+
+_____________________
+X - Start            |
+# - Level            |
+a - Extra Level      |
+O - Empty Space      |
+T - Tower            |
+C - Castle           |
+H - Ghost House      |
+W - Warp Cannon      |
+P - Pipe             |
+S - Star Coin Toll   |
+I - Item Toad House  |
+G - Green Toad House |
+M - Mega Toad House  |
+                     |
+_____________________|
+
+          I                    I---Sa----+             G    I
+          |                         |    |             |    |
+          S                         S    |             S    S
+X----1----2------------3----T-------O    O----H--------5----6----C
+     |                      |       |    |    |
+     |                      |       |    |    |
+     +----------G-----------+       +----4    +----W
+
+
+                               o-----------o
+                               | Level 4-1 |
+                               o-----------o
+
+The liquid in this stage is deadly to the touch, so do not take a dip under
+any circumstances.  Head right from the start, raiding the ? Blocks for 
+Power-Ups and taking out the Red Koopa Troopas and the Scuttlebugs, arriving
+at a dual Scuttlebug position over the deadly liquid, using a Super Jump 
+bounce off of them to hit the Star Coin high in the air.  More Scuttlebug 
+and Red Koopa Troopa bashing will follow, leading to a sea serpent (Nessie
+from Super Mario 64!) and the halfway marker.
+
+Ride forward slowly on Nessie, busting up the Scuttlebugs carefully, using 
+the first Scuttlebug past the ? Block Power-Up to get the second Star Coin
+(again the Super Jump technique is safest).  Once the five block platform
+comes into view, a choice must be made on which route to pursue.
+
+                                ==========
+                                Main Route
+                                ==========
+
+Ride underneath this five block ledge, continuing to take out the offending
+Scuttlebugs, reaching dry land to take on a Green and Red Koopa Troopa.
+Mario will now find some Donut Blocks to cross carefully, killing the
+Scuttlebugs to gain access to the third Star Coin below (rush across the 
+gaps with the X/Y Button), followed by killing the Goombas before launching 
+off the ledge to use the Scuttlebug to reach the top of the flagpole to end
+the level!
+
+                             ===============
+                             Alternate Route
+                             ===============
+
+Jump on top of the five block platform, leaping up from the central block
+to reveal a vine, so climb upwards to enter a pipe.  Use the three 
+Scuttlebugs here to Super Jump across the wide gap to land high on the
+flagpole, ending the level!
+
+
+                               o-----------o
+                               | Level 4-2 |
+                               o-----------o
+
+Head right, collecting the Power-Up from the ? Block, followed by leaping
+across the titling toadstools (purple in colour), leaping clear before they 
+dump Mario into the emptiness below.  Continue right past the enemies to 
+find a Star Coin high in the sky, so get past the titling toadstool to the
+solid orange toadstool, taking a running leap to Wall Jump off the cliff
+face above, bouncing up to said Star Coin.
+
+Fight past a couple Koopa Troopas (and a Green Paratroopa Koopa) to find a
+tilting toadstool that will have to be rode low enough to grab the second 
+Star Coin before Mario has to jump clear.  Leap past the green Paratroopa
+Koopa to find a Red Coin Ring, so pass through it and go across some tilting
+toadstools to get all 8 Red Coins.  After this is a red Paratroopa Koopa and
+some Red Koopas, passing over an area where some Coins lie below.  Bend the
+next tilting toadstool to the left, taking a leap to the ledge on the left,
+smacking the brick down there to reveal a vine going off screen.
+
+Hit the brick on top of the cloud platforms here to make a new vine appear,
+climbing it to find the third Star Coin, followed by going down the pipe at
+the right side of the area.  Run and leap to the right, keeping Mario on the
+titling toadstools for mere moments at a time, passing the final Red Koopa
+Troopa to reach the flagpole at the end of the level!
+
+
+                               o-----------o
+                               | Level 4-3 |
+                               o-----------o
+
+Head down the pipe to go past some Cheep-Cheeps to raid a ? Block by itself
+for a Power-Up, getting it before diving down to the bottom of the screen to
+avoid the Mega Unagi that appears as the screen starts scrolling.  Continue
+swimming close to the right side of the screen, diving down to get the Star 
+Coin from the small cave below, followed by getting to the top of the area 
+to avoid the incoming Mega Unagi.  If you pass through the Red Coin Ring,
+Mario will need to swim in close to the Unagi in the walls, so best to avoid
+it and instead concentrate on passing the halfway point to hit the ? Block
+before the Mega Unagi appears.
+
+Swim over the rocks but below the Mega Unagi, carefully dropping to the hole
+below to get the second Star Coin between the two Unagis, followed by 
+swimming right to hit the ?-Switch.  Now swim through the pipes ahead while
+going underneath the Mega Unagi (normally the pipes spew bubbles, but they 
+are shut off due to the switch) while keeping to the right, going down the
+last green pipe to swim left over the Unagis, followed by dropping down 
+after they try to bite Mario, getting the third Star Coin.
+
+Wait for the Cheep-Cheep to swim through the top passage that is over the 
+Unagi, followed by passing through while the Mega Unagi works over the 
+bottom half of the screen.  Next up are more Cheep-Cheeps that are followed 
+by a vertical swim between two sets of two Unagis (swim up the Coin path to 
+stay safe), finding a pipe leading back to the surface.  Here Mario will
+find a solo Goomba on the steps ahead, protecting the flagpole, so squish it
+en route to finishing the level!
+
+
+                             o---------------o
+                             | Level 4-Tower |
+                             o---------------o
+
+Climb past the Dry Bones to Wall Jump up the moving granite blocks to get 
+above the spot where the blocks stutter their movements, creating a ledge 
+for Mario to use to jump clear of the potential crushing.  Raid the ? Block 
+on the left for a Power-Up, then head through the door on the right to
+face rising lava.  Jump to the fence above to start climbing upwards, 
+grabbing the Power-Up on the left if so desired, continuing to climb.  When
+a moving granite block on the left appears, run under it, get onto the fence
+door above to flip around to the back, followed by dropping down to get the
+Star Coin below.
+
+Quickly climb upwards once more, finding more granite blocks to leap through
+when they open, looking above this fence chunk on the right for the second
+Star Coin.  Next up are a couple spiked granite blocks guarding a Power-Up,
+followed by passing the Dry Bones to reach the halfway point.  Next is a set
+of moving granite blocks that move back and forth quickly, so jump up 
+between their movements, fading over to the right side of the shaft to find 
+the third Star Coin before running to the left to continue the climb again.
+Next up is a Red Coin Ring, so pass through it to collect 8 Red Coins while 
+climbing (no enemies to worry about, so just jump up quickly and be 
+efficient), gaining the Power-Up/1-Up from the challenge, followed by
+passing through the large red doors to go after the boss!
+
+Bowser Jr. will once again take on Mario, but this time he will try some
+different tactics.  If Mario attempts to clock him with a leap, he will
+retreat into his shell.  Instead, leap over his charges, drawing him into 
+throwing a green shell at Mario, which he should hop on to stop it, followed
+by kicking it back into Baby Bowser to knock him onto his back, at which
+point Mario should perform a Ground Pound to hurt the little beast.  Repeat
+this pattern two more times, and he will go down in defeat.  Also note that
+9 Fireballs will do him in, and they can hurt him at anytime during the 
+bout.
+
+
+                               o-----------o
+                               | Level 4-4 |
+                               o-----------o
+
+head right to find a Wiggler and a ? Block Power-Up, followed by a Red Koopa
+Troopa, a gap, and a couple Wigglers, the second of which will be below a 
+Red Coin Ring (if triggered, use the SUper Jump off the back of the Wiggler
+to reach the higher Red Coins).  The next red Koopa Troopa that appears 
+should be stomped, followed by grabbing the shell before hopping down the 
+next gap while holding RIGHT, killing the Wiggler down there and obtaining 
+the Star Coin.
+
+Wall Jump back to the area above, going right across the Donut Blocks to
+find a rotating Power-Up, followed by busting the bricks to make a vine to
+climb, moving left to hit the invisible block to the left of the brick and 
+? Block, a\making a new vine to climb to reach the Star Coin above. Now
+continue on to the right, fighting the Red Koopa Troopa, throwing it through
+the enemies ahead to clear a path, finding a portion with small pipes and a 
+Star Coin over a pit.  
+
+Jump towards the wall by the Star Coin, Wall Jumping after collecting it, 
+landing on the pipes once more, followed by going past the two Wigglers to 
+find a row of Green Paratroopa Koopas to bust up with one hop at a time, 
+earning a 1-Up if all are de-winged by your efforts.  Head through the pipe
+to jump off to the right to find the flagpole and end the level!
+
+
+                          o---------------------o
+                          | Level 4-Ghost House |
+                          o---------------------o
+
+Hit the ? Block for the Power-Up, followed by a series of Boos to avoid, 
+reaching a door,  Inside Mario will need to hit the ?-Switch, dropping some 
+? Blocks down, so hit them if you wish, but be sure to get on top of one 
+before the ticker runs out, as they will lift Mario up to a high ledge in 
+the previous area, reaching the first Star Coin on the right.  On the right 
+is a Balloon Boo, so face it while dropping down to run underneath it, 
+turning to leap upwards, followed by going left to hit the !-Switch, using 
+the now solid bricks to go through the door on the right.
+
+Hit the !-Switch that is nearby, allowing Mario to Wall Jump up between the
+red bricks to find the second Star Coin, followed by moving left to drop 
+down to the same area, letting the !-Switch reappear to let Mario bust it 
+once more.  At this point a choice in paths occurs, so choose between the
+Main Route or the Alternate Route.
+
+                                ==========
+                                Main Route
+                                ==========
+
+Run to the right, spotting a pipe to go through above, coming out near a 
+Balloon Boo, so head left, leaping up the ledges there to find some ? 
+Blocks, which are near a long ledge above (get onto here).  Head right from 
+here to find the door that leads outside, taking Mario to the flagpole!
+
+                             ===============
+                             Alternate Route
+                             ===============
+
+For this exit to work Mario must have and use a Mini Mushroom.  After eating
+the Mini Mushroom, head right to the ledge below the pipe, followed by 
+hopping onto the red bricks and then onto the pipe (not into it).  Now have
+Mario jump high up the pipe, Wall Jumping off of it to reach a ledge on the
+right side of the area, jumping up the remaining passage area to find a 
+door.  Before using it however, Wall Jump up to get the third Star Coin
+twinkling high above, followed by going out the door, leading outside to 
+where a single Boo will attack from the left, but just ignore it and go grab
+the flagpole to end the level!
+
+
+                               o-----------o
+                               | Level 4-5 |
+                               o-----------o
+
+Head down the pipe to see a Bob-Omb in the area above, so hit it and the ? 
+Block from below, letting the Bob_omb clear the bricks to send the Power-Up
+to Mario waiting below.  Move on to find a Bob-Omb spewing pipe, so stomp 
+one of the black bombs to blow the wall apart, allowing Mario to pass 
+through to deal with a Red Koopa Troopa and a Buzzy Beetle from the ceiling.
+Next are two Bob-Ombs contained in a small area, so hit one from below on 
+the right side of their room, allowing Mario to jump up on the left side of
+their ledge once they blow to hit the bricks above, revealing a 1-Up 
+Mushroom for him to grab as he leaps across the gap ahead.
+
+After passing the halfway point, pass the first two Bob-Ombs to find a 
+Bob-Omb in a bricked off room to stomp, blowing out the wall beside the Star
+Coin, allowing Mario to grab it before crossing the first drawbridge.  On
+the second drawbridge have Mario clock the Bob-Omb close to the middle of 
+the drawbridge, blowing a hole there to let him leap up and get the second 
+Star Coin, followed by some Spinies on the roof.
+
+When Mario arrives at a pipe that drops Bob-Ombs, stomp one and drop it down
+between the drawbridge portions, landing it on the covered pipe below, 
+busting the blocks there to allow Mario to enter, locating the third Star
+Coin... after doing some more Bob-Omb demolition of course.  After heading 
+back through the pipe on the right, move onwards to avoid one more Spiny, 
+entering the pipe to go find the flagpole outside!
+
+
+                               o-----------o
+                               | Level 4-6 |
+                               o-----------o
+
+Mario is back into the poisonous liquid area, so do not take a dip or you 
+will be -1 in the lives department.  Go right, killing the classic Super 
+Mario Brothers enemies, finding faithful Nessie ready to give Mario a lift 
+once more.  Get the Power-Up off the first ledge before getting back onto 
+Nessie, riding her towards a Red Coin Ring, but you will want to skip it and
+go onto the land to get the first Star Coin, which happens to be viciously 
+guarded by two Red Koopa Troopas!
+
+Anyway, once Nessie emerges from underneath the island, jump onto her head 
+again, continuing to cruise ahead to find a Coin Block on the next island,
+with the island after infested with Piranha Plants (bypass them to get back
+onto Nessie).  Hit the P-Switch that appears next to make grabbing the second
+Star Coin go smoother, facing a gauntlet of Piranha Plants and Red 
+Paratroopa Koopas, but to make things easy jump between the first two pipes 
+to reveal a hidden Invincible Starman (ducking and leaping will get Mario 
+through if he did not get the Invincible Starman, just watch the range of the
+creatures before reaching them to know where to move to avoid their 
+attacks).
+
+After passing through this nasty portion of the level, wait for Nessie to 
+rise up, allowing Mario to hit the !-Switch above to make the dotted lines
+ahead into bricks, letting Mario enter the pipe to slide down a slope 
+through the various foes, finding the third Star Coin!  Now get the 1-Up
+Mushroom from the nearby ? Block, heading down the pipe next to clobber a 
+Green Koopa Troopa and two Goombas to reach the pipe, which leads to the 
+flagpole, ending the leisurely ride upon the great sea serpent.
+
+
+                               o-----------o
+                               | Level 4-A |
+                               o-----------o
+
+Start out by performing the enemy kill and vine swing over the poisonous 
+liquid, doing this several times until Mario reaches a water paddle.  To
+make this object mover, go on the left side of the object, jumping up to the
+next ledge that comes down as Mario sinks towards the liquid, thus keeping 
+himself safe and moving the contraption across the gap to the next portion 
+of land.  Repeat this procedure to reach the halfway point, waylaying the
+Red Koopa Troopas to get their Power-Up they guard in the ? Block, followed 
+by crossing another expanse of deadly liquid to reach a higher ledge.
+
+The next water paddle will have a Green and red Paratroopa Koopa guarding a 
+Star Coin, so Super Jump off the Red version to grab it before continuing 
+across, finding a Green Paratroopa Koopa to Super Jump off of, grabbing the
+vine above.  Swing onto the ledge on the right, entering the pipe to climb 
+on top of the bricks, hitting the P-Switch to get the second Star Coin 
+below, also taking the time to kick a Koopa Troopa shell through the other
+Koopa Troopas to gain a 1-Up and lots of points.
+
+Head down the pipe on the right to find a leap across a gap to some pipes
+(time it so the Piranha Plants are not out), followed by swinging across to
+a triple set of Piranha Plant pipes, going down the pipe on the left, 
+finding the third Star Coin up for grabs via a Wall Jump.  Back to the 
+surface goes Mario, continuing on to the right to pass through the pipe 
+ahead, using the vine to get to the high ledge, allowing Mario to get a high
+position on the flagpole, ending the level!
+
+
+                             o----------------o
+                             | Level 4-Castle |
+                             o----------------o
+
+Use the swinging platforms to get across the lava, getting a Power-Up along
+the way, taking note of the second swinging platform that has a Dry Bones.
+After disabling the Dry Bones, take a running leap off the platform as it 
+swings towards the right, grabbing the Star Coin above.  Drop down and 
+continue onwards, running at top speed to burn under all the Thwomps, 
+followed by Wall Jumping up the Coin path to reach a higher ledge near 
+another Thwomp.  Head past the Dry Bones to find a Super Thwomp, baiting it
+into destroying the three rows of blocks underneath it, allowing Mario to
+drop down to snag the second Star Coin.
+
+Grab the Power-Up while dodging through the Thwomps and Dry Bones, bypassing
+the Super Thwomp to reach the halfway point and another Power-Up.  Carefully 
+go past the Podoboo to find a 1-Up Mushroom in the ? Block, followed by going
+after the third and final Star Coin by carefully leaping down when the 
+swinging platform is at one extreme end or the other.  Continue across the
+lava ahead via the swinging platforms, dealing with the Dry Bones on the
+platforms and with the Podoboo attacks occurring from below.  Once Mario 
+reaches the end of this gauntlet, go through the large red doors to reach the
+boss fight!
+
+After the Goomba gets enlarged, stomp on the ?-Switch in the pit to make some
+platforms appear to allow Mario to jump high enough to get above the Giant
+Goomba, delivering a Ground Pound attack to hurt the monster.  Keep at the
+attacks from above, landing three total hits to take it down, ending the tour
+of the poisonous waters of World Four!
+
+

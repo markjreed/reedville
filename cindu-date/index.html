@@ -1,0 +1,114 @@
+<html>
+ <head>
+  <meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
+  <title>Date and Time on Cindu</title>
+  <script type="text/javascript" src="cindu.js"></script>
+  <script type="text/javascript" src="julian.js"></script>
+  <script type="text/javascript" src="cindu_driver.js"></script>
+  <style type="text/css">
+   * {font-family: Helvetica, Arial, sans-serif}
+   div#nojs {display: block}
+   input#now { display: block; width: 64px; margin-left: auto; margin-right: auto}
+   form { display: block; margin-left: auto; margin-right: auto; width: 75% }
+   h1 { text-align: center }
+  </style>
+ </head>
+ <body>
+  <h1>Date and Time on Cindu</h1>
+  <p>Cindu is a fictional planet created by Roger Mills as the home of the
+   speakers of his constructed languages <em>Kash</em>, <em>Gwr</em>, and
+   <em>Prevli</em>.  This page converts dates between our calendar and theirs.
+    
+  <form method="post" action="">
+  <fieldset>
+   <legend>Earth</legend>
+  <input type="button" id="earth_back" value="←">
+   <select id="earth_era">
+    <option value="ad">AD</option>
+    <option value="bc">BC</option>
+   </select>
+   <input id="earth_year" type="text" name="earth_year" size="4">
+   <select id="earth_month">
+   </select>
+   <select id="earth_mday"></select>
+  <input type="button" id="earth_forward" value="→">
+   (<span id="earth_wday"></span>)
+   <br/>
+  <select id="earth_hour"></select>:
+  <select id="earth_minute"></select>:
+  <select id="earth_second"></select>
+  <select id="earth_ampm">
+   <option value="am">AM</option>
+   <option value="pm">PM</option>
+  </select>
+  <select id="earth_zone">
+   <option value="local">Local Time</option>
+   <option value="utc">UTC</option>
+  </select>
+  <input type="button" id="earth_noon" value="Noon">
+  (<span id="earth_utc"></span>)
+  <br/>
+  <br/>
+   Calendar:<select id="earth_cal">
+    <option value="gregorian">Gregorian</option>
+    <option value="julian">Julian</option>
+   </select>
+   <input type="checkbox" id="auto_cal" checked="checked" /> 
+    Switch automatically according to 
+    <select id="rules">
+    <option value="577736">Catholic</option>
+    <option value="639797" selected="selected">English</option>
+    <option value="700214">Russian</option>
+    </select> conversion date
+
+ </fieldset>
+  <p></p>
+  <fieldset>
+   <legend>Cindu</legend>
+  <input type="button" id="cindu_back" value="←">
+   <select id="cindu_era">
+    <option value="pv">p.v.</option>
+    <option value="pm">p.m.</option>
+   </select>
+   <input id="cindu_year" type="text" name="cindu_year" size="4">
+   <select id="cindu_month">
+   </select>
+   <select id="cindu_mday"></select>
+  <input type="button" id="cindu_forward" value="→">
+   (<span id="cindu_wday"></span>)
+   <br/>
+  <select id="cindu_hour"></select>:
+  <select id="cindu_minute"></select>:
+  <select id="cindu_second"></select>
+  <input type="button" id="cindu_noon" value="Noon">
+  <br/>
+ </fieldset>
+  <input type="button" id="now" value="Now">
+ </form>
+  <div id="nojs">You need to enable Javascript for this feature to work.</div>
+  <h2>Instructions</h2>
+  <p>Change any field in either date and instantly see the corresponding date
+  in the other calendar. Use the <b>&lt;-</b> and <b>-&gt;</b> buttons to go
+  backward and forward by days; click <b>Noon</b> to set the time to noon on
+  the given date.</p>
+
+  <p>Changing the date stops the clock; click <b>Now</b> to jump back to
+  the present and start it again.</p>
+
+  <h2>Notes</h2>
+  <p>Current time is based on your computer's clock and is only as accurate as
+  that clock is.  Similarly, the software's idea of <b>Local Time</b> vs
+  <b>UTC</b> (a.k.a. GMT) is based on whatever time zone your PC thinks it's
+  in.</p> 
+
+  <p>Certain aspects of modern rules are applied throughout time, even though
+  this disagrees with historical fact in some cases.  For instance, the Earth
+  year is always considered to start on January 1st. Daylight Saving Time 
+  determination uses the rules currently in place in your locale; for reliable
+  historical results down to the time of day, convert to UTC, which ignores
+  Daylight Saving Time.</p> 
+  
+  <p>Cindu Time is in their analog to GMT, local time at zero degrees
+  longitude.</p> 
+ </body>
+</html>
